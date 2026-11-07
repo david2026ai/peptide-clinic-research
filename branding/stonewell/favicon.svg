@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Stonewell Health">
+  <title>Stonewell Health</title>
+  <!-- Foundation mark — three ascending bars -->
+  <!-- Bar 3: Bottom / widest / ink -->
+  <rect x="2"  y="34" width="44" height="10" rx="5" fill="#15242E"/>
+  <!-- Bar 2: Middle / teal -->
+  <rect x="9"  y="20" width="30" height="10" rx="5" fill="#0E6B6A"/>
+  <!-- Bar 1: Top / teal 55% -->
+  <rect x="18" y="6"  width="12" height="10" rx="5" fill="#0E6B6A" opacity="0.55"/>
+</svg>

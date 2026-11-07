@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 72" width="320" height="72" role="img" aria-label="Stonewell Health">
+  <title>Stonewell Health</title>
+  <desc>Stonewell Health wordmark with Foundation mark — three ascending stone bars in ink and teal</desc>
+
+  <!-- ═══════════════════════════════
+       FOUNDATION MARK
+       Three ascending horizontal bars
+       Bottom: ink (#15242E) — widest
+       Middle: teal (#0E6B6A)
+       Top: teal 55% — narrowest
+  ═══════════════════════════════ -->
+
+  <!-- Bar 3: Bottom / widest / ink -->
+  <rect x="2"  y="50" width="52" height="10" rx="5" fill="#15242E"/>
+
+  <!-- Bar 2: Middle / teal -->
+  <rect x="10" y="33" width="36" height="10" rx="5" fill="#0E6B6A"/>
+
+  <!-- Bar 1: Top / narrowest / teal 55% -->
+  <rect x="20" y="16" width="16" height="10" rx="5" fill="#0E6B6A" opacity="0.55"/>
+
+  <!-- ═══════════════════════════════
+       WORDMARK
+       "STONEWELL" — primary logotype
+       "HEALTH"    — category descriptor
+  ═══════════════════════════════ -->
+
+  <!-- STONEWELL — Cormorant Garamond 500, tracked -->
+  <text
+    x="76" y="44"
+    font-family="'Cormorant Garamond', 'Cormorant', 'Garamond', Georgia, 'Times New Roman', serif"
+    font-size="26"
+    font-weight="500"
+    fill="#15242E"
+    letter-spacing="3"
+  >STONEWELL</text>
+
+  <!-- HEALTH — DM Sans 500, wide tracked, teal -->
+  <text
+    x="77" y="60"
+    font-family="'DM Sans', 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="10"
+    font-weight="500"
+    fill="#0E6B6A"
+    letter-spacing="6"
+  >HEALTH</text>
+
+</svg>
