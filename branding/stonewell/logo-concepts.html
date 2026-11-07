@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stonewell Health — Brand Concepts</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --ink:    #15242E;
+      --teal:   #0E6B6A;
+      --paper:  #F3F6F8;
+      --muted:  #8A9BAA;
+      --white:  #FFFFFF;
+      --border: rgba(21,36,46,0.09);
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: 'DM Sans', system-ui, sans-serif;
+      font-weight: 300;
+      padding: 72px 64px;
+    }
+
+    /* ─── Header ─── */
+    .header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 36px;
+      margin-bottom: 64px;
+    }
+    .header-left {}
+    .eyebrow {
+      font-size: 10px;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--teal);
+      font-weight: 500;
+      margin-bottom: 14px;
+    }
+    .brand-name {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 52px;
+      font-weight: 400;
+      letter-spacing: -0.01em;
+      line-height: 1;
+      color: var(--ink);
+      margin-bottom: 10px;
+    }
+    .brand-tagline {
+      font-size: 14px;
+      color: var(--muted);
+      font-weight: 300;
+      max-width: 440px;
+      line-height: 1.65;
+    }
+    .header-meta {
+      text-align: right;
+    }
+    .meta-line {
+      font-size: 11px;
+      color: var(--muted);
+      line-height: 2;
+    }
+    .meta-line span {
+      color: var(--ink);
+      font-weight: 400;
+    }
+
+    /* ─── Section label ─── */
+    .section-label {
+      font-size: 10px;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--teal);
+      font-weight: 500;
+      margin-bottom: 24px;
+    }
+
+    /* ─── Brief grid ─── */
+    .brief-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      margin-bottom: 72px;
+    }
+    .brief-card {
+      background: var(--white);
+      border-radius: 10px;
+      padding: 28px;
+      border: 1px solid var(--border);
+    }
+    .brief-card h3 {
+      font-size: 10px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--muted);
+      font-weight: 500;
+      margin-bottom: 14px;
+    }
+    .brief-card ul { list-style: none; }
+    .brief-card li {
+      font-size: 13px;
+      line-height: 1.75;
+      color: var(--ink);
+      font-weight: 300;
+      padding-left: 16px;
+      position: relative;
+    }
+    .brief-card li::before {
+      content: '—';
+      position: absolute;
+      left: 0;
+      color: var(--teal);
+      font-weight: 400;
+    }
+
+    /* ─── Color palette ─── */
+    .palette-row {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 72px;
+      align-items: flex-start;
+    }
+    .swatch-group { display: flex; flex-direction: column; gap: 8px; }
+    .swatch {
+      width: 72px;
+      height: 72px;
+      border-radius: 8px;
+    }
+    .swatch-label { font-size: 10px; color: var(--muted); font-weight: 400; letter-spacing: 0.05em; }
+    .swatch-hex { font-size: 12px; color: var(--ink); font-weight: 500; letter-spacing: 0.08em; }
+
+    /* ─── Logo concept cards ─── */
+    .concepts-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      margin-bottom: 72px;
+    }
+    .concept-card {
+      border-radius: 12px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+    }
+    .concept-bg-light {
+      background: var(--paper);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 48px 32px;
+      min-height: 160px;
+    }
+    .concept-bg-dark {
+      background: var(--ink);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 48px 32px;
+      min-height: 160px;
+    }
+    .concept-info {
+      background: var(--white);
+      padding: 20px 24px;
+      border-top: 1px solid var(--border);
+    }
+    .concept-title {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--ink);
+      margin-bottom: 5px;
+    }
+    .concept-desc {
+      font-size: 12px;
+      color: var(--muted);
+      line-height: 1.6;
+      font-weight: 300;
+    }
+    .concept-tag {
+      display: inline-block;
+      margin-top: 10px;
+      background: rgba(14,107,106,0.1);
+      color: var(--teal);
+      font-size: 9px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      padding: 3px 8px;
+      border-radius: 3px;
+      font-weight: 500;
+    }
+
+    /* ─── Avatar marks row ─── */
+    .marks-section { margin-bottom: 72px; }
+    .marks-row {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    .mark-cell { text-align: center; }
+    .avatar-wrap {
+      width: 80px;
+      height: 80px;
+      border-radius: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 10px;
+    }
+    .mark-label {
+      font-size: 10px;
+      color: var(--muted);
+      font-weight: 400;
+      letter-spacing: 0.05em;
+    }
+
+    /* ─── Video ad preview ─── */
+    .video-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin-bottom: 72px;
+    }
+    .video-frame {
+      border-radius: 12px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+    }
+    .video-screen {
+      background: #0d0d0d;
+      aspect-ratio: 16/9;
+      position: relative;
+      display: flex;
+      align-items: flex-end;
+      padding: 20px 24px;
+    }
+    .video-screen.portrait {
+      aspect-ratio: 9/16;
+      max-height: 300px;
+    }
+    .lower-third {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .video-gradient {
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      height: 60%;
+      background: linear-gradient(to top, rgba(0,0,0,0.75), transparent);
+    }
+    .lower-third-content {
+      position: relative;
+      z-index: 1;
+    }
+    .video-brand-name {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 18px;
+      font-weight: 500;
+      color: #ffffff;
+      letter-spacing: 2px;
+    }
+    .video-brand-sub {
+      font-size: 9px;
+      color: var(--teal);
+      letter-spacing: 4px;
+      font-weight: 500;
+      text-transform: uppercase;
+    }
+    .video-info {
+      background: var(--white);
+      padding: 16px 20px;
+      border-top: 1px solid var(--border);
+    }
+    .video-info-title { font-size: 12px; font-weight: 500; color: var(--ink); margin-bottom: 3px; }
+    .video-info-desc { font-size: 11px; color: var(--muted); font-weight: 300; }
+
+    /* ─── Type specimen ─── */
+    .type-card {
+      background: var(--white);
+      border-radius: 12px;
+      padding: 48px;
+      border: 1px solid var(--border);
+      margin-bottom: 72px;
+    }
+    .display-text {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 44px;
+      font-weight: 300;
+      color: var(--ink);
+      line-height: 1.1;
+      margin-bottom: 28px;
+      letter-spacing: -0.01em;
+    }
+    .display-text em {
+      font-style: italic;
+      color: var(--teal);
+    }
+    .body-text {
+      font-size: 15px;
+      font-weight: 300;
+      color: var(--muted);
+      line-height: 1.75;
+      max-width: 580px;
+      margin-bottom: 28px;
+    }
+    .cta-text {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--teal);
+      letter-spacing: 0.08em;
+    }
+
+    /* ─── Divider ─── */
+    .divider {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 72px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ══════════════════════════════════
+       HEADER
+  ══════════════════════════════════ -->
+  <div class="header">
+    <div class="header-left">
+      <div class="eyebrow">Creative Brief — November 2026</div>
+      <div class="brand-name">Stonewell Health</div>
+      <div class="brand-tagline">Premium longevity telehealth for high-performing adults. Paid video-first acquisition on YouTube &amp; Meta. Clinician-guided plans, not vial catalogs.</div>
+    </div>
+    <div class="header-meta">
+      <div class="meta-line">Domain <span>stonewellhealth.com</span></div>
+      <div class="meta-line">Audience <span>42–62, HHI $175K+</span></div>
+      <div class="meta-line">Channel <span>YouTube TrueView + Meta Video</span></div>
+      <div class="meta-line">Status <span>Pre-launch / LegitScript pending</span></div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════
+       CREATIVE BRIEF
+  ══════════════════════════════════ -->
+  <div class="section-label">Creative Brief</div>
+  <div class="brief-grid">
+    <div class="brief-card">
+      <h3>Target Audience</h3>
+      <ul>
+        <li>US adults 42–62, paying cash</li>
+        <li>HHI $175K+ — executives, founders, physicians</li>
+        <li>Already buy: wearables, nutrition coaches, sleep labs</li>
+        <li>Pain: reactive medicine doesn't optimize</li>
+        <li>Reads: Attia, Huberman, Rhonda Patrick</li>
+        <li>Media: YouTube + Meta paid only. No organic.</li>
+      </ul>
+    </div>
+    <div class="brief-card">
+      <h3>Brand Territory</h3>
+      <ul>
+        <li>Permanence over trend</li>
+        <li>Evidence over hype</li>
+        <li>Plan over catalog</li>
+        <li>Clinician-guided, not DIY supplements</li>
+        <li>Investment-grade health thinking</li>
+        <li>Straight answers — no AI wellness theater</li>
+      </ul>
+    </div>
+    <div class="brief-card">
+      <h3>Hard No's</h3>
+      <ul>
+        <li>Biohacking aesthetics (neon, circuit motifs)</li>
+        <li>Purple-indigo AI default palette</li>
+        <li>Cream + terracotta wellness cliché</li>
+        <li>Anti-aging / reverse aging claims</li>
+        <li>Compound names in ads (NAD+, peptides)</li>
+        <li>Before/after photos or testimonial results</li>
+      </ul>
+    </div>
+    <div class="brief-card">
+      <h3>Paid Video Hooks (Phase 1)</h3>
+      <ul>
+        <li>"Most executives optimize everything except their biology"</li>
+        <li>"At 48 I had more money than energy"</li>
+        <li>"Your labs say you're fine. We read them differently."</li>
+        <li>"If you're serious about the next 30 years…"</li>
+        <li>No drug names. No outcome claims. Service-led.</li>
+      </ul>
+    </div>
+    <div class="brief-card">
+      <h3>Offer Architecture</h3>
+      <ul>
+        <li>Care evaluation + annual membership — launch offer</li>
+        <li>Labs as separate line items ("decision receipt")</li>
+        <li>12-month clinician plan — the core deliverable</li>
+        <li>Prescriptions only if clinically appropriate</li>
+        <li>Price range: $229–$349/mo (cost floor: ~$135)</li>
+      </ul>
+    </div>
+    <div class="brief-card">
+      <h3>LegitScript Path</h3>
+      <ul>
+        <li>Apply LS Healthcare Cert per domain → ~4 wks</li>
+        <li>Phase 1: service-level ads (no cert needed)</li>
+        <li>Phase 2: Meta Rx auth + Google Healthcare Cert</li>
+        <li>Unlocks: TRT/hormone service ads, drug-adjacent KWs</li>
+        <li>BLOCKED always: patient lists, health lookalikes</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════
+       COLOR PALETTE
+  ══════════════════════════════════ -->
+  <div class="section-label">Color System</div>
+  <div class="palette-row" style="margin-bottom: 72px;">
+    <div class="swatch-group">
+      <div class="swatch" style="background:#15242E;"></div>
+      <div class="swatch-label">Ink</div>
+      <div class="swatch-hex">#15242E</div>
+    </div>
+    <div class="swatch-group">
+      <div class="swatch" style="background:#0E6B6A;"></div>
+      <div class="swatch-label">Teal</div>
+      <div class="swatch-hex">#0E6B6A</div>
+    </div>
+    <div class="swatch-group">
+      <div class="swatch" style="background:#F3F6F8; border:1px solid rgba(21,36,46,0.12);"></div>
+      <div class="swatch-label">Paper</div>
+      <div class="swatch-hex">#F3F6F8</div>
+    </div>
+    <div class="swatch-group">
+      <div class="swatch" style="background:#8A9BAA;"></div>
+      <div class="swatch-label">Muted</div>
+      <div class="swatch-hex">#8A9BAA</div>
+    </div>
+    <div class="swatch-group">
+      <div class="swatch" style="background:#FFFFFF; border:1px solid rgba(21,36,46,0.12);"></div>
+      <div class="swatch-label">White</div>
+      <div class="swatch-hex">#FFFFFF</div>
+    </div>
+    <div class="swatch-group" style="margin-left:32px;">
+      <div style="background:#15242E; border-radius:8px; padding:16px 20px;">
+        <div style="font-family:'Cormorant Garamond',Georgia,serif; font-size:20px; font-weight:500; color:#F3F6F8; letter-spacing:2px;">STONEWELL</div>
+        <div style="font-family:'DM Sans',sans-serif; font-size:9px; font-weight:500; color:#0E6B6A; letter-spacing:5px; margin-top:4px;">HEALTH</div>
+      </div>
+      <div class="swatch-label" style="margin-top:8px;">Dark lockup preview</div>
+    </div>
+    <div class="swatch-group">
+      <div style="background:#F3F6F8; border-radius:8px; padding:16px 20px; border:1px solid rgba(21,36,46,0.12);">
+        <div style="font-family:'Cormorant Garamond',Georgia,serif; font-size:20px; font-weight:500; color:#15242E; letter-spacing:2px;">STONEWELL</div>
+        <div style="font-family:'DM Sans',sans-serif; font-size:9px; font-weight:500; color:#0E6B6A; letter-spacing:5px; margin-top:4px;">HEALTH</div>
+      </div>
+      <div class="swatch-label" style="margin-top:8px;">Light lockup preview</div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════
+       LOGO CONCEPTS
+  ══════════════════════════════════ -->
+  <div class="section-label">Logo Concepts — Light &amp; Dark</div>
+  <div class="concepts-grid">
+
+    <!-- ── CONCEPT A: Foundation ── -->
+    <div class="concept-card">
+      <div class="concept-bg-light">
+        <svg width="220" height="56" viewBox="0 0 220 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <!-- Foundation mark: 3 ascending bars -->
+          <rect x="14" y="11" width="20" height="8" rx="4" fill="#0E6B6A" opacity="0.55"/>
+          <rect x="8"  y="24" width="32" height="8" rx="4" fill="#0E6B6A"/>
+          <rect x="2"  y="37" width="44" height="8" rx="4" fill="#15242E"/>
+          <!-- Wordmark -->
+          <text x="60" y="32" font-family="'Cormorant Garamond', Georgia, serif" font-size="21" font-weight="500" fill="#15242E" letter-spacing="2.5">STONEWELL</text>
+          <text x="61" y="46" font-family="'DM Sans', Helvetica, Arial, sans-serif" font-size="9"  font-weight="500" fill="#0E6B6A"  letter-spacing="5">HEALTH</text>
+        </svg>
+      </div>
+      <div class="concept-bg-dark">
+        <svg width="220" height="56" viewBox="0 0 220 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="14" y="11" width="20" height="8" rx="4" fill="#0E6B6A" opacity="0.5"/>
+          <rect x="8"  y="24" width="32" height="8" rx="4" fill="#0E6B6A"/>
+          <rect x="2"  y="37" width="44" height="8" rx="4" fill="#F3F6F8"/>
+          <text x="60" y="32" font-family="'Cormorant Garamond', Georgia, serif" font-size="21" font-weight="500" fill="#F3F6F8" letter-spacing="2.5">STONEWELL</text>
+          <text x="61" y="46" font-family="'DM Sans', Helvetica, Arial, sans-serif" font-size="9"  font-weight="500" fill="#0E6B6A"  letter-spacing="5">HEALTH</text>
+        </svg>
+      </div>
+      <div class="concept-info">
+        <div class="concept-title">A — The Foundation</div>
+        <div class="concept-desc">Three ascending stone bars. Reads as permanence, measurement, and progress. Strongest at all sizes — works at 24px favicon and full end card.</div>
+        <div class="concept-tag">Recommended for video lower-thirds</div>
+      </div>
+    </div>
+
+    <!-- ── CONCEPT B: Stone Arch ── -->
+    <div class="concept-card">
+      <div class="concept-bg-light">
+        <svg width="220" height="56" viewBox="0 0 220 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <!-- Arch mark: two pillars + arch -->
+          <rect x="0"  y="24" width="8" height="32" rx="2" fill="#15242E"/>
+          <rect x="40" y="24" width="8" height="32" rx="2" fill="#15242E"/>
+          <path d="M4,28 C4,4 44,4 44,28" fill="none" stroke="#0E6B6A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+          <!-- Wordmark -->
+          <text x="62" y="32" font-family="'Cormorant Garamond', Georgia, serif" font-size="21" font-weight="500" fill="#15242E" letter-spacing="2.5">STONEWELL</text>
+          <text x="63" y="46" font-family="'DM Sans', Helvetica, Arial, sans-serif" font-size="9"  font-weight="500" fill="#0E6B6A"  letter-spacing="5">HEALTH</text>
+        </svg>
+      </div>
+      <div class="concept-bg-dark">
+        <svg width="220" height="56" viewBox="0 0 220 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="0"  y="24" width="8" height="32" rx="2" fill="#F3F6F8"/>
+          <rect x="40" y="24" width="8" height="32" rx="2" fill="#F3F6F8"/>
+          <path d="M4,28 C4,4 44,4 44,28" fill="none" stroke="#0E6B6A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+          <text x="62" y="32" font-family="'Cormorant Garamond', Georgia, serif" font-size="21" font-weight="500" fill="#F3F6F8" letter-spacing="2.5">STONEWELL</text>
+          <text x="63" y="46" font-family="'DM Sans', Helvetica, Arial, sans-serif" font-size="9"  font-weight="500" fill="#0E6B6A"  letter-spacing="5">HEALTH</text>
+        </svg>
+      </div>
+      <div class="concept-info">
+        <div class="concept-title">B — The Arch</div>
+        <div class="concept-desc">Stone arch with two pillars and a teal curve. Suggests permanence, gateway, institution. The most literal read of "stone." Classic and authoritative.</div>
+        <div class="concept-tag">Best for VSL end cards + landing hero</div>
+      </div>
+    </div>
+
+    <!-- ── CONCEPT C: Monogram ── -->
+    <div class="concept-card">
+      <div class="concept-bg-light">
+        <svg width="220" height="56" viewBox="0 0 220 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <!-- SW monogram: filled circle -->
+          <circle cx="24" cy="28" r="22" fill="#15242E"/>
+          <circle cx="24" cy="28" r="22" fill="none" stroke="#0E6B6A" stroke-width="2.5" stroke-dasharray="34 104" stroke-dashoffset="-22"/>
+          <text x="24" y="34" font-family="'Cormorant Garamond', Georgia, serif" font-size="15" font-weight="600" fill="#F3F6F8" text-anchor="middle" letter-spacing="1.5">SW</text>
+          <!-- Wordmark -->
+          <text x="60" y="32" font-family="'Cormorant Garamond', Georgia, serif" font-size="21" font-weight="500" fill="#15242E" letter-spacing="2.5">STONEWELL</text>
+          <text x="61" y="46" font-family="'DM Sans', Helvetica, Arial, sans-serif" font-size="9"  font-weight="500" fill="#0E6B6A"  letter-spacing="5">HEALTH</text>
+        </svg>
+      </div>
+      <div class="concept-bg-dark">
+        <svg width="220" height="56" viewBox="0 0 220 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="24" cy="28" r="22" fill="#0E6B6A" opacity="0.18"/>
+          <circle cx="24" cy="28" r="22" fill="none" stroke="#0E6B6A" stroke-width="2" stroke-dasharray="34 104" stroke-dashoffset="-22"/>
+          <circle cx="24" cy="28" r="22" fill="none" stroke="#F3F6F8" stroke-width="1" opacity="0.2"/>
+          <text x="24" y="34" font-family="'Cormorant Garamond', Georgia, serif" font-size="15" font-weight="600" fill="#F3F6F8" text-anchor="middle" letter-spacing="1.5">SW</text>
+          <text x="60" y="32" font-family="'Cormorant Garamond', Georgia, serif" font-size="21" font-weight="500" fill="#F3F6F8" letter-spacing="2.5">STONEWELL</text>
+          <text x="61" y="46" font-family="'DM Sans', Helvetica, Arial, sans-serif" font-size="9"  font-weight="500" fill="#0E6B6A"  letter-spacing="5">HEALTH</text>
+        </svg>
+      </div>
+      <div class="concept-info">
+        <div class="concept-title">C — The Monogram</div>
+        <div class="concept-desc">SW lettermark in a segmented circle. Premium, works at any avatar size. Best for profile photos, watermarks, and video content branding overlays.</div>
+        <div class="concept-tag">Best for social profiles + watermarks</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ══════════════════════════════════
+       AVATAR / FAVICON MARKS
+  ══════════════════════════════════ -->
+  <div class="marks-section">
+    <div class="section-label">Mark Only — Avatar, Favicon &amp; Watermark</div>
+    <div class="marks-row">
+
+      <!-- A on Ink -->
+      <div class="mark-cell">
+        <div class="avatar-wrap" style="background:#15242E;">
+          <svg width="38" height="38" viewBox="0 0 48 48" fill="none">
+            <rect x="14" y="8"  width="20" height="8" rx="4" fill="#0E6B6A" opacity="0.55"/>
+            <rect x="8"  y="21" width="32" height="8" rx="4" fill="#0E6B6A"/>
+            <rect x="2"  y="34" width="44" height="8" rx="4" fill="#F3F6F8"/>
+          </svg>
+        </div>
+        <div class="mark-label">A — Ink</div>
+      </div>
+
+      <!-- A on Teal -->
+      <div class="mark-cell">
+        <div class="avatar-wrap" style="background:#0E6B6A;">
+          <svg width="38" height="38" viewBox="0 0 48 48" fill="none">
+            <rect x="14" y="8"  width="20" height="8" rx="4" fill="#F3F6F8" opacity="0.5"/>
+            <rect x="8"  y="21" width="32" height="8" rx="4" fill="#F3F6F8" opacity="0.7"/>
+            <rect x="2"  y="34" width="44" height="8" rx="4" fill="#F3F6F8"/>
+          </svg>
+        </div>
+        <div class="mark-label">A — Teal</div>
+      </div>
+
+      <!-- A on Paper -->
+      <div class="mark-cell">
+        <div class="avatar-wrap" style="background:#F3F6F8; border:1px solid rgba(21,36,46,0.1);">
+          <svg width="38" height="38" viewBox="0 0 48 48" fill="none">
+            <rect x="14" y="8"  width="20" height="8" rx="4" fill="#0E6B6A" opacity="0.55"/>
+            <rect x="8"  y="21" width="32" height="8" rx="4" fill="#0E6B6A"/>
+            <rect x="2"  y="34" width="44" height="8" rx="4" fill="#15242E"/>
+          </svg>
+        </div>
+        <div class="mark-label">A — Paper</div>
+      </div>
+
+      <div style="width:1px; background:var(--border); margin:0 8px;"></div>
+
+      <!-- B on Ink -->
+      <div class="mark-cell">
+        <div class="avatar-wrap" style="background:#15242E;">
+          <svg width="34" height="38" viewBox="0 0 48 56" fill="none">
+            <rect x="0"  y="20" width="8" height="36" rx="2" fill="#F3F6F8"/>
+            <rect x="40" y="20" width="8" height="36" rx="2" fill="#F3F6F8"/>
+            <path d="M4,24 C4,2 44,2 44,24" fill="none" stroke="#0E6B6A" stroke-width="4.5" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div class="mark-label">B — Ink</div>
+      </div>
+
+      <!-- B on Paper -->
+      <div class="mark-cell">
+        <div class="avatar-wrap" style="background:#F3F6F8; border:1px solid rgba(21,36,46,0.1);">
+          <svg width="34" height="38" viewBox="0 0 48 56" fill="none">
+            <rect x="0"  y="20" width="8" height="36" rx="2" fill="#15242E"/>
+            <rect x="40" y="20" width="8" height="36" rx="2" fill="#15242E"/>
+            <path d="M4,24 C4,2 44,2 44,24" fill="none" stroke="#0E6B6A" stroke-width="4.5" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div class="mark-label">B — Paper</div>
+      </div>
+
+      <div style="width:1px; background:var(--border); margin:0 8px;"></div>
+
+      <!-- C on Ink -->
+      <div class="mark-cell">
+        <div class="avatar-wrap" style="background:#15242E;">
+          <svg width="38" height="38" viewBox="0 0 48 48" fill="none">
+            <circle cx="24" cy="24" r="20" fill="none" stroke="#F3F6F8" stroke-width="1" opacity="0.25"/>
+            <circle cx="24" cy="24" r="20" fill="none" stroke="#0E6B6A" stroke-width="2.5" stroke-dasharray="30 95" stroke-dashoffset="-20"/>
+            <text x="24" y="29" font-family="Georgia, serif" font-size="13" font-weight="600" fill="#F3F6F8" text-anchor="middle" letter-spacing="1">SW</text>
+          </svg>
+        </div>
+        <div class="mark-label">C — Ink</div>
+      </div>
+
+      <!-- C on Teal (filled) -->
+      <div class="mark-cell">
+        <div class="avatar-wrap" style="background:#0E6B6A;">
+          <svg width="38" height="38" viewBox="0 0 48 48" fill="none">
+            <circle cx="24" cy="24" r="20" fill="none" stroke="#F3F6F8" stroke-width="1.5" opacity="0.4"/>
+            <text x="24" y="29" font-family="Georgia, serif" font-size="13" font-weight="600" fill="#F3F6F8" text-anchor="middle" letter-spacing="1">SW</text>
+          </svg>
+        </div>
+        <div class="mark-label">C — Teal</div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════
+       VIDEO AD APPLICATION
+  ══════════════════════════════════ -->
+  <div class="section-label">Paid Video Application</div>
+  <div class="video-row">
+
+    <!-- YouTube 16:9 -->
+    <div class="video-frame">
+      <div class="video-screen">
+        <div class="video-gradient"></div>
+        <!-- Simulated background: dark executive imagery -->
+        <div style="position:absolute;top:0;left:0;right:0;bottom:0;background:linear-gradient(135deg,#0d1a22 0%,#1a3040 50%,#0d1a22 100%);"></div>
+        <div style="position:absolute;top:0;left:0;right:0;bottom:0;opacity:0.08;background:repeating-linear-gradient(90deg,transparent,transparent 40px,rgba(14,107,106,0.3) 40px,rgba(14,107,106,0.3) 41px);"></div>
+        <div class="video-gradient"></div>
+        <div class="lower-third-content">
+          <!-- Foundation mark + wordmark lockup -->
+          <div style="display:flex; align-items:center; gap:10px; margin-bottom:4px;">
+            <svg width="22" height="20" viewBox="0 0 48 48" fill="none">
+              <rect x="14" y="8"  width="20" height="8" rx="4" fill="#0E6B6A" opacity="0.6"/>
+              <rect x="8"  y="21" width="32" height="8" rx="4" fill="#0E6B6A"/>
+              <rect x="2"  y="34" width="44" height="8" rx="4" fill="#F3F6F8"/>
+            </svg>
+            <div>
+              <div class="video-brand-name">STONEWELL</div>
+              <div class="video-brand-sub">HEALTH</div>
+            </div>
+          </div>
+          <div style="font-size:10px; color:rgba(255,255,255,0.45); font-weight:300; letter-spacing:0.05em; font-family:'DM Sans',sans-serif;">stonewellhealth.com · Start your evaluation</div>
+        </div>
+      </div>
+      <div class="video-info">
+        <div class="video-info-title">YouTube TrueView — Lower Third</div>
+        <div class="video-info-desc">Concept A mark + wordmark. Paper + teal on dark. Skip-proof brand recall in 5 seconds.</div>
+      </div>
+    </div>
+
+    <!-- Meta 9:16 end card -->
+    <div class="video-frame">
+      <div class="video-screen" style="aspect-ratio:9/16; min-height:280px; align-items:center; justify-content:center; flex-direction:column;">
+        <div style="position:absolute;top:0;left:0;right:0;bottom:0;background:var(--ink);"></div>
+        <div style="position:relative; z-index:1; text-align:center; display:flex; flex-direction:column; align-items:center; gap:20px;">
+          <!-- Arch mark centered large -->
+          <svg width="64" height="60" viewBox="0 0 48 56" fill="none">
+            <rect x="0"  y="20" width="8" height="36" rx="2" fill="#F3F6F8"/>
+            <rect x="40" y="20" width="8" height="36" rx="2" fill="#F3F6F8"/>
+            <path d="M4,24 C4,2 44,2 44,24" fill="none" stroke="#0E6B6A" stroke-width="4" stroke-linecap="round"/>
+          </svg>
+          <!-- Wordmark stacked -->
+          <div>
+            <div style="font-family:'Cormorant Garamond',Georgia,serif; font-size:22px; font-weight:400; color:#F3F6F8; letter-spacing:4px;">STONEWELL</div>
+            <div style="font-family:'DM Sans',sans-serif; font-size:9px; font-weight:500; color:#0E6B6A; letter-spacing:6px; margin-top:5px;">HEALTH</div>
+          </div>
+          <!-- CTA line -->
+          <div style="border-top:1px solid rgba(255,255,255,0.12); padding-top:16px; width:100%; text-align:center;">
+            <div style="font-family:'DM Sans',sans-serif; font-size:10px; font-weight:400; color:rgba(255,255,255,0.4); letter-spacing:0.08em;">stonewellhealth.com</div>
+          </div>
+        </div>
+      </div>
+      <div class="video-info">
+        <div class="video-info-title">Meta 9:16 — VSL End Card</div>
+        <div class="video-info-desc">Concept B arch mark centered. Full-brand lockup on deep ink. Used for Meta Reels and YouTube Shorts end cards.</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ══════════════════════════════════
+       TYPOGRAPHY SPECIMEN
+  ══════════════════════════════════ -->
+  <div class="section-label">Typography &amp; Voice</div>
+  <div class="type-card">
+    <div class="display-text">Your longevity plan,<br/>backed by <em>a clinician.</em></div>
+    <div class="body-text">Most healthcare was built to treat disease. Stonewell was built for something harder — helping high-performing people stay ahead of it. A clinician reviews your labs, writes your 12-month plan, and stays accountable to it. No supplement catalog. No vial menus. A plan that explains what's happening and what to do about it.</div>
+    <div class="cta-text">Start your evaluation →</div>
+  </div>
+
+  <!-- ══════════════════════════════════
+       TYPOGRAPHY SCALE
+  ══════════════════════════════════ -->
+  <div class="brief-grid" style="margin-bottom:0;">
+    <div class="brief-card">
+      <h3>Display — Cormorant Garamond</h3>
+      <div style="font-family:'Cormorant Garamond',Georgia,serif; font-size:32px; font-weight:300; color:var(--ink); line-height:1.1; margin-bottom:8px;">Headlines</div>
+      <div style="font-family:'Cormorant Garamond',Georgia,serif; font-size:32px; font-weight:300; font-style:italic; color:var(--teal); line-height:1.1;">Italic accent</div>
+      <div style="font-size:11px; color:var(--muted); margin-top:12px; font-weight:400;">300 / 400 / 500 weights · Used for hero headlines, ad titles, VSL title cards</div>
+    </div>
+    <div class="brief-card">
+      <h3>Body — DM Sans</h3>
+      <div style="font-family:'DM Sans',sans-serif; font-size:15px; font-weight:300; color:var(--ink); line-height:1.7; margin-bottom:8px;">Body copy, explainer text, and landing page paragraphs use DM Sans Light (300) for a clean, clinical-but-approachable feel.</div>
+      <div style="font-family:'DM Sans',sans-serif; font-size:11px; font-weight:500; color:var(--teal); letter-spacing:0.15em; text-transform:uppercase;">LABEL CAPS FOR UI + SUBHEADS</div>
+    </div>
+    <div class="brief-card">
+      <h3>Wordmark — Cormorant 500</h3>
+      <div style="margin-bottom:12px;">
+        <div style="font-family:'Cormorant Garamond',Georgia,serif; font-size:18px; font-weight:500; color:var(--ink); letter-spacing:3px;">STONEWELL</div>
+        <div style="font-family:'DM Sans',sans-serif; font-size:8px; font-weight:500; color:var(--teal); letter-spacing:5px; margin-top:3px;">HEALTH</div>
+      </div>
+      <div style="font-size:11px; color:var(--muted); font-weight:400;">Cormorant 500 all-caps tracked 3px · "HEALTH" in DM Sans 500 tracked 5px · Never stack differently</div>
+    </div>
+  </div>
+
+</body>
+</html>
