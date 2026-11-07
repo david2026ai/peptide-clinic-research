@@ -4,6 +4,7 @@ Prepared as PROPOSED INITIAL CONTENTS Nov 7, 2026 PST; importer must reconcile w
 
 ## Confirmed decisions
 - Backup destination: this existing dedicated Cursor Origin repository, not GitHub/unrelated SYM projects.
+- **Separate project track (2026-11-07, America/New_York):** Peptide clinic is its own dedicated project (Origin `david-dubov/peptide-clinic` + clinic-only Cursor Project). It is **not** part of the Harvard Final OPM / Harvard learnings deck work, and must not be planned, shipped, or scoped inside that track. Do not mix clinic implementation, branding, vendor picks, or clinical decisions into Harvard deliverables or vice versa. Reuse of general strategy *frameworks* only when explicitly asked—never co-brand, co-deadline, or shared milestone with the final project.
 - Research/planning only. No final brand, niche, clinical partner, pharmacy or state footprint selected.
 - Existing SYM repos/shared skills remain read-only. No account widening, purchases, publication or implementation authorized by these research tasks.
 - User wants ongoing alignment via shared project context; routine configuration is verified below; execution is not yet observed.
@@ -24,7 +25,7 @@ Prepared as PROPOSED INITIAL CONTENTS Nov 7, 2026 PST; importer must reconcile w
 - Migration economics and planned Us scorecard values are assumptions/targets, not measured performance.
 
 ## Current open work
-Review the completed visible-chat export and redaction/coverage notes; verify additive backup commit; select naming territory then perform registrar/counsel checks; choose clinical/niche/state design only after partner/legal/unit-economics gates; obtain MyDose contract/export/price-control answers. No implementation yet.
+Keep clinic work on the clinic-only track (repo + Cursor Project); do not route it through Harvard Final OPM or the Longevity Demand OS Project store as owner. Review the completed visible-chat export and redaction/coverage notes; verify additive backup commit; select naming territory then perform registrar/counsel checks; choose clinical/niche/state design only after partner/legal/unit-economics gates; obtain MyDose contract/export/price-control answers. No implementation yet.
 
 ## Snapshot and evidence
 - Read backups/2026-11-07/START-HERE.md and handoff.md.
