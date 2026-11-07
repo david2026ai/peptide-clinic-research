@@ -24,6 +24,10 @@ The validated 21-file archive was unpacked at this repository root on November 6
 | Medical claims, evidence, drug status, testimonials and truthful prices | `skills/clinic-clinical-claims-filter/SKILL.md` |
 | Facebook/Instagram creative, destination, audience and measurement review | `skills/clinic-meta-filter/SKILL.md` |
 | Google Search/Display/Demand Gen/paid YouTube; separate organic monetization | `skills/clinic-google-youtube-filter/SKILL.md` |
+| LegitScript + Meta/Google ads go/no-go before paid acquisition | `skills/clinic-legitscript-ads-gate/SKILL.md` |
+| Healthcare creative briefs, hooks, Mode A/B/C/D variants | `skills/clinic-creative-healthcare/SKILL.md` |
+| Audience targeting, geo/age, sensitive-health measurement matrix | `skills/clinic-audience-targeting/SKILL.md` |
+| Industry offers/pricing/competitors/LS ads deep dive (2026-11-07) | `docs/research/industry-ads-legitscript-deep-dive.md` |
 
 `exports/` contains concise Markdown knowledge exports of the two delivered strategy Pages, with exact links, key economics and caveats. These are historical project context, not reusable mandates. The recommendation to explore menopause first does **not** fix the business model for every future clinic. The pack supports TRT, menopause, obesity care and peptide education/review; legal/evidence/platform eligibility is evaluated separately for each.
 
