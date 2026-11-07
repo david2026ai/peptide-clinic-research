@@ -1,0 +1,59 @@
+slug: recovery-performance
+venture: MyDose-backed clinic (unnamed) — recovery & performance line
+status: hypothesis
+as_of: 2026-11-07
+paying_customer: Active US adults ~30-55 (skews male) with training/soft-tissue recovery goals; many currently buy research-use-only (RUO) vials
+our_offer: Clinician-reviewed, single-ingredient compounded BPC-157, TB-500 or MOTS-c from a 503A pharmacy, with plain-language protocol guidance
+customer_needs:
+  - {id: N1, need: Legal, prescribed access after the Oct 28 2026 HHS enforcement-discretion policy, type: obvious}
+  - {id: N2, need: Monthly cost not far above $30-80 grey-market vials, type: obvious}
+  - {id: N3, need: Proof the vial is what it says (503A source, quality), type: obvious}
+  - {id: N4, need: "Understand why the 'Wolverine' blend is not offered (policy covers one API per product)", type: latent}
+  - {id: N5, need: Help with reconstitution, injection and what to expect, type: latent}
+  - {id: N6, need: Fast start without feeling judged, type: latent}
+  - {id: N7, need: Confidence supply will not vanish if the interim policy is revisited, type: non_obvious}
+  - {id: N8, need: Tested athletes warned that BPC-157/TB-500 are prohibited in sport, type: non_obvious}
+industry_value_adds:
+  - {id: V1, value_add: LegitScript-certified domain (ad + payment access), customer_valued: false}
+  - {id: V2, value_add: Named 503A pharmacy and clinician review, customer_valued: true}
+  - {id: V3, value_add: Follow-up and side-effect check-ins, customer_valued: true}
+  - {id: V4, value_add: Published all-in pricing, customer_valued: true}
+face_competitors:
+  - name: RUO grey-market vendors
+    why_face: What most of this buyer pool actually purchases today
+    business_model: Sell vials "for research use only"; no prescriber
+    sells_to: Self-directed consumers
+    trust_scars: [no oversight, counterfeit/purity scares, largest vendor shut down Mar 2026]
+    where_they_score_4_5: [A2, A4, A6]
+  - name: Telehealth peptide clinics (e.g. Precision Peptide Co., in-person clinics)
+    why_face: Same prescribed SKU class, now adding the six covered peptides
+    business_model: Consult + compounded Rx, typically $200-300/mo; in-person protocols ~$445/cycle
+    sells_to: Same buyer
+    trust_scars: [opaque pricing until after consult (hypothesis)]
+    where_they_score_4_5: [A1]
+attach_partners: [MyDose clinical network and pharmacy, Stripe]
+adjacent: [Hims & Hers (peptide category announced; BPC-157 not yet live), supplement oral BPC-157]
+attributes:
+  - {id: A1, name: Legitimacy & sourcing proof, traces_to: [N1, N3, V2]}
+  - {id: A2, name: All-in monthly price, traces_to: [N2, V4]}
+  - {id: A3, name: Plain-language protocol guidance, traces_to: [N4, N5, N8, V3]}
+  - {id: A4, name: Speed to first shipment, traces_to: [N6]}
+  - {id: A5, name: Supply continuity & regulatory honesty, traces_to: [N7]}
+  - {id: A6, name: Stack / blend availability, traces_to: [N4]}
+scores:
+  us:      {A1: [4, hypothesis], A2: [3, hypothesis], A3: [4, hypothesis], A4: [3, hypothesis], A5: [4, hypothesis], A6: [2, peer_fact]}
+  ruo:     {A1: [1, peer_fact], A2: [5, peer_fact], A3: [1, peer_fact], A4: [5, peer_fact], A5: [1, peer_fact], A6: [5, peer_fact]}
+  clinics: {A1: [4, peer_fact], A2: [3, industry_benchmark], A3: [3, hypothesis], A4: [3, hypothesis], A5: [2, hypothesis], A6: [3, peer_fact]}
+totals: {us: 20, ruo: 18, clinics: 18}
+focus: [A3, A5]
+breaker:
+  tier1: none yet
+  tier2: Guidance content + continuity promise are copyable hygiene; the edge is execution speed in the post-Oct-28 window before Hims ships BPC-157
+give_ups:
+  - {aspect: Blends/stacks (Wolverine, GLOW), why: not_icp, detail: Outside single-API policy scope, reallocate_to: Explaining single-API protocols (A3)}
+  - {aspect: Competing with RUO on price, why: capital_trap, detail: $150 cost floor vs $30-80 vials, reallocate_to: Legitimacy + guidance (A1, A3)}
+  - {aspect: Drug-named Rx ads, why: dilutes_focus, detail: High rejection risk on Google/Meta for unapproved peptides, reallocate_to: Service-level telehealth ads}
+  - {aspect: Non-covered peptides (CJC/Ipa, GHK-Cu inj) on this line, why: not_icp, detail: Not in Appendix A, reallocate_to: Covered three only}
+  - {aspect: Outcome/healing claims, why: dilutes_focus, detail: No approval; FTC/FDA exposure, reallocate_to: Process + safety messaging}
+pricing_research: {ruo_vial: "$30-80", telehealth_program: "$180-600/mo, mid ~$200-300", in_person: "~$445/cycle single, ~$795 stack", mydose_floor: "$145-165/mo"}
+paid_channel_fit: low — unapproved compounded peptides; service-level (no drug name) ads only

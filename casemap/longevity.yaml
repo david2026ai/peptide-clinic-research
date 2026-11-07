@@ -1,0 +1,37 @@
+slug: longevity
+venture: MyDose-backed clinic (unnamed) — longevity line
+status: hypothesis
+as_of: 2026-11-07
+paying_customer: Health-optimizing US adults ~35-60 buying cash longevity care
+our_offer: Clinician-reviewed NAD+, GHK-Cu, sermorelin or tesamorelin programs
+customer_needs:
+  - {id: N1, need: Monthly price in line with telehealth norms ($105-350), type: obvious}
+  - {id: N2, need: Format choice (injection, nasal, oral), type: obvious}
+  - {id: N3, need: A coherent plan instead of a menu of products, type: latent}
+  - {id: N4, need: Some way to see whether it is working (labs), type: latent}
+  - {id: N5, need: Honest evidence framing (skeptical buyer), type: non_obvious}
+  - {id: N6, need: Easy pause/cancel (subscription fatigue), type: latent}
+face_competitors:
+  - {name: AgelessRx, business_model: "Longevity telehealth catalog; NAD+ injection from ~$235/mo (Mar 2026)", where_they_score_4_5: [A4, A6]}
+  - {name: Budget NAD+ telehealth (e.g. System Labs), business_model: "NAD+ injection ~$149/mo, nasal ~$119", where_they_score_4_5: [A1, A4]}
+adjacent: [Hims & Hers (sermorelin, glutathione, NAD+ promised by year-end), IV drip bars]
+attributes:
+  - {id: A1, name: Monthly price, traces_to: [N1]}
+  - {id: A2, name: Coherent plan vs catalog, traces_to: [N3]}
+  - {id: A3, name: Progress measurement, traces_to: [N4]}
+  - {id: A4, name: Format choice, traces_to: [N2]}
+  - {id: A5, name: Evidence honesty, traces_to: [N5]}
+  - {id: A6, name: Brand authority, traces_to: [N5]}
+scores:
+  us:       {A1: [2, peer_fact], A2: [4, hypothesis], A3: [3, hypothesis], A4: [2, peer_fact], A5: [4, hypothesis], A6: [1, peer_fact]}
+  agelessrx:{A1: [3, peer_fact], A2: [2, hypothesis], A3: [3, hypothesis], A4: [5, peer_fact], A5: [3, hypothesis], A6: [4, industry_benchmark]}
+  budget:   {A1: [5, peer_fact], A2: [2, hypothesis], A3: [2, hypothesis], A4: [4, peer_fact], A5: [2, hypothesis], A6: [2, hypothesis]}
+totals: {us: 16, agelessrx: 20, budget: 17}
+focus: [A2, A5]
+breaker: {tier1: none, tier2: Plan-first framing is copyable}
+give_ups:
+  - {aspect: NAD+ at MyDose suggested $229 (month-2 cost $230), why: capital_trap}
+  - {aspect: Catalog breadth, why: lose_to_specialist}
+  - {aspect: Anti-aging outcome claims, why: dilutes_focus}
+pricing_research: {agelessrx_nad: "~$235/mo", budget_nad: "$149/mo injection", telehealth_range: "$105-350/mo", mydose_floor: "$135-230/mo"}
+paid_channel_fit: low-medium — compounded, unapproved for longevity uses

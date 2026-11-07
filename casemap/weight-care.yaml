@@ -1,0 +1,43 @@
+slug: weight-care
+venture: MyDose-backed clinic (unnamed) — weight care line
+status: hypothesis
+as_of: 2026-11-07
+paying_customer: US adults paying cash for clinician-managed GLP-1 weight care
+our_offer: Compounded semaglutide or tirzepatide (+B12) via MyDose, with itemized costs
+customer_needs:
+  - {id: N1, need: Affordable total monthly cost, type: obvious}
+  - {id: N2, need: Clear brand vs compounded safety picture, type: obvious}
+  - {id: N3, need: Fast eligibility decision, type: obvious}
+  - {id: N4, need: Side-effect and dose-step support, type: obvious}
+  - {id: N5, need: Price does not jump as the dose titrates up, type: latent}
+  - {id: N6, need: Plan for maintenance or stopping, type: latent}
+  - {id: N7, need: Provider will not vanish (FDA letters; Hims exited compounded GLP-1 in 2026), type: non_obvious}
+  - {id: N8, need: No surprise membership-plus-medication split, type: latent}
+industry_value_adds:
+  - {id: V1, value_add: Brand GLP-1 option alongside compounded, customer_valued: true}
+  - {id: V2, value_add: Membership with refunds if ineligible, customer_valued: true}
+face_competitors:
+  - {name: Ro Body, business_model: "$39 first month then $149/mo membership + meds; brand GLP-1 at manufacturer cash prices", where_they_score_4_5: [A3, A4, A5, A6]}
+  - {name: Mochi Health, business_model: "$79/mo membership ($49 annual) + compounded or brand meds", where_they_score_4_5: [A1, A3, A4]}
+adjacent: [Hims & Hers (exited compounded GLP-1), AgelessRx]
+attributes:
+  - {id: A1, name: Month-1 all-in price, traces_to: [N1, N8]}
+  - {id: A2, name: Price predictability through titration, traces_to: [N5]}
+  - {id: A3, name: Medication legitimacy / brand option, traces_to: [N2, V1]}
+  - {id: A4, name: Side-effect & dose support, traces_to: [N4, N6]}
+  - {id: A5, name: Continuity / regulatory resilience, traces_to: [N7]}
+  - {id: A6, name: Brand recognition & trust, traces_to: [N2, N7]}
+scores:
+  us:    {A1: [4, hypothesis], A2: [4, hypothesis], A3: [2, peer_fact], A4: [3, hypothesis], A5: [2, hypothesis], A6: [1, peer_fact]}
+  ro:    {A1: [3, peer_fact], A2: [3, peer_fact], A3: [5, peer_fact], A4: [4, peer_fact], A5: [5, hypothesis], A6: [5, peer_fact]}
+  mochi: {A1: [4, peer_fact], A2: [3, peer_fact], A3: [4, peer_fact], A4: [4, peer_fact], A5: [3, hypothesis], A6: [3, hypothesis]}
+totals: {us: 16, ro: 25, mochi: 21}
+focus: [A2]
+breaker: {tier1: none, tier2: Flat-price titration program is copyable}
+give_ups:
+  - {aspect: Launching weight care before a brand GLP-1 path exists, why: lose_to_specialist}
+  - {aspect: Compounded GLP-1 hero ads, why: capital_trap, detail: FDA warning letters + state AG pressure on Meta}
+  - {aspect: Price war with Mochi, why: capital_trap}
+  - {aspect: Microdosing/sublingual variants, why: dilutes_focus}
+pricing_research: {ro: "$39 then $149/mo + meds", mochi: "$79/mo + meds (compounded sema ~$60+)", mydose_floor: "$103-180/mo by titration step"}
+paid_channel_fit: medium for compounded (LegitScript + strict copy); high only with brand GLP-1
