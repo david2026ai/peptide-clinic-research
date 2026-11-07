@@ -1,0 +1,197 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 1342,
+    "sha256": "73e86332df39cd392d36fdc5bdf764dfecf2145d7ce570285003c16b2087732b"
+  },
+  {
+    "path": "attribute-scores.csv",
+    "bytes": 2558,
+    "sha256": "7616090fb3885fbfe89ad6cb3a70f9851740b71ae711d2f2a9d21f6ddd767976"
+  },
+  {
+    "path": "discarded-and-hold.csv",
+    "bytes": 1747,
+    "sha256": "e1e412317fff737521fbc757ddf15633121cde3f940de9ead6381fee9087e449"
+  },
+  {
+    "path": "domain-checks.csv",
+    "bytes": 3790,
+    "sha256": "443439fadbfa32e9f0916b9d1b18df8051e0cb52f8e4f956e4e81636b5f3e42b"
+  },
+  {
+    "path": "domain-checks.json",
+    "bytes": 7408,
+    "sha256": "1f6902a4326c339da2b7ae756dd0023b7c9bce12d8fb3b40f41d0c4f4668b7ea"
+  },
+  {
+    "path": "evidence-register.csv",
+    "bytes": 2726,
+    "sha256": "18a7cfbc896314b4c7d3ed7e54d5025985b0583d7c27f24fcc43e0007e96387c"
+  },
+  {
+    "path": "evidence-register.json",
+    "bytes": 3804,
+    "sha256": "b39f9f4149ba9be26570572457f8ca98aaeb26667645925c2c75d8d407b32e2e"
+  },
+  {
+    "path": "framework-search-report.json",
+    "bytes": 1401,
+    "sha256": "60cf1d11a9b7571c4d48ccd5d12dded80cbb3f980e55505b4afbb7a640576dac"
+  },
+  {
+    "path": "framework-search-report.md",
+    "bytes": 2268,
+    "sha256": "2e28f023948a7b202156efddb55000e6f41d49ed478e836e267cd4bf4e677334"
+  },
+  {
+    "path": "framework-source.json",
+    "bytes": 1401,
+    "sha256": "60cf1d11a9b7571c4d48ccd5d12dded80cbb3f980e55505b4afbb7a640576dac"
+  },
+  {
+    "path": "kindoutline.com.public.html",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "maps/clinic-brand-options.json",
+    "bytes": 19324,
+    "sha256": "4f40d34c55e1a0c2cc4de4fcfc03dd69e636c6d4d774530895ccf3fbb0d71665"
+  },
+  {
+    "path": "maps/clinic-brand-options.md",
+    "bytes": 12841,
+    "sha256": "fb0efa1fe8424784de8198ab556abd964c5d1d69ace34f73e38967b6c5e09d06"
+  },
+  {
+    "path": "maps/clinic-brand-options.yaml",
+    "bytes": 19324,
+    "sha256": "4f40d34c55e1a0c2cc4de4fcfc03dd69e636c6d4d774530895ccf3fbb0d71665"
+  },
+  {
+    "path": "page-url.txt",
+    "bytes": 106,
+    "sha256": "0d2440a665319b3ec4eacc1d5e13eb053043b806d97201d24edc8475960e6592"
+  },
+  {
+    "path": "rdap/avenplain.com.json",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "rdap/careasstated.com.json",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "rdap/clearbyline.com.json",
+    "bytes": 2603,
+    "sha256": "f344c091472ef739286dc75609e1a0638a752cf34735aec894b56f98479deddb"
+  },
+  {
+    "path": "rdap/clearbylinehealth.com.json",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "rdap/evenward.com.json",
+    "bytes": 2751,
+    "sha256": "8d53a361a53c30448b3d7000af4a4e9957327bcef0e6a42ce88b54275f3d1bd5"
+  },
+  {
+    "path": "rdap/forthplain.com.json",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "rdap/kindoutline.com.json",
+    "bytes": 2606,
+    "sha256": "ec27ff7395d0d445b3c70ff4fb2cc296dadfcb0f33d11963a5c8bbca7feea87f"
+  },
+  {
+    "path": "rdap/kindstead.com.json",
+    "bytes": 2541,
+    "sha256": "5fa19a4e7aa80e2a2099e8e5cabcbdedcc47555fe9c6f8111cc46af69843fa19"
+  },
+  {
+    "path": "rdap/plainkind.com.json",
+    "bytes": 2657,
+    "sha256": "8b546d34a231fd571dd5454d21042d298747c05394cfa2d5412c78ae87f791ae"
+  },
+  {
+    "path": "rdap/plainstead.com.json",
+    "bytes": 2625,
+    "sha256": "f7504a84a555bc3f3473178dab9f302eaf13aaed827e4383c30e9fe06e80b1ad"
+  },
+  {
+    "path": "rdap/plainvero.com.json",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "rdap/plainverohealth.com.json",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "rdap/plainvia.com.json",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "rdap/planstead.com.json",
+    "bytes": 2551,
+    "sha256": "f5595c6948a9bc0ba8714f60b23204ac404268b4b1ac5c9e03c729d9810f9621"
+  },
+  {
+    "path": "rdap/rillara.com.json",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "rdap/rillplain.com.json",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "rdap/rillstead.com.json",
+    "bytes": 2616,
+    "sha256": "d9f1e372a11ce05c9850c3bda401c52f148876966baeef9fcce4f09b5a7744f6"
+  },
+  {
+    "path": "rdap/rillsteadhealth.com.json",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "rdap/steadfolk.com.json",
+    "bytes": 2587,
+    "sha256": "9d1296059d56d14e4d14cbdf0fe229a613cb81147f10629c7ad9503f6f29dfb9"
+  },
+  {
+    "path": "rdap/steadvera.com.json",
+    "bytes": 2619,
+    "sha256": "e31c5bfb13fc8f1f166d0e00ec7926a8ad84c4f77243fc49aa0927bdd1bb2328"
+  },
+  {
+    "path": "rdap/verostead.com.json",
+    "bytes": 2570,
+    "sha256": "744ffcf96ddbe6e02684b0c72ff8285d0b9d99e7796da1116955e2b2c0adf874"
+  },
+  {
+    "path": "shortlist.csv",
+    "bytes": 4142,
+    "sha256": "fad1a378910f9fa9cd7a25d04c8ab4373bb3ba9dbd7fab5e6bc9b9a81cbd8316"
+  },
+  {
+    "path": "shortlist.json",
+    "bytes": 6686,
+    "sha256": "7478e0175aac4e5f9b24c773203da7712a6c185101327a7f4fe30581f75e4ffb"
+  },
+  {
+    "path": "verification-summary.md",
+    "bytes": 1318,
+    "sha256": "70d3920ee269d8904f34f512efae5049f55a11603d915f576503fcba143a74b2"
+  }
+]

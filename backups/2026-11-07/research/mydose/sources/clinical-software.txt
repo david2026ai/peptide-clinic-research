@@ -1,0 +1,443 @@
+URL: https://mydose.ai/clinical-software/
+Retrieved:2026-11-07 PST
+HTTP:200
+
+Longevity Clinic Software for Protocol-Based Care | MyDose
+Skip to main content
+Opens in a new tab
+Products
+For gyms & studios
+MyDose Launch
+Your own brand
+MyDose Studio
+Build and launch a telehealth brand
+Telehealth businesses
+MyDose Enterprise
+Compare all products →
+For Patients
+About
+FAQ
+Docs
+Your own brand
+Studio docs
+Set up and run your Studio brand
+For gyms & studios
+Launch docs
+Get Launch running for your members
+Existing clinics
+Platform docs
+Clinic guide for the MyDose Platform
+Resources →
+Log In
+Contact Us
+Home
+Products
+MyDose Launch
+MyDose Studio
+MyDose Enterprise
+Compare all products
+For Patients
+MyDose Health
+Company
+About
+FAQ
+Contact
+Docs
+Studio docs
+Launch docs
+Platform docs
+Resources
+Log In
+Contact Us
+The clinic operating system for protocol-based care
+MyDose Clinical Software replaces fragmented workflows with one unified system for intake, protocols, appointments, telehealth, prescribing, and fulfillment. Built specifically for clinics running peptide, hormone, GLP-1, and lab-based longevity programs.
+Sign Up for Free
+Your EMR was designed for insurance billing and episodic visits. MyDose was built for multi-month protocols with check-ins, lab milestones, and patient tracking over time. It's the platform your team actually wants to use—and the system you can confidently show to regulators, partners, and auditors.
+WHAT IT IS
+One platform. Every step of protocol-based care.
+MyDose Clinical Software is the system your clinic team uses to design, deliver, and track longevity protocols from initial consultation through months or years of ongoing care.
+Most clinics running peptide, hormone, or GLP-1 programs are using a Frankenstein stack: an EMR for billing, Google Sheets for protocol tracking, email for patient communication, and hope that nothing falls through the cracks. MyDose replaces that chaos with one unified platform where protocols are structured, patients are tracked, teams are coordinated, and compliance is automatic.
+What makes it different from your EMR:
+Protocol logic is native, not hacked
+Your EMR thinks in “visits” and “billing codes.” MyDose thinks in “protocols” and “timelines.” Want to set up a 12-week peptide program with check-ins at Week 4, labs at Week 6, and a dose adjustment at Week 8? MyDose makes that simple.
+Patient tracking over time, not snapshots
+Most EMRs show you what happened at the last visit. MyDose shows you where each patient is in their protocol, what they’ve logged since the last check-in, how their labs are trending, and what’s coming next.
+Built for teams, not solo providers
+Longevity clinics often have multiple providers, front-desk staff, lab coordinators, and patient success teams. MyDose gives everyone the right view: providers see clinical context, staff see task queues, coordinators see fulfillment status.
+Telehealth integrated, not bolted on
+Video consultations run directly in MyDose. Appointment notes, prescriptions, and protocol adjustments all happen in the same system.
+Compliance is automatic, not manual
+Every action creates an audit trail. Every protocol step is logged with timestamps. Consent forms are digital and stored securely. If a regulator asks “How did you manage this patient’s care?”, you have a complete, traceable record.
+SEE IN ACTION
+See the platform from every angle.
+See how your team manages protocols, tasks, and patient care — then switch to the patient side and see what they experience from day one.
+How your team sees it
+How your patients see it
+WHAT YOU GET
+Everything your clinic needs to run protocol-based care.
+MyDose Clinical Software handles the full lifecycle: intake, protocol design, appointments, prescribing, patient tracking, team coordination, and compliance.
+Feature 01
+Intake & Triage
+Capture patient information and qualify them automatically
+Learn More
+New patients complete a custom intake form (hosted on your website or a MyDose link). The form captures health history, current medications, goals, any red flags. MyDose reviews responses and qualifies the patient based on your criteria. If they’re a good fit, they’re routed into your clinic pipeline.
+What you see:
+Patients appear in your dashboard with qualification status, intake date, and recommended protocol.
+What you can customize:
+Form fields (add questions specific to your protocols)
+Qualification logic (define which answers route to which protocols)
+Automated responses (confirmation emails, scheduling links, educational materials)
+Feature 02
+Protocol Design & Templates
+Build reusable protocol templates—or customize for each patient
+Learn More
+MyDose lets you create protocol templates for your most common programs:
+Peptide programs (timeline, compounds, doses and check-ins)
+Hormone optimization (lab milestones and dose adjustments)
+GLP-1 weight loss protocols (multi-week timelines with check-in prompts)
+Each template includes timeline, compounds, doses, frequency, check-ins, labs, conditional logic.
+How it works in practice:
+Select a template (or build from scratch)
+Customize for the specific patient (adjust doses, timeline, check-ins)
+Assign the protocol
+The system handles the rest (reminders, tracking, notifications)
+Feature 03
+Appointments & Scheduling
+Book in-person or telehealth appointments in one system
+Learn More
+Patients can book appointments directly through MyDose (calendar integration with Google Calendar, Calendly, or Acuity). They see your available times, book a slot, and receive confirmation automatically.
+Appointment types:
+Initial consultation (30-60 minutes)
+Follow-up check-ins (15-30 minutes)
+Lab review appointments
+Protocol adjustment consultations
+Telehealth built in:
+If the appointment is virtual, the patient receives a secure video link. The consultation happens directly in MyDose. Notes, prescriptions, and protocol updates all happen in the same platform.
+Feature 04
+Team Collaboration & Task Management
+Coordinate your team without endless Slack messages
+Learn More
+Longevity clinics aren’t solo operations. MyDose gives everyone the right view and tools.
+Role-based access:
+Providers:
+Full clinical context, protocol details, lab results, patient messages
+Front Desk:
+Scheduling, intake status, basic patient info
+Lab Coordinators:
+Lab orders, which tests, when
+Patient Success:
+Check-in schedules, symptom reports, engagement metrics
+Task management:
+Assign tasks directly in the platform:
+“Order labs for Patient X before Week 6 check-in”
+“Follow up with Patient Y about symptom report”
+“Send prescription refill to pharmacy for Patient Z”
+Tasks have due dates, assigned owners, and status tracking.
+Feature 05
+Prescribing & Pharmacy Integration
+Prescribe directly through MyDose, route to your pharmacy network
+Learn More
+When a patient needs a prescription, you create it in MyDose: select compound, set dose and frequency, add instructions, route to pharmacy.
+Pharmacy network:
+MyDose integrates with 503A/503B U.S. pharmacies. You can use your existing pharmacy partner (if they integrate) or choose from MyDose’s network.
+What happens next:
+Prescription arrives at pharmacy (secure, HIPAA-compliant)
+Pharmacy fulfills order
+Patient receives tracking information
+You see fulfillment status in dashboard
+Feature 06
+Patient Communication & Messaging
+Secure messaging, automated reminders, and check-in prompts
+Learn More
+Patients message you directly through the MyDose Health app. You respond in the clinic portal. All messages are HIPAA-secure, timestamped, and stored in the patient’s file.
+Message types:
+Patient questions (“I forgot my dose this morning, what should I do?”)
+Provider check-ins (“How are you feeling after the dose adjustment?”)
+Automated reminders (“Time for your Week 6 labs”)
+Automated workflows:
+Set up message sequences:
+Day 1: “Welcome to your protocol”
+Day 3: “How are your first few doses going?”
+Week 4: “Time to schedule your check-in”
+Week 6: “Please upload your lab results”
+Feature 07
+Protocol Tracking & Patient Progress
+See where every patient is in their protocol at a glance
+Learn More
+Active Protocols: 47 patients
+Check-Ins Needed: 12 patients this week
+Symptom Reports: 8 new logs since yesterday
+Labs Pending: 5 patients need to upload labs
+Click into any patient. You see their full protocol timeline, logged doses, symptom reports, lab results, upcoming milestones.
+Engagement tracking:
+MyDose tracks patient engagement: app open rate, dose logging consistency, symptom reporting frequency, appointment attendance. If engagement drops, you get an alert.
+Feature 08
+Compliance & Audit Trails
+Every action is logged, timestamped, and traceable
+Learn More
+Regulators and auditors ask questions: “Who prescribed this?” “What was the patient’s consent status?” “Were labs reviewed before the dose was adjusted?”
+With MyDose, you have answers. Every action creates an audit log: patient intake, protocol assignment, consent forms, prescriptions, dose adjustments, appointments, messages.
+Exporting audit data:
+Export complete patient records for legal, regulatory, or insurance purposes. PDF format, organized by timeline, redacted as needed.
+These features aren't random additions. They're the tools you need to follow a long-term protocol successfully—with structure, support, and clarity every step of the way.
+HOW IT WORKS
+From consultation to outcome. Here's the actual workflow.
+This isn’t hypothetical. This is how clinics use MyDose every day to manage hundreds of patients across multiple protocols.
+1
+Intake & Qualification
+Patient Signs Up “Patient completes intake form on your website. MyDose qualifies them and adds them to your pipeline.”
+2
+Review & Scheduling
+Provider Reviews & Schedules “You review their intake, schedule a consultation, and prepare protocol options.”
+3
+Consultation & Protocol Setup
+Consultation & Protocol Assignment “During consultation, you discuss options, customize a protocol, and assign it. Patient receives it in their app immediately.”
+4
+Consent & Activation
+Consent & Activation “Patient reviews protocol details, signs consent digitally. You co-sign. Protocol activates.”
+5
+Prescribing & Fulfillment
+Prescribing & Fulfillment “You prescribe through MyDose. Prescription routes to pharmacy. Patient receives tracking.”
+6
+Daily Monitoring
+Daily Tracking “Patient logs doses and symptoms. You see updates in real time.”
+7
+Check-Ins & Optimization
+Check-Ins & Adjustments “Scheduled check-ins happen automatically. You review progress, adjust protocol if needed.”
+8
+Labs & Progress Review
+Labs & Milestones “Patient uploads labs at protocol milestones. You review, compare to baseline, adjust doses.”
+9
+Renewal or Completion
+Renewal or Completion “At protocol end, you review outcomes. Patient can renew, modify, or complete.”
+Telehealth Integration
+Telehealth built in—or use it standalone
+MyDose Clinical Software includes integrated telehealth for virtual consultations. Run video appointments directly in the platform. All notes, prescriptions, and protocol updates stay in the same system.
+Option 01
+Run your own telehealth
+Use MyDose's built-in video consultations for your patients. You manage the clinical side, MyDose handles the infrastructure.
+Option 02
+Route to MyDose Telehealth Network
+If you don't have the right licensing for certain compounds, you can route patients to MyDose's telehealth network. Our licensed providers handle the prescribing. You stay in the loop on patient progress.
+Why this matters:
+Many clinics want to offer longevity protocols but don’t have licensing for all compounds. MyDose’s telehealth network gives you flexibility: offer what you can prescribe directly, route the rest to our network, and maintain the patient relationship.
+Learn more about MyDose Telehealth →
+Who It's For
+Built for clinics running modern longevity programs.
+MyDose Clinical Software is designed for medical directors, practice managers, and clinic founders expanding into protocol-based care and needing infrastructure that actually works.
+Longevity & Functional Medicine Clinics
+You're running peptide programs, hormone optimization, GLP-1 weight loss protocols, and lab-driven longevity care. Your EMR wasn't built for this. MyDose was.
+Medspas Expanding into Wellness
+You started with aesthetics. Now your clients are asking for weight loss, hormones, and peptides. MyDose helps you run those programs safely and compliantly.
+Telehealth Brands
+You're delivering peptide, hormone, and GLP-1 programs by telehealth, with consultations, prescribing, and patient tracking all happening remotely. Your EMR wasn't built for this. MyDose was.
+Multi-Location Clinics
+You're running protocol-based care across several locations, with providers, front-desk staff, and coordinators who all need the same view of every patient. Your EMR wasn't built for this. MyDose was.
+Not Ideal For:
+Traditional primary care focused on insurance billing
+If your clinic is 90% insurance-based episodic care, a traditional EMR might be a better fit.
+Solo practitioners with only a few longevity patients
+If you’re only running protocols for 5-10 patients and you’re comfortable with spreadsheets, MyDose might be overkill. But if you’re planning to scale, start with the right infrastructure from day one.
+Sign Up for free
+PRICING
+Pricing scoped with our team
+There is no software subscription. Licensed providers, pharmacy routing, patient support and compliance are included, and pricing is scoped with our team around your patients, programs and setup.
+Schedule a meeting
+to talk through your setup, timeline and terms.
+Setup and onboarding
+Scoped
+Agreed with our team for your launch or migration.
+Per active patient
+Scoped
+Licensed providers included.
+Medication markup
+$0
+Negotiated pharmacy pricing, passed through.
+Pricing
+Setup and onboarding
+Scoped with our team
+Migration from another platform
+included
+Per active patient
+Scoped with our team, plus medication at pharmacy cost
+Medication markup
+none; negotiated pharmacy pricing, passed through
+Monthly minimum
+Agreed in your terms
+Capacity
+up to 10,000 active patients; enterprise pricing beyond
+LegitScript
+third-party cost, not included; only needed for paid prescription ads
+Schedule a meeting
+to agree your setup and terms.
+What's included
+01
+Branded storefront and customer portal, on your domain
+02
+Licensed provider coverage through NVP Medical Group P.A.
+03
+Clinical intake and prescribing workflow
+04
+Pharmacy routing and fulfillment, patient by patient
+05
+Patient support and care coordination
+06
+Standard reporting dashboard
+Covers up to 10,000 active patients. Clinical questions go to the provider, not to your desk.
+Medication is billed at pharmacy cost.
+Common questions
+1
+Can we customize MyDose for our specific protocols?
+Yes. MyDose is built to be flexible. You can create custom protocol templates, adjust timelines, define check-in schedules, and customize intake forms. If you need something highly specific, our team can work with you to build custom workflows.
+2
+Do we have to switch from our current EMR?
+Not necessarily. Some clinics use MyDose for longevity and functional medicine programs while keeping their existing EMR for insurance-based care. Others replace their EMR entirely. It depends on your practice mix.
+3
+How long does implementation take?
+Most programs go live in about 14 days. That includes onboarding, protocol setup, team training and the first patient moves. We provide dedicated support during implementation.
+4
+What if our pharmacy doesn't integrate with MyDose?
+We work with a network of 503A U.S. pharmacies. If your current pharmacy doesn't integrate, we can connect you with one that does.
+5
+Is MyDose HIPAA compliant?
+Yes. MyDose runs on HIPAA-compliant infrastructure with end-to-end encryption, secure messaging, role-based access controls, and automatic audit trails. We're also working toward SOC 2 Type II certification.
+6
+How does Enterprise pricing work?
+Pricing is scoped with our team around your patients, programs and setup. Medication is negotiated and passed through with no markup.
+Schedule a meeting
+to talk through your terms.
+7
+What about LegitScript?
+A third-party cost, not included. You only need it for paid prescription ads; organic is open from day one. We can refer you to a partner who handles it.
+See MyDose in action
+Book a demo and we’ll walk you through the platform, answer your questions, and help you understand how MyDose fits your clinic.
+Sign Up for Free
+Talk to Sales
+(for enterprise/large clinics)
+Built for protocol-based longevity care.
+[email protected]
+30 N Gould St Ste N, Sheridan, WY 82801
+Products
+MyDose Clinical Software
+MyDose Health
+White Label
+Company
+About MyDose
+Contact
+Careers
+Press & Media
+Resources
+Legal
+Terms of Service
+Privacy Policy
+Privacy Request
+HIPAA Notice
+Connect
+LinkedIn
+X (Twitter)
+Instagram
+YouTube
+© 2026 MyDose. All rights reserved.
+HIPAA Notice
+Your Health Information is Protected
+How we use your information:
+To provide and coordinate your healthcare
+To process payments for services
+For healthcare operations and quality improvement
+As required by law
+Your rights:
+You have the right to access, amend, and request restrictions on your health information. For details, see our full
+Notice of Privacy Practices
+and
+Privacy Policy
+.
+This notice is for informational purposes and does not replace our full Notice of Privacy Practices.
+Compliance & Audit Trails
+Regulators and auditors ask questions: “Who prescribed this?” “What was the patient’s consent status?” “Were labs reviewed before the dose was adjusted?”
+With MyDose, you have answers. Every action creates an audit log: patient intake, protocol assignment, consent forms, prescriptions, dose adjustments, appointments, messages.
+Exporting audit data:
+Export complete patient records for legal, regulatory, or insurance purposes. PDF format, organized by timeline, redacted as needed.
+Protocol Tracking & Patient Progress
+Open your dashboard. You see:
+Active Protocols: 47 patients
+Check-Ins Needed: 12 patients this week
+Symptom Reports: 8 new logs since yesterday
+Labs Pending: 5 patients need to upload labs
+Click into any patient. You see their full protocol timeline, logged doses, symptom reports, lab results, upcoming milestones.
+Engagement tracking:
+MyDose tracks patient engagement: app open rate, dose logging consistency, symptom reporting frequency, appointment attendance. If engagement drops, you get an alert.
+Lab Results & Biomarker Tracking
+Patients upload lab results to their app. You see them in the clinic portal, linked to their protocol timeline.
+What you can do:
+Compare current labs to baseline
+See trends over time (testosterone rising, HbA1c falling)
+Flag labs that are out of range
+Add clinical notes to lab results
+Biomarker library:
+MyDose includes reference ranges for common longevity markers: hormones, metabolic markers, inflammation, longevity markers.
+Patient Communication & Messaging
+Patients message you directly through the MyDose Health app. You respond in the clinic portal. All messages are HIPAA-secure, timestamped, and stored in the patient's file.
+Message types:
+Patient questions (“I forgot my dose this morning, what should I do?”)
+Provider check-ins (“How are you feeling after the dose adjustment?”)
+Automated reminders (“Time for your Week 6 labs”)
+Automated workflows:
+Set up message sequences:
+Day 1: “Welcome to your protocol”
+Day 3: “How are your first few doses going?”
+Week 4: “Time to schedule your check-in”
+Week 6: “Please upload your lab results”
+Prescribing & Pharmacy Integration
+When a patient needs a prescription, you create it in MyDose: select compound, set dose and frequency, add instructions, route to pharmacy.
+Pharmacy network:
+MyDose integrates with 503A/503B U.S. pharmacies. You can use your existing pharmacy partner (if they integrate) or choose from MyDose’s network.
+What happens next:
+Prescription arrives at pharmacy (secure, HIPAA-compliant)
+Pharmacy fulfills order
+Patient receives tracking information
+You see fulfillment status in dashboard
+Team Collaboration & Task Management
+Longevity clinics aren't solo operations. MyDose gives everyone the right view and tools.
+Role-based access:
+Providers:
+Full clinical context, protocol details, lab results, patient messages
+Front Desk:
+Scheduling, intake status, basic patient info
+Lab Coordinators:
+Lab orders, which tests, when
+Patient Success:
+Check-in schedules, symptom reports, engagement metrics
+Task management:
+Assign tasks directly in the platform:
+“Order labs for Patient X before Week 6 check-in”
+“Follow up with Patient Y about symptom report”
+“Send prescription refill to pharmacy for Patient Z”
+Tasks have due dates, assigned owners, and status tracking.
+Appointments & Scheduling
+Patients can book appointments directly through MyDose (calendar integration with Google Calendar, Calendly, or Acuity). They see your available times, book a slot, and receive confirmation automatically.
+Appointment types:
+Initial consultation (30-60 minutes)
+Follow-up check-ins (15-30 minutes)
+Lab review appointments
+Protocol adjustment consultations
+Telehealth built in:
+If the appointment is virtual, the patient receives a secure video link. The consultation happens directly in MyDose. Notes, prescriptions, and protocol updates all happen in the same platform.
+Protocol Design & Templates
+MyDose lets you create protocol templates for your most common programs:
+16-Week GLP-1 Weight Loss Program
+Ongoing Hormone Optimization (testosterone, thyroid, estrogen)
+Lab-Driven Longevity Protocol (quarterly bloodwork + biomarker tracking)
+Each template includes timeline, compounds, doses, frequency, check-ins, labs, conditional logic.
+How it works in practice:
+Select a template (or build from scratch)
+Customize for the specific patient (adjust doses, timeline, check-ins)
+Assign the protocol
+The system handles the rest (reminders, tracking, notifications)
+Intake & Triage
+New patients complete a custom intake form (hosted on your website or a MyDose link). The form captures health history, current medications, goals, any red flags. MyDose reviews responses and qualifies the patient based on your criteria. If they're a good fit, they're routed into your clinic pipeline.
+What you see:
+Patients appear in your dashboard with qualification status, intake date, and recommended protocol.
+What you can customize:
+Form fields (add questions specific to your protocols)
+Qualification logic (define which answers route to which protocols)
+Automated responses (confirmation emails, scheduling links, educational materials)

@@ -1,0 +1,35 @@
+{
+  "prepared_at_pst": "2026-11-07 12:07:30 PST",
+  "source_archives": [
+    {
+      "archive": "mydose-mvp-to-owned-platform-research.zip",
+      "sha256": "84b925419a1ce3d71ae5d4488b04a1ea6977b38c3f275a787d653f8b207833a1",
+      "bytes": 218726,
+      "entries": 70,
+      "extraction_destination": "research/mydose",
+      "source_zip_crc": "PASS"
+    },
+    {
+      "archive": "clinic-brand-shortlist-research.zip",
+      "sha256": "e21c72b6bd87429dc75ed48a510861786afc686b34b11165d6c87c3516313c59",
+      "bytes": 47179,
+      "entries": 40,
+      "extraction_destination": "research/branding",
+      "source_zip_crc": "PASS"
+    },
+    {
+      "archive": "clinic-builder-research.zip",
+      "sha256": "503871222e346c6bb113d4c88d9af09fcdfa3cfbb43de490cbf289498322a76c",
+      "bytes": 657948,
+      "added_files_only": [
+        "research/mydose/builder-comparison/sources/legitscript-checklist.pdf",
+        "research/mydose/builder-comparison/sources/legitscript-checklist.txt",
+        "research/mydose/builder-comparison/sources/webflow-terms.html",
+        "research/mydose/builder-comparison/sources/webflow-terms.txt"
+      ],
+      "source_zip_crc": "PASS"
+    }
+  ],
+  "scope": "research backup only; source bytes retained, no repository operation",
+  "page_source_snapshots": "Read through sanctioned ReadCanvas on 2026-11-07 PST; wrapper/tool metadata excluded"
+}

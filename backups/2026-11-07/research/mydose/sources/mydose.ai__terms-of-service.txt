@@ -1,0 +1,311 @@
+SOURCE: https://mydose.ai/terms-of-service/
+FETCHED: 2026-11-07T10:32:42.668692-08:00
+STATUS: 200
+Public documentation snapshot; vendor statements not independent audit.
+
+Terms of Service (MyDose.ai LLC)
+Effective Date:
+December 15th, 2025
+Website:
+https://mydose.ai
+Company:
+MyDose.ai LLC
+(“MyDose,” “we,” “us”)
+Business Address:
+Houston, Texas, United States
+Contact:
+[email protected]
+1) Agreement
+By using this website and any related pages, forms, or services (the “Site”), you agree to these Terms. If you do not agree, do not use the Site.
+2) Who the Site is for
+The Site is intended for adults and business users. If you use the Site on behalf of a company, you confirm you have authority to bind that company to these Terms.
+3) No medical advice
+The Site may include general information. It is not medical advice and does not create a doctor–patient relationship. For medical guidance, consult a licensed clinician.
+4) Forms and submissions
+You may provide information through forms (for example, to request a demo, partnership info, or a call). You agree the information you submit is accurate.
+5) SMS and messaging terms
+If you provide a phone number and opt in to receive SMS from MyDose, you agree:
+We may send messages related to your request, such as appointment confirmations, reminders, rescheduling, onboarding steps, and account updates.
+Message frequency may vary. Message and data rates may apply.
+You can opt out at any time by replying
+STOP
+. For help, reply
+HELP
+or contact
+[email protected]
+.
+Consent to receive SMS is not a condition of purchase.
+6) Acceptable use
+You agree not to:
+break the law or violate others’ rights
+access data you don’t own
+scrape, probe, or attack the Site
+upload malware, spam, or misleading content
+interfere with the Site’s operation
+7) Intellectual property
+We own the Site and its content (text, design, logos, software). You may not copy or distribute it except where allowed by law.
+8) Third-party services and links
+The Site may link to third-party sites or use third-party tools (analytics, scheduling, CRM, SMS providers). We do not control them.
+9) Disclaimers
+THE SITE IS PROVIDED “AS IS” AND “AS AVAILABLE.” WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED.
+10) Limitation of liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, MYDOSE WILL NOT BE LIABLE FOR INDIRECT OR CONSEQUENTIAL DAMAGES. OUR TOTAL LIABILITY FOR ANY CLAIM RELATED TO THE SITE WILL NOT EXCEED
+$100
+OR THE AMOUNT YOU PAID US FOR THE SITE IN THE LAST 12 MONTHS, WHICHEVER IS GREATER.
+11) Indemnification
+You agree to defend and indemnify MyDose.ai LLC against claims arising from your use of the Site or violation of these Terms.
+12) Changes
+We may update these Terms. Continued use means you accept the updated Terms.
+13) Governing law
+These Terms are governed by the laws of the
+State of Texas
+, USA.
+14) Contact
+Questions about these Terms:
+[email protected]
+MYDOSE.AI
+WEBSITE TERMS OF SERVICE
+Effective Date: February 3, 2026 | Last Updated: February 3, 2026
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY. By accessing or using the mydose.ai website and its subdomains (collectively, the “Site”), you agree to be bound by these Terms of Service (“Terms”). If you do not agree to all of these Terms, do not access or use the Site.
+IMPORTANT NOTICE:
+Section 15 of these Terms contains a binding arbitration clause and class action waiver. By accepting these Terms, you agree that disputes will be resolved through individual arbitration and you waive the right to participate in a class action lawsuit or class-wide arbitration. Please read Section 15 carefully.
+1. PARTIES AND AGREEMENT
+1.1 Parties
+These Terms constitute a legally binding agreement between you (“you,” “your,” or “User”) and MyDose.ai, LLC, a Wyoming limited liability company with its principal address at 30 N Gould St Ste N, Sheridan, WY 82801 (“MyDose,” “we,” “us,” or “our”).
+1.2 Scope
+These Terms govern your access to and use of the publicly accessible portions of the Site, including the homepage, blog, informational pages, landing pages, email signup forms, chatbot, referral program pages, waitlist registration, and community features. These Terms do NOT govern the use of the MyDose clinical platform, telehealth services, or patient portal. If you become a patient, your use of the platform will be governed by the separate Patient Platform Terms of Service, Telehealth Informed Consent, and applicable Privacy Policies.
+1.3 Acceptance
+You accept these Terms by: (a) accessing or browsing the Site; (b) creating a waitlist registration or account; (c) subscribing to our newsletter or email communications; (d) participating in the referral program; (e) submitting information through the chatbot; or (f) using any other feature or functionality of the Site. If you are accepting these Terms on behalf of an organization, you represent that you have the authority to bind that organization.
+1.4 Eligibility
+The Site is intended for individuals who are at least eighteen (18) years of age and located within the United States. By using the Site, you represent and warrant that you are at least 18 years old and are accessing the Site from within the United States. We do not intentionally collect information from or direct the Site to individuals under the age of 18 or individuals located outside the United States.
+1.5 Relationship to Other Agreements
+If you become a patient or subscribe to MyDose services, additional terms and agreements will apply, including the Patient Platform Terms of Service, Telehealth Informed Consent, Notice of Privacy Practices, and applicable Clinical Platform or Telehealth Privacy Policy. In the event of a conflict between these Website Terms and any patient-specific agreement, the patient-specific agreement shall control with respect to the subject matter of that agreement.
+2. MODIFICATIONS TO TERMS
+We reserve the right to modify these Terms at any time in our sole discretion. When we make material changes, we will update the “Effective Date” and “Last Updated” dates at the top of these Terms, post the revised Terms on the Site, and where we have your email address, provide notice of material changes via email. Your continued use of the Site after the effective date of revised Terms constitutes your acceptance of the revised Terms. If you do not agree to the revised Terms, you must stop using the Site.
+3. INTELLECTUAL PROPERTY
+3.1 MyDose Ownership
+The Site and all content, features, functionality, software, code, designs, text, graphics, images, photographs, illustrations, videos, audio, data compilations, logos, icons, trademarks, service marks, trade names, trade dress, and other materials available on or through the Site (collectively, “Site Content”) are owned by MyDose.ai, LLC, its licensors, or other content providers and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property laws. The MyDose™ name, logo, and all related names, logos, product and service names, designs, slogans, and trade dress are registered trademarks or trademarks of MyDose.ai, LLC. You may not use such marks without our prior written permission.
+3.2 Limited License
+Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to access and use the Site for your personal, non-commercial informational purposes. This license does not include the right to: (a) modify, copy, reproduce, distribute, republish, display, post, or transmit any Site Content; (b) use any data mining, robots, scrapers, or similar data gathering or extraction methods on the Site; (c) download (other than page caching) any portion of the Site or Site Content except as expressly permitted; (d) use the Site or Site Content for any commercial purpose or for the benefit of any third party; or (e) create derivative works based on the Site or Site Content.
+3.3 Reservation of Rights
+All rights not expressly granted in these Terms are reserved by MyDose. Nothing in these Terms shall be construed as conferring any license to intellectual property rights, whether by estoppel, implication, or otherwise.
+3.4 DMCA and Copyright Complaints
+We respect the intellectual property rights of others. If you believe that any Site Content infringes your copyright, please submit a notice in accordance with the Digital Millennium Copyright Act (17 U.S.C. § 512) to our designated agent:
+Attn: DMCA Agent
+MyDose.ai, LLC
+30 N Gould St Ste N
+Sheridan, WY 82801
+Email:
+[email protected]
+Your DMCA notice must include: (a) identification of the copyrighted work; (b) identification of the infringing material and its location on the Site; (c) your contact information; (d) a statement of good faith belief; (e) a statement of accuracy under penalty of perjury; and (f) your physical or electronic signature.
+4. USER ACCOUNTS AND WAITLIST
+4.1 Waitlist Registration
+You may register for our waitlist by providing your name, email address, and other requested information. Waitlist registration does not guarantee access to MyDose services, does not create a patient-provider relationship, and does not obligate you to purchase any service. Waitlist data is stored in a HIPAA-compliant environment as a precautionary measure; however, no Protected Health Information (PHI) is collected during waitlist registration.
+4.2 Account Accuracy
+You agree to provide accurate, current, and complete information during registration and to update such information to keep it accurate, current, and complete. You are solely responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You agree to notify us immediately of any unauthorized use of your account.
+4.3 Account Termination
+We reserve the right to suspend or terminate your account or access to the Site at any time, for any reason, with or without notice, including but not limited to violation of these Terms. You may close your waitlist registration at any time by contacting us at
+[email protected]
+.
+5. ACCEPTABLE USE
+5.1 General Conduct
+You agree to use the Site only for lawful purposes and in accordance with these Terms. You agree not to:
+Use the Site in any way that violates any applicable federal, state, local, or international law or regulation
+Use the Site for the purpose of exploiting, harming, or attempting to exploit or harm minors in any way
+Transmit or procure the sending of any advertising or promotional material without our prior written consent, including junk mail, spam, chain letters, or pyramid schemes
+Impersonate or attempt to impersonate MyDose, a MyDose employee, another user, or any other person or entity
+Engage in any conduct that restricts or inhibits anyone’s use or enjoyment of the Site
+Introduce any viruses, trojan horses, worms, logic bombs, or other material that is malicious or technologically harmful
+Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of the Site, servers, or databases connected to the Site
+Use any automated means (including bots, scrapers, crawlers, spiders, or data mining tools) to access, monitor, copy, or collect Site Content, unless expressly authorized in a robots.txt file
+Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of any software used in connection with the Site
+Remove, alter, or obscure any copyright, trademark, or other proprietary rights notice on the Site
+Collect or store personal information about other users without their express consent
+Use the Site to distribute or facilitate the distribution of unsolicited communications
+5.2 Community Features
+If community features (including but not limited to forums, comment sections, discussion boards, reviews, or user groups) are made available on the Site, the following additional rules apply:
+You are solely responsible for all content you post or share through community features (“User Content”)
+User Content must not be defamatory, obscene, abusive, threatening, harassing, discriminatory, or otherwise objectionable
+User Content must not infringe the intellectual property, privacy, or other rights of any third party
+User Content must not contain personal health information about any identifiable individual other than yourself
+User Content must not include false medical claims, unsubstantiated health advice, or information that could endanger the health or safety of others
+You must not use community features to solicit, advertise, or promote products or services without our prior written consent
+You must not use community features to distribute spam, malware, phishing attempts, or fraudulent content
+You agree to treat other users with respect and civility
+5.3 User Content License
+By submitting User Content to the Site, you grant MyDose a worldwide, non-exclusive, royalty-free, perpetual, irrevocable, transferable, and sublicensable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, publicly perform, and publicly display such User Content in any media or format, for any purpose, including marketing and promotional purposes. You represent and warrant that you own or control all rights in and to the User Content and that the User Content does not violate these Terms or infringe the rights of any third party.
+5.4 Content Moderation
+We reserve the right, but are not obligated, to review, edit, refuse to post, or remove any User Content at our sole discretion, for any reason, without notice. We may, but are not obligated, to monitor community features for violations of these Terms. We are not responsible or liable for any User Content posted by users or third parties.
+5.5 Reporting Violations
+If you believe any User Content violates these Terms, applicable law, or is otherwise objectionable, please report it to
+[email protected]
+. We will investigate reports and take action as we deem appropriate.
+6. EMAIL, SMS, AND CHATBOT COMMUNICATIONS
+6.1 Email Communications
+If you subscribe to our newsletter or provide your email address through the Site, you consent to receive marketing and informational emails from MyDose. You may unsubscribe at any time by clicking the “unsubscribe” link in any email or by contacting
+[email protected]
+. We will process unsubscribe requests within ten (10) business days in compliance with the CAN-SPAM Act.
+6.2 SMS Communications
+If you provide your phone number and consent to SMS communications, we may send you marketing or informational text messages. You may opt out at any time by replying STOP to any message or by contacting
+[email protected]
+. Message and data rates may apply. SMS frequency varies. We comply with the Telephone Consumer Protection Act (TCPA) and applicable state telemarketing laws.
+6.3 Chatbot
+The Site may include an automated chatbot to assist you. The chatbot is provided for informational purposes only and does not constitute medical advice, diagnosis, or treatment. Do not submit Protected Health Information (PHI), Social Security numbers, credit card numbers, or other sensitive personal information through the chatbot. Chatbot conversations are logged, stored, and may be reviewed by authorized personnel for quality improvement. The chatbot may use artificial intelligence and machine learning technologies. Chatbot responses are generated automatically and may not always be accurate or complete.
+7. REFERRAL PROGRAM
+7.1 Program Participation
+MyDose may offer a referral program that allows you to refer others to MyDose services. Participation in the referral program is subject to these Terms and any additional referral program terms that may be posted on the Site. We reserve the right to modify, suspend, or discontinue the referral program at any time without notice.
+7.2 Referral Conduct
+When participating in the referral program, you agree to:
+Refer only individuals who you reasonably believe may be interested in MyDose services
+Not engage in spam, bulk messaging, or unsolicited communications to generate referrals
+Not make false, misleading, or unsubstantiated claims about MyDose services, pricing, or outcomes
+Not impersonate MyDose or represent yourself as an employee, agent, or authorized representative of MyDose
+Comply with all applicable laws, including CAN-SPAM, TCPA, FTC endorsement guidelines, and state consumer protection laws
+Disclose your referral relationship when recommending MyDose to others, as required by FTC guidelines
+7.3 Referral Rewards
+Referral rewards, commissions, and incentives are subject to the specific terms of the referral program in effect at the time of the referral. MyDose reserves the right to withhold, revoke, or reclaim referral rewards in cases of fraud, abuse, self-referral, duplicate accounts, or violation of these Terms. Referral rewards may be subject to tax reporting requirements, and you are responsible for any applicable taxes on referral income.
+7.4 Termination of Referral Participation
+We may terminate your participation in the referral program at any time, for any reason, without notice. Upon termination, all pending and unpaid referral rewards may be forfeited.
+8. NOT MEDICAL ADVICE
+THE SITE IS PROVIDED FOR GENERAL INFORMATIONAL PURPOSES ONLY. Nothing on the Site constitutes medical advice, diagnosis, treatment, or a recommendation for any specific medical condition, treatment protocol, medication, supplement, or therapy. The information provided on the Site, including blog content, educational materials, and chatbot responses, is not intended to be a substitute for professional medical advice, diagnosis, or treatment.
+ALWAYS SEEK THE ADVICE OF A QUALIFIED HEALTHCARE PROVIDER. Never disregard professional medical advice or delay seeking treatment because of something you read on the Site. If you think you may have a medical emergency, call your doctor or 911 immediately.
+Any testimonials, case studies, or outcome descriptions on the Site are individual experiences and are not guarantees of results. Individual results may vary based on medical history, genetics, lifestyle, compliance, and other factors.
+No patient-provider relationship is created by your use of the Site, waitlist registration, newsletter subscription, chatbot interaction, or any other activity on the public portions of the Site. A patient-provider relationship is only established when you complete the full patient onboarding process, execute a Telehealth Informed Consent, and are accepted as a patient by a licensed healthcare provider through the MyDose platform.
+9. THIRD-PARTY LINKS AND SERVICES
+The Site may contain links to third-party websites, services, products, or applications that are not owned or controlled by MyDose. We are not responsible for the content, privacy policies, terms of service, or practices of any third-party websites or services. Links to third-party sites do not imply endorsement, sponsorship, or affiliation. You access third-party sites at your own risk and should review their terms and privacy policies before using them. We have no control over and assume no responsibility for the availability, accuracy, or content of third-party sites.
+10. PRIVACY
+Your use of the Site is also governed by our Website Privacy Policy, which is incorporated into these Terms by reference. Please review the Website Privacy Policy at
+mydose.ai/privacy-policy
+to understand our data collection, use, and disclosure practices. By using the Site, you consent to the collection and use of your information as described in the Website Privacy Policy.
+11. DISCLAIMERS
+11.1 “As Is” and “As Available”
+THE SITE AND ALL SITE CONTENT ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, MYDOSE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+11.2 No Warranty of Accuracy
+WE DO NOT WARRANT THAT: (A) THE SITE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE; (B) THE RESULTS OBTAINED FROM USE OF THE SITE WILL BE ACCURATE OR RELIABLE; (C) THE QUALITY OF ANY INFORMATION, CONTENT, OR OTHER MATERIAL OBTAINED THROUGH THE SITE WILL MEET YOUR EXPECTATIONS; OR (D) ANY ERRORS IN THE SITE WILL BE CORRECTED.
+11.3 Health Information Disclaimer
+THE SITE MAY CONTAIN HEALTH-RELATED CONTENT FOR INFORMATIONAL PURPOSES ONLY. SUCH CONTENT IS NOT INTENDED AS MEDICAL ADVICE AND SHOULD NOT BE RELIED UPON AS A SUBSTITUTE FOR CONSULTATION WITH A QUALIFIED HEALTHCARE PROVIDER. WE MAKE NO REPRESENTATIONS OR WARRANTIES REGARDING THE ACCURACY, COMPLETENESS, OR TIMELINESS OF ANY HEALTH-RELATED CONTENT ON THE SITE.
+11.4 Third-Party Content
+WE ARE NOT RESPONSIBLE FOR THE ACCURACY, COMPLETENESS, OR RELIABILITY OF ANY CONTENT, OPINIONS, OR STATEMENTS MADE BY THIRD PARTIES ON OR THROUGH THE SITE, INCLUDING USER CONTENT, GUEST BLOG POSTS, OR LINKED EXTERNAL RESOURCES.
+12. LIMITATION OF LIABILITY
+12.1 Exclusion of Damages
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MYDOSE.AI, LLC, ITS OFFICERS, DIRECTORS, MEMBERS, MANAGERS, EMPLOYEES, AGENTS, CONTRACTORS, LICENSORS, SERVICE PROVIDERS, SUPPLIERS, OR AFFILIATES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, REVENUE, GOODWILL, DATA, USE, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATED TO: (A) YOUR ACCESS TO OR USE OF, OR INABILITY TO ACCESS OR USE, THE SITE; (B) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SITE; (C) ANY CONTENT OBTAINED FROM THE SITE; (D) UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT; OR (E) ANY OTHER MATTER RELATING TO THE SITE.
+12.2 Aggregate Liability Cap
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE TOTAL AGGREGATE LIABILITY OF MYDOSE FOR ALL CLAIMS ARISING OUT OF OR RELATED TO THESE TERMS OR YOUR USE OF THE SITE SHALL NOT EXCEED THE GREATER OF: (A) ONE HUNDRED UNITED STATES DOLLARS ($100.00); OR (B) THE AMOUNT YOU HAVE PAID TO MYDOSE IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO THE CLAIM. THIS LIMITATION APPLIES REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT, STRICT LIABILITY, OR OTHERWISE, AND EVEN IF MYDOSE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+12.3 Essential Basis of Bargain
+THE DISCLAIMERS AND LIMITATIONS OF LIABILITY IN SECTIONS 11 AND 12 ARE AN ESSENTIAL BASIS OF THE BARGAIN BETWEEN YOU AND MYDOSE. THE SITE WOULD NOT BE PROVIDED TO YOU WITHOUT THESE LIMITATIONS. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, SO SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU. IN SUCH JURISDICTIONS, THE LIABILITY OF MYDOSE SHALL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+13. INDEMNIFICATION
+You agree to indemnify, defend, and hold harmless MyDose.ai, LLC, its officers, directors, members, managers, employees, agents, contractors, licensors, service providers, suppliers, and affiliates from and against any and all claims, demands, actions, liabilities, damages, losses, costs, and expenses (including reasonable attorneys’ fees and court costs) arising out of or related to: (a) your access to or use of the Site; (b) any User Content you submit, post, or transmit through the Site; (c) your violation of these Terms; (d) your violation of any applicable law, regulation, or third-party right; (e) your participation in the referral program; or (f) any dispute between you and any third party arising from your use of the Site. MyDose reserves the right, at your expense, to assume the exclusive defense and control of any matter subject to indemnification, in which event you agree to cooperate with our defense.
+14. GOVERNING LAW
+These Terms shall be governed by and construed in accordance with the laws of the State of Wyoming, without regard to its conflict of law provisions. Subject to the arbitration clause in Section 15, any legal action or proceeding arising under these Terms shall be brought exclusively in the state or federal courts located in Sheridan County, Wyoming, and you consent to the personal jurisdiction and venue of such courts.
+15. BINDING ARBITRATION AND CLASS ACTION WAIVER
+PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT AND TO HAVE A JURY TRIAL.
+15.1 Agreement to Arbitrate
+You and MyDose agree that any dispute, claim, or controversy arising out of or relating to these Terms, the Site, or the relationship between you and MyDose (collectively, “Disputes”) shall be resolved exclusively through final and binding individual arbitration rather than in court, except that: (a) either party may bring an individual action in small claims court if the claim qualifies; and (b) either party may seek injunctive or other equitable relief in any court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation, or violation of intellectual property rights.
+15.2 Arbitration Rules and Forum
+Arbitration shall be administered by the American Arbitration Association (“AAA”) under its Consumer Arbitration Rules then in effect, as modified by this Section 15. The AAA Rules are available at
+www.adr.org
+. If AAA is unavailable, the parties shall mutually agree on an alternative arbitration forum. If the parties cannot agree, the arbitration shall be administered by JAMS under its Streamlined Arbitration Rules and Procedures.
+15.3 Arbitration Process
+A party wishing to initiate arbitration must send written notice to the other party describing the claim and the relief sought (“Arbitration Notice”). Arbitration Notices to MyDose should be sent to: MyDose.ai, LLC, Attn: Legal Department, 30 N Gould St Ste N, Sheridan, WY 82801, or
+[email protected]
+. Before initiating arbitration, the parties shall engage in good faith informal dispute resolution for a minimum of sixty (60) days following receipt of the Arbitration Notice.
+15.4 Arbitration Location and Procedure
+Unless you and MyDose agree otherwise, the arbitration shall be conducted: (a) by telephone, video conference, or written submissions for claims under $25,000; or (b) in Sheridan County, Wyoming, for claims of $25,000 or more. The arbitrator shall have exclusive authority to resolve all Disputes, including the scope, enforceability, and arbitrability of this Section 15. The arbitrator’s decision shall be final and binding and may be entered as a judgment in any court of competent jurisdiction.
+15.5 Arbitration Fees
+Payment of arbitration fees shall be governed by the AAA’s Consumer Arbitration Rules. If the arbitrator finds that either the substance of the Dispute or the relief sought is frivolous or brought for an improper purpose (as measured by Federal Rule of Civil Procedure 11(b)), then the payment of fees shall be governed by the AAA Rules. In such cases, the arbitrator may award the prevailing party its reasonable attorneys’ fees and costs.
+15.6 Class Action Waiver
+YOU AND MYDOSE AGREE THAT EACH PARTY MAY BRING DISPUTES AGAINST THE OTHER ONLY IN AN INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, CONSOLIDATED, REPRESENTATIVE, OR MULTI-PARTY ACTION OR PROCEEDING. The arbitrator shall not consolidate more than one person’s claims and shall not preside over any form of representative, class, or consolidated proceeding. If this class action waiver is found to be unenforceable, then the entirety of this Section 15 (other than this sentence) shall be null and void, and the Dispute shall be decided by a court.
+15.7 Mass Arbitration
+If twenty-five (25) or more similar arbitration demands are filed against MyDose within a sixty (60) day period by or with the assistance of the same law firm, group of law firms, or similar organization (“Mass Filing”), the parties agree that all such demands shall be subject to a bellwether process. Specifically, ten (10) individual demands shall be selected (five by each side) and arbitrated first. The remaining demands shall be stayed pending resolution of the bellwether cases. Following the bellwether arbitrations, the parties shall engage in a global mediation. If mediation is unsuccessful, the remaining demands may proceed in accordance with the AAA Rules.
+15.8 Opt-Out Right
+You have the right to opt out of this arbitration provision by sending written notice to
+[email protected]
+within thirty (30) days of your first acceptance of these Terms. Your opt-out notice must include your full legal name, mailing address, email address, and a clear statement that you wish to opt out of the arbitration clause. If you opt out, you may pursue Disputes in court, subject to the governing law and jurisdiction provisions of Section 14.
+15.9 Survival
+This arbitration provision shall survive termination of these Terms, closure of your account, and any modification to these Terms (unless you opt out within the applicable opt-out period for the modification).
+16. TERMINATION
+16.1 Termination by MyDose
+We may terminate or suspend your access to the Site at any time, with or without cause, with or without notice, effective immediately. Without limiting the foregoing, we may terminate your access if we reasonably believe you have violated any provision of these Terms.
+16.2 Effect of Termination
+Upon termination, your right to use the Site will cease immediately. Sections 3 (Intellectual Property), 5.3 (User Content License), 11 (Disclaimers), 12 (Limitation of Liability), 13 (Indemnification), 14 (Governing Law), 15 (Arbitration), and 18 (Miscellaneous) shall survive termination.
+17. ELECTRONIC COMMUNICATIONS AND SIGNATURES
+By using the Site and providing your email address or phone number, you consent to receive electronic communications from MyDose, including notices, agreements, disclosures, and other communications that we are required or permitted to provide to you. You agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing. You consent to the use of electronic signatures and acknowledge that your electronic acceptance of these Terms constitutes a binding agreement.
+18. MISCELLANEOUS
+18.1 Entire Agreement
+These Terms, together with the Website Privacy Policy and any additional terms incorporated by reference, constitute the entire agreement between you and MyDose regarding the Site and supersede all prior and contemporaneous agreements, proposals, representations, and understandings, whether oral or written, regarding the Site.
+18.2 Severability
+If any provision of these Terms is held to be invalid, illegal, or unenforceable by a court or arbitrator of competent jurisdiction, the remaining provisions shall continue in full force and effect. The invalid provision shall be modified to the minimum extent necessary to make it valid and enforceable while preserving the original intent.
+18.3 Waiver
+No waiver of any term or condition of these Terms shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition. Our failure to assert a right or provision under these Terms shall not constitute a waiver of that right or provision.
+18.4 Assignment
+You may not assign or transfer these Terms, by operation of law or otherwise, without our prior written consent. Any attempted assignment without consent shall be void. We may assign these Terms without restriction. Subject to the foregoing, these Terms shall bind and inure to the benefit of the parties, their successors, and their permitted assigns.
+18.5 Force Majeure
+MyDose shall not be liable for any delay or failure to perform resulting from causes outside its reasonable control, including but not limited to acts of God, natural disasters, war, terrorism, pandemic, epidemic, labor disputes, government actions, utility failures, internet disruptions, or cyberattacks.
+18.6 Headings
+The section headings in these Terms are for convenience only and have no legal or contractual effect.
+18.7 No Third-Party Beneficiaries
+These Terms are for the benefit of, and will be enforceable by, the parties only. These Terms do not create any rights for any third party.
+18.8 California Users
+Under California Civil Code Section 1789.3, California users are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834, or by telephone at (800) 952-5210.
+19. CONTACT INFORMATION
+If you have questions about these Terms, please contact:
+MyDose.ai, LLC
+Attn: Legal Department
+30 N Gould St Ste N
+Sheridan, WY 82801
+General inquiries:
+[email protected]
+Legal inquiries:
+[email protected]
+Privacy inquiries:
+[email protected]
+© 2026 MyDose.ai, LLC. All rights reserved. MyDose is a trademark of MyDose.ai, LLC.
+Provider Disclosure & Telemedicine Compliance
+How do we comply with Massachusetts’ telemedicine provider disclosure requirements?
+In compliance with Massachusetts telemedicine regulations (Mass. Board of Registration in Medicine Policy 15-05, 2015), we publicly provide identifying and licensure information for our providers:
+Provider Name:
+Luis Lora Garcia Gerald
+Medical License Number:
+1022280
+State of Licensure:
+Massachusetts
+License Expiration Date:
+4/29/26
+Contact Email:
+[email protected]
+How do we comply with Rhode Island’s telemedicine provider disclosure requirements?
+In compliance with Rhode Island telemedicine regulations (R.I. Board of Medical Licensure and Discipline Telemedicine Guidelines), we publicly provide identifying and licensure information for our providers:
+Provider Name:
+Luis Lora Garcia Gerald
+Medical License Number:
+MD20402
+State of Licensure:
+Rhode Island
+License Expiration Date:
+6/30/26
+Contact Email:
+[email protected]
+How do we comply with Vermont’s telemedicine provider disclosure requirements?
+In compliance with Vermont telemedicine regulations (Vt. Board of Medical Practice Policy on Telemedicine), we publicly provide identifying and licensure information for our providers:
+Provider Name:
+Luis Lora Garcia Gerald
+Medical License Number:
+042.0018190-COMP
+State of Licensure:
+Vermont
+License Expiration Date:
+11/30/26
+Contact Email:
+[email protected]
+How do we comply with California’s telemedicine provider disclosure requirements?
+In compliance with California telemedicine regulations (Cal. Bus. & Prof. Code § 680.5(e)), we publicly provide identifying and licensure information for our providers:
+Provider Name:
+Luis Lora Garcia Gerald
+Medical License Number:
+A200869
+State of Licensure:
+California
+License Expiration Date:
+3/31/27
+Contact Email:
+[email protected]

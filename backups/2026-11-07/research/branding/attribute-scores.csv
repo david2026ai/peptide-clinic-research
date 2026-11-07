@@ -1,0 +1,19 @@
+attribute,traces_to,competitor,value,confidence,rationale
+1. Cost components visible,total-cost,us,4,hypothesis,Planned itemization; pricing control unverified.
+1. Cost components visible,total-cost,ro,4,peer_fact,Membership and medication separated; necessary labs described in membership.
+1. Cost components visible,total-cost,mochi,4,peer_fact,"Membership, medication and diagnostic exclusions expressly separated."
+2. Starter versus renewal clarity,renewal,us,4,hypothesis,Planned renewal receipt; not implemented.
+2. Starter versus renewal clarity,renewal,ro,5,peer_fact,Published $39 first month and $149 monthly renewal; annual-plan option distinguished.
+2. Starter versus renewal clarity,renewal,mochi,5,peer_fact,Published $0 first monthly membership then $79; longer-plan option distinguished.
+3. Evaluation process explained,evaluation | respect,us,4,hypothesis,Independent clinician review proposed; no partner contracted in this analysis.
+3. Evaluation process explained,evaluation | respect,ro,4,peer_fact,Eligibility and personalized provider care described.
+3. Evaluation process explained,evaluation | respect,mochi,4,peer_fact,Video evaluation and prescribing only if appropriate described.
+4. Support after starting,ongoing-help | handoff,us,3,hypothesis,Coverage and escalation not confirmed; planning prior only.
+4. Support after starting,ongoing-help | handoff,ro,4,peer_fact,"On-demand provider support, messaging and regular check-ins advertised."
+4. Support after starting,ongoing-help | handoff,mochi,4,peer_fact,Unlimited self-pay visits and 24/7 care team advertised; not equivalent clinician-access promises.
+5. Personal decision receipt,decision-receipt | total-cost | handoff,us,5,hypothesis,Stretch target: personal cost/next-step record with change triggers.
+5. Personal decision receipt,decision-receipt | total-cost | handoff,ro,3,hypothesis,Neutral prior: reviewed public page cannot establish personalized receipt capability.
+5. Personal decision receipt,decision-receipt | total-cost | handoff,mochi,3,hypothesis,Neutral prior: reviewed public page cannot establish personalized receipt capability.
+6. Ineligibility charge protection,decline-exit,us,3,hypothesis,"Policy not agreed; parity prior, not evidence of protection."
+6. Ineligibility charge protection,decline-exit,ro,5,peer_fact,Published $39 refund if ineligible.
+6. Ineligibility charge protection,decline-exit,mochi,3,hypothesis,"Ineligibility-specific refund not established from reviewed homepage; neutral prior, not weakness finding."

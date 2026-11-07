@@ -1,0 +1,13 @@
+id,source,checked,observation,limits
+C1,https://ro.co/weight-loss/pricing/,2026-11-07 PST,Ro: $39 initial month; $149 monthly renewal; advertised $74/mo on annual prepaid plan; medication separate; necessary labs included; ineligible $39 refund.,"Public offer, not checkout/care-delivery evidence. Upfront annual charge not independently captured."
+C2,https://joinmochi.com/,2026-11-07 PST,"Mochi: promo $0 first monthly membership then $79; some-state restrictions; advertised $49/mo on 12-month plan; medication/labs excluded, labs from $26; unlimited self-pay visits and 24/7 care team advertised.","Do not infer identical clinician access, annual refunds or full medication cost from membership headline."
+C3,https://honehealth.com/,2026-11-07 PST,"Hone: Basic $25/mo plus medication, consult purchasable; Premium $155/mo plus medication; testing/follow-up structure published.",Different scope; not plotted as identical weight-treatment SKU.
+C4,https://www.evernow.com/,2026-11-07 PST,Evernow: one-time video visits or ongoing menopause membership starting $35/mo; messaging and optional insurance-eligible video visits.,Starting price is not all-in medication cost; niche benchmark only.
+L1,https://www.uspto.gov/trademarks/search,2026-11-07 PST,Official search guidance opened; similar-mark and comprehensive-clearance resources.,No completed federal candidate result-set search or legal clearance.
+L2,https://tmsearch.uspto.gov/,2026-11-07 PST,Official search shell opened; fetch yielded no readable result set.,"Browser/counsel exact, phonetic and common-law search required."
+D1,https://data.iana.org/rdap/dns.json,2026-11-07 PST,IANA bootstrap identifies authoritative Verisign .com RDAP. Per-domain statuses/times saved.,Registry 404 is not registrar availability. No registrar/premium/renewal quote.
+N1,https://www.revero.com/,2026-11-07 PST,Revero is an online medical clinic for chronic/metabolic conditions.,Shared vero sound requires review; not a legal finding against Plainvero.
+N2,https://planvero.dk/en/,2026-11-07 PST,PlanVero is production-planning software.,"Near spelling, different commercial context; no clearance conclusion."
+N3,https://rilorarevivalroom.com/,2026-11-07 PST,Rilora Revival Room advertises GLP-1 and peptide services.,"Reason to discard Rillara, not an endorsement of clinical claims."
+N4,https://www.clearline.care/,2026-11-07 PST,Clearline publishes lab/clinical infrastructure and medical-service links.,Review Clearbyline proximity; no implication this vendor is our partner.
+N5,https://www.avenhealth.co.uk/,2026-11-07 PST,Aven Health offers clinician-led screening and monitoring.,Crowded root is why Avenplain is deprioritized; UK use not US legal adjudication.

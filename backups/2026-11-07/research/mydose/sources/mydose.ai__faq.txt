@@ -1,0 +1,78 @@
+SOURCE: https://mydose.ai/faq/
+FETCHED: 2026-11-07T10:32:42.668692-08:00
+STATUS: 200
+Public documentation snapshot; vendor statements not independent audit.
+
+Frequently asked questions
+Answers about the platform, pricing, clinical care and patient support. Can’t find what you need? Email
+[email protected]
+.
+Platform overview
+What does MyDose provide to run a telehealth business?
+MyDose connects patient intake, consultations, clinical programs, lab tracking, prescriptions, pharmacy fulfillment and payments. A clinic portal and patient app support the process from enrollment through ongoing treatment.
+Can we customize MyDose for our specific protocols?
+Yes. MyDose is built to be flexible. You can create custom protocol templates, adjust timelines, define check-in schedules, and customize intake forms. If you need something highly specific, our team can work with you to build custom workflows.
+Do we have to switch from our current EMR?
+Not necessarily. Some clinics use MyDose for longevity and functional medicine programs while keeping their existing EMR for insurance-based care. Others replace their EMR entirely. It depends on your practice mix.
+Can the platform be explored before getting started?
+Yes. Book a demo and we’ll walk you through the platform, or create a free account to look around the clinic portal.
+Getting started
+Can I keep my website?
+Yes. Your website and funnel stay where they are. The patient portal runs under your brand, on your domain.
+Pricing and fees
+What does Launch cost my business?
+Nothing. There is no setup fee, no activation fee and no monthly fee. You sign up, connect Stripe and share your code; MyDose earns on the care it delivers and you earn your program fee.
+Does MyDose take a percentage of my Launch earnings?
+No. You earn $75 per active protocol, per month, for every member on an active program, before any optional discount you choose to offer your members. It is paid to your own Stripe account.
+Can I change what my members pay with Launch?
+MyDose sets member pricing. You can choose to discount your portion of the earnings, which lowers what your members pay.
+What does Studio cost?
+The sandbox is free and nothing is billed until your first patient. Then it is $499 a month with 50 active patients included and $15 per active patient above that. Medication and provider consults pass through at cost.
+What does Enterprise cost?
+Enterprise pricing is scoped with our team, with medication at pharmacy cost.
+Schedule a meeting
+to talk through your setup, timeline and terms.
+Is there a monthly minimum on Enterprise?
+Any minimum is agreed in your terms when pricing is scoped with our team.
+Launch, Studio and Enterprise
+Which product is right for me?
+Launch if you have members and a front desk but no medical team: we run the care, you earn a program fee. Studio if you want to own the brand: build in a free sandbox, go live when you’re ready. Enterprise if you’re migrating an existing telehealth business or need custom terms.
+Can I use my own brand?
+Yes, with Studio or Enterprise. Studio is self-service on your own domain; Enterprise is set up to your agreed requirements. With Launch, members enroll with MyDose.
+Is the Enterprise fee charged per product?
+No. Enterprise is priced per active patient, per month, however many programs they are on. The rate is scoped with our team.
+Clinical care and pharmacy
+Does a business need its own practitioners?
+No. Licensed MyDose providers review intake, make the treatment decision and prescribe. Clinics with their own practitioners can discuss custom arrangements under Enterprise.
+Do I need a medical license?
+No. Licensed providers make every clinical decision. You run the brand, the clients and the price.
+Can an existing clinic keep its current systems and pharmacy relationships?
+Enterprise covers migrations and custom requirements, including existing pharmacy relationships where they meet MyDose’s 503A and licensing standards. Scope is agreed during discovery.
+What if our pharmacy doesn’t integrate with MyDose?
+We work with a network of 503A U.S. pharmacies.
+For patients
+How do patients access their treatment information?
+Patients use the patient portal or app to view treatment plans, message their provider, track shipments and manage refills, renewals and cancellations.
+Is MyDose Health legal and safe?
+MyDose Health operates as a telehealth service with licensed providers in all states we serve. All medications come from licensed 503A U.S. facilities.
+Do I need a referral to join?
+No. You can sign up directly through our website. However, if your gym, wellness center, or clinic works with MyDose, they may provide you with a referral link.
+What if I already have a doctor?
+MyDose Health providers can coordinate with your existing healthcare team, with your consent. We’re not replacing your primary care; we’re adding structured longevity protocols that most primary care practices don’t offer.
+Can I use my insurance?
+Most insurance plans don’t cover elective longevity or performance-focused care. Lab coverage varies by plan.
+What if I experience side effects?
+You can message your provider directly in the app.
+How do I know if I’m qualified?
+You complete a health intake form during signup.
+What states are telemedicine offered in?
+MyDose currently offers telemedicine services in all states except New Jersey.
+Security and privacy
+How is patient information protected?
+Patient data is encrypted in transit and at rest with role-based access, secure messaging and automatic backups. Consent, signatures and treatment changes are logged and timestamped.
+Is MyDose HIPAA compliant?
+Yes. MyDose runs on HIPAA-compliant infrastructure with end-to-end encryption, secure messaging, role-based access controls, and automatic audit trails.
+Launch or scale your business today
+Book a demo and we’ll walk you through the platform and show you how MyDose can leverage your business.
+Free sign up
+Book a demo

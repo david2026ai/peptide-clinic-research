@@ -1,0 +1,99 @@
+SOURCE: https://docs.mydose.ai/studio/quickstart
+FETCHED: 2026-11-07T10:32:42.668692-08:00
+STATUS: 200
+Public documentation snapshot; vendor statements not independent audit.
+
+Quickstart
+From sign-up to a live store in seven steps.
+This is the short path. Each step links to a full page.
+Getting started
+has the longer checklist.
+Before you start
+A work email you can open.
+A bank account for payouts, ready by step 6.
+You can stop at any point. Everything saves as you go.
+Create your account
+Go to studio.mydose.ai/start and complete About you, Your business, Plan, Verify email and Website. See
+Create your account
+.
+Set up your brand kit
+In the setup wizard, complete
+Brand
+,
+Colors
+and
+Look
+. You can change them later under
+Brand kit
+. See
+Brand kit
+.
+Choose your products
+Open
+Products
+and turn on the MyDose products you want to sell. See
+Choose your products
+.
+Build your pages
+Open
+Storefronts
+, select your store, then
+Edit store
+. Edit Home, About, Contact and FAQ. Select
+Publish
+on each. See
+Edit your store
+.
+Check your test store
+Your store starts in test mode. A banner says no real orders are taken. Click through it as a patient would. See
+Test mode and going live
+.
+Connect payouts
+Open
+Payouts
+and follow the Stripe steps. The first go-live needs this done. See
+Payouts
+.
+Go live
+Select
+Go live
+and switch the store to live. Patients can then sign up. Your plan starts with your first patient. See
+Billing and your plan
+.
+What you'll see
+After step 1 you land in the setup wizard. After step 4 your pages show on
+<your-store>.mydose.store
+with the test banner. After step 7 the banner is gone and the
+Go live
+item leaves your sidebar.
+What happens next
+Share your store link. Watch
+Orders
+and
+Patients
+in your dashboard. Read
+First patient playbook
+.
+Common problems
+Symptom
+Fix
+The verification code did not arrive
+Check spam, then request a new code. See
+Troubleshooting
+.
+Go live is blocked
+Finish the Stripe steps under
+Payouts
+.
+My edits do not show
+Select
+Publish
+. Saving a draft does not change the live store.
+Do not send patient information to support by email.
+Related pages
+Getting started
+Test mode and going live
+FAQ
+Was this page helpful?
+Yes
+No

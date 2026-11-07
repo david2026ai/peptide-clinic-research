@@ -1,0 +1,60 @@
+SOURCE: https://docs.mydose.ai/studio/faq
+FETCHED: 2026-11-07T10:32:42.668692-08:00
+STATUS: 200
+Public documentation snapshot; vendor statements not independent audit.
+
+Studio FAQ
+Answers on setup, pricing, payouts, store building, patients, AI building and compliance.
+Short answers to the questions brand owners ask most. Each links to the full page.
+Getting started
+What is MyDose Studio?
+Do I need a card to sign up?
+Can I try it before I pay?
+How long does setup take?
+What happens when I go live?
+Is this for me?
+Pricing and billing
+What does Studio cost?
+What is an active patient?
+Is the $15 charged to my card?
+Are there other charges?
+Can I cancel?
+Payouts
+How do I get paid?
+When do payouts arrive?
+What is taken out of a payout?
+Do test orders get paid out?
+Store building
+Can I change prices?
+A template replaced my pages. Can I undo it?
+Why do I not see my edits?
+Patients and support
+Who prescribes?
+Who answers my patients' questions?
+Can I message patients from Studio?
+Does Studio send texts or marketing sequences?
+How do I contact MyDose?
+AI building
+Can an AI assistant edit my store?
+Which AI tools work?
+What can an assistant not do?
+How long do keys last?
+Compliance
+What can I not say on my pages?
+Are the legal pages ready to use?
+Does the General page switch get my ads approved?
+Does Studio send patient data to ad platforms?
+What happens next
+Still stuck? See
+Troubleshooting
+or start at
+Getting started
+.
+Medical services provided by independent licensed providers.
+Related pages
+Getting started
+Billing and your plan
+Troubleshooting
+Was this page helpful?
+Yes
+No

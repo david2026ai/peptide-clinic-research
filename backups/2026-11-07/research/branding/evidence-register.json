@@ -1,0 +1,86 @@
+[
+  {
+    "id": "C1",
+    "source": "https://ro.co/weight-loss/pricing/",
+    "checked": "2026-11-07 PST",
+    "observation": "Ro: $39 initial month; $149 monthly renewal; advertised $74/mo on annual prepaid plan; medication separate; necessary labs included; ineligible $39 refund.",
+    "limits": "Public offer, not checkout/care-delivery evidence. Upfront annual charge not independently captured."
+  },
+  {
+    "id": "C2",
+    "source": "https://joinmochi.com/",
+    "checked": "2026-11-07 PST",
+    "observation": "Mochi: promo $0 first monthly membership then $79; some-state restrictions; advertised $49/mo on 12-month plan; medication/labs excluded, labs from $26; unlimited self-pay visits and 24/7 care team advertised.",
+    "limits": "Do not infer identical clinician access, annual refunds or full medication cost from membership headline."
+  },
+  {
+    "id": "C3",
+    "source": "https://honehealth.com/",
+    "checked": "2026-11-07 PST",
+    "observation": "Hone: Basic $25/mo plus medication, consult purchasable; Premium $155/mo plus medication; testing/follow-up structure published.",
+    "limits": "Different scope; not plotted as identical weight-treatment SKU."
+  },
+  {
+    "id": "C4",
+    "source": "https://www.evernow.com/",
+    "checked": "2026-11-07 PST",
+    "observation": "Evernow: one-time video visits or ongoing menopause membership starting $35/mo; messaging and optional insurance-eligible video visits.",
+    "limits": "Starting price is not all-in medication cost; niche benchmark only."
+  },
+  {
+    "id": "L1",
+    "source": "https://www.uspto.gov/trademarks/search",
+    "checked": "2026-11-07 PST",
+    "observation": "Official search guidance opened; similar-mark and comprehensive-clearance resources.",
+    "limits": "No completed federal candidate result-set search or legal clearance."
+  },
+  {
+    "id": "L2",
+    "source": "https://tmsearch.uspto.gov/",
+    "checked": "2026-11-07 PST",
+    "observation": "Official search shell opened; fetch yielded no readable result set.",
+    "limits": "Browser/counsel exact, phonetic and common-law search required."
+  },
+  {
+    "id": "D1",
+    "source": "https://data.iana.org/rdap/dns.json",
+    "checked": "2026-11-07 PST",
+    "observation": "IANA bootstrap identifies authoritative Verisign .com RDAP. Per-domain statuses/times saved.",
+    "limits": "Registry 404 is not registrar availability. No registrar/premium/renewal quote."
+  },
+  {
+    "id": "N1",
+    "source": "https://www.revero.com/",
+    "checked": "2026-11-07 PST",
+    "observation": "Revero is an online medical clinic for chronic/metabolic conditions.",
+    "limits": "Shared vero sound requires review; not a legal finding against Plainvero."
+  },
+  {
+    "id": "N2",
+    "source": "https://planvero.dk/en/",
+    "checked": "2026-11-07 PST",
+    "observation": "PlanVero is production-planning software.",
+    "limits": "Near spelling, different commercial context; no clearance conclusion."
+  },
+  {
+    "id": "N3",
+    "source": "https://rilorarevivalroom.com/",
+    "checked": "2026-11-07 PST",
+    "observation": "Rilora Revival Room advertises GLP-1 and peptide services.",
+    "limits": "Reason to discard Rillara, not an endorsement of clinical claims."
+  },
+  {
+    "id": "N4",
+    "source": "https://www.clearline.care/",
+    "checked": "2026-11-07 PST",
+    "observation": "Clearline publishes lab/clinical infrastructure and medical-service links.",
+    "limits": "Review Clearbyline proximity; no implication this vendor is our partner."
+  },
+  {
+    "id": "N5",
+    "source": "https://www.avenhealth.co.uk/",
+    "checked": "2026-11-07 PST",
+    "observation": "Aven Health offers clinician-led screening and monitoring.",
+    "limits": "Crowded root is why Avenplain is deprioritized; UK use not US legal adjudication."
+  }
+]

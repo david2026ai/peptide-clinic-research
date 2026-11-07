@@ -1,0 +1,89 @@
+SOURCE: https://docs.mydose.ai/studio/compliance-for-brand-owners
+FETCHED: 2026-11-07T10:32:42.668692-08:00
+STATUS: 200
+Public documentation snapshot; vendor statements not independent audit.
+
+Compliance for brand owners
+What you can and cannot say on your pages and in your ads.
+You run the brand. You are responsible for what your pages and ads say. Independent licensed providers make all medical decisions. These rules keep your claims accurate.
+Medical services provided by independent licensed providers. Compounded medications are not FDA-approved.
+Before you start
+Open your pages in the store editor so you can fix wording as you read.
+Have your own counsel available. Starter text is not legal advice.
+Review your store
+Read every page
+Open Home, About, Contact, FAQ, product pages and your legal pages. Read as a patient would.
+Check the do-not list
+Compare the wording against the table below. Fix anything that matches.
+Check disclosures
+Make sure the disclosure and provider notice sections show where they apply.
+Have counsel read your legal pages
+Terms of Service, Privacy Policy, Telehealth Consent, Refund Policy and Notice of Privacy Practices are starter text.
+Publish and recheck
+Select
+Publish
+, then view the live page.
+What to say
+Describe what your brand offers in plain words.
+Say that independent licensed providers review every intake and decide whether to prescribe.
+Show the required disclosure lines where they apply.
+Use the pricing and cost wording in
+Billing and your plan
+.
+What not to say
+Do not
+Why
+Say a treatment is FDA approved
+Compounded medications are not FDA-approved
+Say a treatment cures or treats a condition
+Only providers make medical decisions
+Promise results or share patient outcomes
+Results differ by person
+Use brand-name drug names in ads or headlines
+Ad platforms and regulators restrict this
+Use before-and-after photos
+Not allowed on MyDose storefronts
+Say your brand has its own doctors or pharmacy if it does not
+Providers and pharmacy are independent
+Promise a patient will be approved
+Providers decide
+Promise earnings or speed of growth
+Not a claim MyDose can support
+Give medical advice in chat, email or social posts
+Send medical questions to the MyDose care team
+Ads
+Ad platforms count page visits only on pages with no health content. Use the
+General page (ad landing)
+switch only on pages with no health content. It does not promise that a platform will approve your ads. Studio never sends sign-ups or purchases to ad platforms. See
+SEO and pages for ads
+.
+Patient information
+Do not put patient information in emails, social posts or support messages. Studio shows totals in Analytics and Marketing, not patient rows.
+Patients' questions
+Medical questions go to the MyDose care team. Do not answer them yourself. See
+Patients, orders and support
+.
+What you'll see
+A clean read-through with no matches in the do-not list, and disclosure sections in place.
+What happens next
+Test your store, then go live. See
+Test mode and going live
+.
+Common problems
+Symptom
+Fix
+A template page uses wording from the do-not list
+Rewrite it. Template wording is a starting point.
+An AI assistant wrote a claim
+Review before you publish. You are responsible for it.
+Not sure if a phrase is a claim
+Leave it out, or ask your counsel.
+A patient posts an outcome on my page
+Do not repost it.
+Related pages
+SEO and pages for ads
+Test mode and going live
+Patients, orders and support
+Was this page helpful?
+Yes
+No

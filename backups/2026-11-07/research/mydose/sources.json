@@ -1,0 +1,402 @@
+{
+  "M01": {
+    "title": "Studio entry",
+    "url": "https://studio.mydose.ai/",
+    "access_date": "2026-11-07 PST"
+  },
+  "M02": {
+    "title": "Studio product tour",
+    "url": "https://mydose.ai/studio/",
+    "access_date": "2026-11-07 PST"
+  },
+  "M03": {
+    "title": "Pricing",
+    "url": "https://mydose.ai/pricing/",
+    "access_date": "2026-11-07 PST"
+  },
+  "M04": {
+    "title": "Enterprise",
+    "url": "https://mydose.ai/enterprise/",
+    "access_date": "2026-11-07 PST"
+  },
+  "M05": {
+    "title": "Clinic software",
+    "url": "https://mydose.ai/clinical-software/",
+    "access_date": "2026-11-07 PST"
+  },
+  "M06": {
+    "title": "FAQ and state coverage claim",
+    "url": "https://mydose.ai/faq/",
+    "access_date": "2026-11-07 PST"
+  },
+  "M07": {
+    "title": "Safety",
+    "url": "https://mydose.ai/safety/",
+    "access_date": "2026-11-07 PST"
+  },
+  "M08": {
+    "title": "Website-only privacy policy",
+    "url": "https://mydose.ai/privacy-policy/",
+    "access_date": "2026-11-07 PST"
+  },
+  "M09": {
+    "title": "Website-only terms",
+    "url": "https://mydose.ai/terms-of-service/",
+    "access_date": "2026-11-07 PST"
+  },
+  "D01": {
+    "title": "Documentation index",
+    "url": "https://docs.mydose.ai/llms.txt",
+    "access_date": "2026-11-07 PST"
+  },
+  "D02": {
+    "title": "Studio overview",
+    "url": "https://docs.mydose.ai/studio/overview",
+    "access_date": "2026-11-07 PST"
+  },
+  "D03": {
+    "title": "Studio quickstart",
+    "url": "https://docs.mydose.ai/studio/quickstart",
+    "access_date": "2026-11-07 PST"
+  },
+  "D04": {
+    "title": "MyDose MCP instructions",
+    "url": "https://docs.mydose.ai/studio/build-with-ai",
+    "access_date": "2026-11-07 PST"
+  },
+  "D05": {
+    "title": "Catalog and price-control limitation",
+    "url": "https://docs.mydose.ai/studio/choose-products",
+    "access_date": "2026-11-07 PST"
+  },
+  "D06": {
+    "title": "Billing and active patient definition",
+    "url": "https://docs.mydose.ai/studio/billing-and-plan",
+    "access_date": "2026-11-07 PST"
+  },
+  "D07": {
+    "title": "Payout deductions",
+    "url": "https://docs.mydose.ai/studio/payouts",
+    "access_date": "2026-11-07 PST"
+  },
+  "D08": {
+    "title": "Ads event restrictions",
+    "url": "https://docs.mydose.ai/studio/seo-and-ad-pages",
+    "access_date": "2026-11-07 PST"
+  },
+  "D09": {
+    "title": "Patient support responsibilities",
+    "url": "https://docs.mydose.ai/studio/patients-and-orders",
+    "access_date": "2026-11-07 PST"
+  },
+  "D10": {
+    "title": "Dashboard/editor roles",
+    "url": "https://docs.mydose.ai/studio/team-and-roles",
+    "access_date": "2026-11-07 PST"
+  },
+  "D11": {
+    "title": "Test/live separation",
+    "url": "https://docs.mydose.ai/studio/test-mode-and-go-live",
+    "access_date": "2026-11-07 PST"
+  },
+  "D12": {
+    "title": "Studio FAQ",
+    "url": "https://docs.mydose.ai/studio/faq",
+    "access_date": "2026-11-07 PST"
+  },
+  "D13": {
+    "title": "Store editor and starter legal pages",
+    "url": "https://docs.mydose.ai/studio/store-editor",
+    "access_date": "2026-11-07 PST"
+  },
+  "D14": {
+    "title": "Vendor brand-owner house rules",
+    "url": "https://docs.mydose.ai/studio/compliance-for-brand-owners",
+    "access_date": "2026-11-07 PST"
+  },
+  "D15": {
+    "title": "Clinic portal overview",
+    "url": "https://docs.mydose.ai/clinic-guide/overview",
+    "access_date": "2026-11-07 PST"
+  },
+  "D16": {
+    "title": "Prescriber credentials",
+    "url": "https://docs.mydose.ai/clinic-guide/prescriber-credentials",
+    "access_date": "2026-11-07 PST"
+  },
+  "D17": {
+    "title": "Labs workflow",
+    "url": "https://docs.mydose.ai/clinic-guide/patient-health",
+    "access_date": "2026-11-07 PST"
+  },
+  "D18": {
+    "title": "Intake AI review",
+    "url": "https://docs.mydose.ai/clinic-guide/review-intakes",
+    "access_date": "2026-11-07 PST"
+  },
+  "D19": {
+    "title": "Custom service package workflow",
+    "url": "https://docs.mydose.ai/clinic-guide/create-service-package",
+    "access_date": "2026-11-07 PST"
+  },
+  "D20": {
+    "title": "Demo approved packages, not actual quotes",
+    "url": "https://docs.mydose.ai/clinic-guide/mydose-approved",
+    "access_date": "2026-11-07 PST"
+  },
+  "D21": {
+    "title": "Calendar and Google connector",
+    "url": "https://docs.mydose.ai/clinic-guide/calendar",
+    "access_date": "2026-11-07 PST"
+  },
+  "D22": {
+    "title": "Patient messaging",
+    "url": "https://docs.mydose.ai/clinic-guide/messaging",
+    "access_date": "2026-11-07 PST"
+  },
+  "D23": {
+    "title": "Clinic billing",
+    "url": "https://docs.mydose.ai/clinic-guide/billing",
+    "access_date": "2026-11-07 PST"
+  },
+  "D24": {
+    "title": "Patient records",
+    "url": "https://docs.mydose.ai/clinic-guide/patient-profile",
+    "access_date": "2026-11-07 PST"
+  },
+  "D25": {
+    "title": "Pharmacy orders documentation gap",
+    "url": "https://docs.mydose.ai/clinic-guide/orders-management",
+    "access_date": "2026-11-07 PST"
+  },
+  "D26": {
+    "title": "WorkOS and NewLife named in release history",
+    "url": "https://docs.mydose.ai/changelog",
+    "access_date": "2026-11-07 PST"
+  },
+  "A01": {
+    "title": "Beluga integration paths",
+    "url": "https://belugahealth.com/platform",
+    "access_date": "2026-11-07 PST"
+  },
+  "A02": {
+    "title": "Beluga pricing structure, no numeric quote",
+    "url": "https://belugahealth.com/pricing",
+    "access_date": "2026-11-07 PST"
+  },
+  "A03": {
+    "title": "Healthie API and BAA scope",
+    "url": "https://help.gethealthie.com/article/943-healthies-api",
+    "access_date": "2026-11-07 PST"
+  },
+  "A04": {
+    "title": "Healthie quickstart",
+    "url": "https://docs.gethealthie.com/guides/quick-start/",
+    "access_date": "2026-11-07 PST"
+  },
+  "A05": {
+    "title": "Healthie webhook security/retries",
+    "url": "https://docs.gethealthie.com/guides/webhooks/",
+    "access_date": "2026-11-07 PST"
+  },
+  "A06": {
+    "title": "Junction lab API",
+    "url": "https://docs.junction.com/lab/overview/introduction",
+    "access_date": "2026-11-07 PST"
+  },
+  "A07": {
+    "title": "FuzeRx pharmacy API",
+    "url": "https://rxdocs.fuzehealth.com/",
+    "access_date": "2026-11-07 PST"
+  },
+  "A08": {
+    "title": "DoseSpot official API portal",
+    "url": "https://docs.dosespot.com/",
+    "access_date": "2026-11-07 PST"
+  },
+  "A09": {
+    "title": "Twilio HIPAA scope",
+    "url": "https://www.twilio.com/en-us/hipaa",
+    "access_date": "2026-11-07 PST"
+  },
+  "A10": {
+    "title": "AWS HIPAA-eligible services",
+    "url": "https://aws.amazon.com/compliance/hipaa-eligible-services-reference/",
+    "access_date": "2026-11-07 PST"
+  },
+  "A11": {
+    "title": "WorkOS BAA eligibility",
+    "url": "https://workos.com/security",
+    "access_date": "2026-11-07 PST"
+  },
+  "P01": {
+    "title": "Stripe Connect architecture",
+    "url": "https://docs.stripe.com/connect",
+    "access_date": "2026-11-07 PST"
+  },
+  "P02": {
+    "title": "Stripe data-copy limitations",
+    "url": "https://docs.stripe.com/get-started/data-migrations/pan-copy-self-serve?copy-method=full",
+    "access_date": "2026-11-07 PST"
+  },
+  "P03": {
+    "title": "Stripe Connect subscriptions and disconnect behavior",
+    "url": "https://docs.stripe.com/connect/subscriptions",
+    "access_date": "2026-11-07 PST"
+  },
+  "P04": {
+    "title": "Stripe multi-entity cloning limits",
+    "url": "https://docs.stripe.com/billing/multi-entity-business",
+    "access_date": "2026-11-07 PST"
+  },
+  "P05": {
+    "title": "Stripe subscription migration",
+    "url": "https://docs.stripe.com/billing/subscriptions/migrate-subscriptions",
+    "access_date": "2026-11-07 PST"
+  },
+  "C01": {
+    "title": "HHS cloud BAAs/shared responsibility",
+    "url": "https://www.hhs.gov/hipaa/for-professionals/special-topics/cloud-computing/index.html",
+    "access_date": "2026-11-07 PST"
+  },
+  "C02": {
+    "title": "HHS tracking bulletin including partial court vacatur",
+    "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/hipaa-online-tracking/index.html",
+    "access_date": "2026-11-07 PST"
+  },
+  "C03": {
+    "title": "DEA extension through Dec31 2026",
+    "url": "https://www.dea.gov/press-releases/2025/12/31/dea-extends-telemedicine-flexibilities-ensure-continued-access-care",
+    "access_date": "2026-11-07 PST"
+  },
+  "C04": {
+    "title": "California BPC2400",
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=2400.",
+    "access_date": "2026-11-07 PST"
+  },
+  "C05": {
+    "title": "California BPC650",
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=650.",
+    "access_date": "2026-11-07 PST"
+  },
+  "C06": {
+    "title": "Washington consumer health data",
+    "url": "https://www.atg.wa.gov/protecting-washingtonians-personal-health-data-and-privacy",
+    "access_date": "2026-11-07 PST"
+  },
+  "C07": {
+    "title": "Current FTC health breach rule text",
+    "url": "https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-318",
+    "access_date": "2026-11-07 PST"
+  },
+  "C08": {
+    "title": "LegitScript domain and platform scope",
+    "url": "https://www.legitscript.com/certification/faq/",
+    "access_date": "2026-11-07 PST"
+  },
+  "C09": {
+    "title": "Google healthcare advertising policy",
+    "url": "https://support.google.com/adspolicy/answer/176031?hl=en",
+    "access_date": "2026-11-07 PST"
+  },
+  "X01": {
+    "title": "Stripe MCP",
+    "url": "https://docs.stripe.com/mcp",
+    "access_date": "2026-11-07 PST"
+  },
+  "X02": {
+    "title": "Twilio documentation-only MCP",
+    "url": "https://www.twilio.com/docs/ai/mcp",
+    "access_date": "2026-11-07 PST"
+  },
+  "X03": {
+    "title": "WorkOS management MCP",
+    "url": "https://workos.com/docs/mcp",
+    "access_date": "2026-11-07 PST"
+  },
+  "X04": {
+    "title": "AWS managed MCP",
+    "url": "https://docs.aws.amazon.com/agent-toolkit/latest/userguide/mcp-server.html",
+    "access_date": "2026-11-07 PST"
+  },
+  "X05": {
+    "title": "AWS endpoint/auth configuration",
+    "url": "https://docs.aws.amazon.com/agent-toolkit/latest/userguide/getting-started-aws-mcp-server.html",
+    "access_date": "2026-11-07 PST"
+  },
+  "X06": {
+    "title": "Healthie Dev Assist",
+    "url": "https://www.gethealthie.com/blog/build-on-healthie-faster-with-ai-coding-agents-and-mcp",
+    "access_date": "2026-11-07 PST"
+  },
+  "X07": {
+    "title": "Medplum FHIR MCP",
+    "url": "https://www.medplum.com/docs/ai/mcp",
+    "access_date": "2026-11-07 PST"
+  },
+  "X08": {
+    "title": "Medplum AI data-access cautions",
+    "url": "https://www.medplum.com/docs/building-with-ai-coding-assistants",
+    "access_date": "2026-11-07 PST"
+  },
+  "X09": {
+    "title": "Google Ads MCP developer guide",
+    "url": "https://developers.google.com/google-ads/api/docs/developer-toolkit/mcp-server",
+    "access_date": "2026-11-07 PST"
+  },
+  "X10": {
+    "title": "Google Ads current README: writes and allowlist",
+    "url": "https://github.com/googleads/google-ads-mcp/blob/main/README.md",
+    "access_date": "2026-11-07 PST"
+  },
+  "X11": {
+    "title": "Meta Ads official MCP announcement",
+    "url": "https://developers.facebook.com/blog/post/2026/07/16/meta-ads-mcp-server/",
+    "access_date": "2026-11-07 PST"
+  },
+  "X12": {
+    "title": "Meta Ads MCP overview",
+    "url": "https://developers.facebook.com/documentation/ads-commerce/ads-ai-connectors/ads-mcp-server/ads-mcp-server-overview",
+    "access_date": "2026-11-07 PST"
+  },
+  "X13": {
+    "title": "Bask public MCP repository signal, README missing",
+    "url": "https://github.com/Bask-Health/mcp-server",
+    "access_date": "2026-11-07 PST"
+  },
+  "X14": {
+    "title": "Bask integration/API claims",
+    "url": "https://bask.health/integrations",
+    "access_date": "2026-11-07 PST"
+  },
+  "X15": {
+    "title": "MD Integrations API/white-label paths",
+    "url": "https://docs.mdintegrations.com/public/integration-paths",
+    "access_date": "2026-11-07 PST"
+  },
+  "X16": {
+    "title": "OpenLoop platform claims",
+    "url": "https://openloophealth.com/technology-platform",
+    "access_date": "2026-11-07 PST"
+  },
+  "X17": {
+    "title": "GenHealth.ai workflow MCP: separate identity must be checked",
+    "url": "https://genhealth.ai/docs/workflows/agent-quickstart",
+    "access_date": "2026-11-07 PST"
+  },
+  "B01": {
+    "title": "HighLevel official MCP",
+    "url": "https://help.gohighlevel.com/support/solutions/articles/155000005741-how-to-setup-and-use-the-highlevel-mcp-server",
+    "access_date": "2026-11-07 PST"
+  },
+  "B02": {
+    "title": "Wix official MCP",
+    "url": "https://dev.wix.com/docs/overview/ai-the-wix-platform/the-wix-mcp",
+    "access_date": "2026-11-07 PST"
+  },
+  "B03": {
+    "title": "Jotform official MCP",
+    "url": "https://www.jotform.com/developers/mcp/",
+    "access_date": "2026-11-07 PST"
+  }
+}

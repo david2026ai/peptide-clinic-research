@@ -1,0 +1,430 @@
+SOURCE: https://mydose.ai/privacy-policy/
+FETCHED: 2026-11-07T10:32:42.668692-08:00
+STATUS: 200
+Public documentation snapshot; vendor statements not independent audit.
+
+Privacy Policy (MyDose.ai LLC)
+Effective Date:
+December 15th, 2025
+Company:
+MyDose.ai LLC
+Website:
+https://mydose.ai
+Contact:
+[email protected]
+(or use
+[email protected]
+)
+1) What this policy covers
+This Privacy Policy explains how we collect, use, and share personal information when you visit our Site or submit forms.
+2) Information we collect
+We may collect:
+Contact info:
+name, email, phone number, company, role
+Form data:
+what you submit in forms or scheduling requests
+Device/usage data:
+IP address, browser, pages viewed, timestamps, referring URLs
+Cookies:
+for basic operation and analytics
+3) How we use information
+We use information to:
+respond to your requests (demo, partnership inquiry, discovery call)
+schedule calls and send confirmations/reminders
+provide support
+improve the Site
+prevent fraud and secure systems
+comply with legal obligations
+4) SMS privacy and opt out
+If you opt in to SMS:
+We use your phone number to send appointment confirmations, reminders, rescheduling updates, onboarding steps, and account updates.
+Message frequency may vary. Message and data rates may apply.
+Reply
+STOP
+to opt out. Reply
+HELP
+for help.
+We do not sell your phone number.
+5) How we share information
+We may share information with:
+Vendors
+that help run the Site (hosting, analytics, scheduling, CRM, SMS/telecom providers)
+Advisors
+(legal/accounting)
+Authorities
+when required by law
+Business transfers
+(merger/acquisition)
+We do not sell personal information in the ordinary sense.
+6) Cookies and analytics
+You can control cookies in your browser. Some features may not work without them.
+7) Data retention
+We retain information only as long as needed for the purposes above, unless law requires more.
+8) Security
+We use reasonable safeguards. No system is 100% secure.
+9) Children
+The Site is not intended for children under 13.
+10) Your choices
+You can request access, correction, or deletion by contacting
+[email protected]
+(or
+[email protected]
+).
+11) International users
+Your information may be processed in the United States and other countries where providers operate.
+12) Changes
+We may update this Policy. The new version applies when posted.
+13) Contact
+Privacy questions:
+[email protected]
+MYDOSE.AI
+WEBSITE PRIVACY POLICY
+Effective Date: February 3, 2026 | Last Updated: February 3, 2026
+This Website Privacy Policy (“Policy”) describes how MyDose.ai, LLC (“MyDose,” “we,” “us,” or “our”), a Wyoming limited liability company, collects, uses, discloses, and protects your personal information when you visit, browse, or interact with the mydose.ai website and its subdomains (collectively, the “Site”).
+SCOPE:
+This Policy applies to information collected through the publicly accessible portions of the Site, including the homepage, blog, informational pages, landing pages, email signup forms, chatbot interactions, and referral pages. This Policy does NOT apply to Protected Health Information (PHI) collected through the MyDose.ai clinical platform or MyDose Health telehealth services. If you are a patient receiving healthcare services, your information is governed by the applicable Clinical Platform Privacy Policy or Telehealth Privacy Policy and Notice of Privacy Practices, which are separate documents. If there is any conflict between this Website Privacy Policy and the Clinical Platform or Telehealth Privacy Policies with respect to PHI, the Clinical Platform or Telehealth Privacy Policies shall control.
+By accessing or using the Site, you acknowledge that you have read, understood, and agree to be bound by this Policy. If you do not agree, please discontinue use of the Site.
+1. INFORMATION WE COLLECT
+1.1 Information You Provide Directly
+We collect information you voluntarily submit through the Site, including:
+(a) Contact and Account Information
+Name (first and last)
+Email address
+Phone number
+Mailing or residential address
+Any information you include in a contact form submission, inquiry, or support request
+(b) Newsletter and Marketing Signups
+Email address
+Name (if provided)
+Communication preferences and topics of interest
+Date and time of signup
+Source or referral that led to signup
+(c) Blog Interactions
+Comments, if commenting is enabled (name, email, comment content)
+Content engagement data (articles read, time on page)
+(d) Chatbot Interactions
+Messages, questions, and responses exchanged with automated chatbot systems
+Session metadata (timestamp, duration, pages visited before and after interaction)
+Any personal information you voluntarily disclose during a chatbot conversation
+Important:
+Do not submit sensitive medical information, Social Security numbers, payment card numbers, or other highly sensitive personal data through the public Site, blog comments, or chatbot. If you need to share medical information, please do so only through the authenticated patient portal after creating an account.
+(e) Referral Program Information
+Referrer and referee names and email addresses
+Referral codes and tracking identifiers
+Referral conversion and status data
+Reward and commission tracking information
+1.2 Information Collected Automatically
+When you visit the Site, we and our third-party partners automatically collect certain information through cookies, pixels, tags, and similar technologies:
+(a) Device and Browser Information
+IP address (which may be used to approximate your geographic location at the city or regional level)
+Browser type and version
+Operating system and device type (desktop, mobile, tablet)
+Screen resolution and viewport size
+Language and timezone settings
+Device identifiers (advertising IDs, where available)
+(b) Usage and Behavioral Data
+Pages visited, page view sequence, and navigation paths
+Time spent on each page and total session duration
+Click patterns, scroll depth, mouse movements, and interaction heatmaps
+Referring URL (the website or advertisement that brought you to the Site)
+Exit pages and bounce rates
+Search terms used within the Site (if applicable)
+Feature interactions and button clicks
+(c) Advertising and Conversion Data
+Ad click identifiers and campaign parameters (UTM tags, click IDs such as gclid, fbclid, ttclid)
+Conversion events (form submissions, signups, account creation, purchases)
+Audience segment and interest category data inferred by advertising platforms
+Cross-device and cross-session identifiers used by advertising networks
+Retargeting and remarketing audience membership
+1.3 Information from Third Parties
+We may receive information about you from third-party sources, including:
+Advertising platforms (Google Ads, Meta/Facebook, TikTok) that provide conversion data, audience insights, and ad performance metrics
+Analytics providers that supply aggregated demographic and interest data about Site visitors
+Referral partners who share referee information with your consent
+Public databases and commercially available sources for identity verification (if you proceed to become a patient)
+Social media platforms, if you interact with our social media content or use social login features
+2. HOW WE USE YOUR INFORMATION
+We use the information collected through the Site for the following purposes:
+2.1 Providing and Improving the Site
+Displaying Site content and ensuring proper functionality across devices and browsers
+Personalizing your browsing experience based on preferences and behavior
+Monitoring Site performance, diagnosing technical issues, and optimizing load times
+Developing new features, content, and functionality
+Conducting A/B testing and user experience research
+2.2 Marketing, Advertising, and Communications
+Sending newsletters, promotional emails, and marketing communications to individuals who have opted in
+Displaying targeted and retargeted advertisements on third-party platforms (Google, Meta/Facebook, Instagram, TikTok, and other advertising networks) based on your Site activity
+Creating lookalike and custom audiences on advertising platforms using hashed email addresses or Site visitor data
+Measuring the effectiveness of advertising campaigns, including attribution modeling and return-on-ad-spend analysis
+Personalizing marketing content based on your expressed interests, browsing behavior, and engagement patterns
+Managing and optimizing referral and affiliate programs
+2.3 Analytics and Research
+Understanding how visitors discover, navigate, and interact with the Site
+Analyzing traffic sources, user demographics, and engagement patterns
+Generating aggregated, de-identified statistical reports about Site usage
+Identifying trends and opportunities to improve content and user experience
+Benchmarking Site performance against industry standards
+2.4 Customer Support and Communications
+Responding to inquiries, questions, and support requests submitted through the Site
+Following up on chatbot conversations that require human assistance
+Providing information about our services in response to your expressed interest
+2.5 Security and Fraud Prevention
+Detecting, preventing, and responding to fraud, abuse, security incidents, and technical vulnerabilities
+Protecting the rights, property, and safety of MyDose, our users, and the public
+Enforcing our Terms of Service and other agreements
+Verifying user identity where necessary
+2.6 Legal Compliance
+Complying with applicable federal, state, and local laws and regulations
+Responding to lawful subpoenas, court orders, legal processes, and government requests
+Establishing, exercising, or defending legal claims
+3. COOKIES, TRACKING TECHNOLOGIES, AND ADVERTISING
+3.1 What Are Cookies and Tracking Technologies?
+Cookies are small text files stored on your device when you visit a website. Pixels (also called web beacons or tracking pixels) are tiny, invisible images embedded in web pages or emails that transmit information when loaded. Tags and scripts are code snippets that enable third-party services to collect data. Together, these technologies enable us and our partners to recognize your browser, remember preferences, measure advertising performance, and deliver relevant content.
+3.2 Categories of Cookies and Tracking Technologies
+We use the following categories of cookies and tracking technologies on the Site:
+Category
+Purpose
+Duration
+Strictly Necessary
+(MyDose.ai)
+Session management, authentication, security (CSRF), load balancing. Essential for Site operation. Cannot be disabled.
+Session to 1 year
+Analytics & Performance
+(Google Analytics, Rybbit, etc.)
+Measure Site traffic, page views, session duration, bounce rates, user flows, and feature engagement. Data used to improve Site experience.
+Session to 2 years
+Advertising & Retargeting
+(Google Ads, Meta, TikTok)
+Track ad conversions, build retargeting audiences, create lookalike audiences, measure ad effectiveness, and deliver targeted ads on third-party platforms.
+30 days to 2 years
+Functional
+(MyDose.ai)
+Remember preferences (language, display settings, chat state), enable chatbot functionality, and personalize content.
+Session to 1 year
+Referral Tracking
+(MyDose.ai, partners)
+Track referral sources, attribute signups to referrers, manage referral program rewards and commissions.
+30 to 90 days
+3.3 Third-Party Advertising Partners
+We partner with the following advertising platforms, each of which may collect data through their respective pixels, tags, or SDKs installed on the Site:
+(a) Google (Google Ads, Google Analytics, Google Tag Manager)
+Google may collect device identifiers, IP addresses, cookie data, and on-site behavior to deliver targeted advertising, measure conversions, and provide analytics. Google’s data practices are governed by Google’s Privacy Policy (
+https://policies.google.com/privacy
+). You can opt out of Google’s advertising personalization at
+https://adssettings.google.com
+and install the Google Analytics Opt-Out Browser Add-On at
+https://tools.google.com/dlpage/gaoptout
+.
+(b) Meta (Facebook/Instagram Pixel, Conversions API)
+The Meta Pixel and/or Conversions API may transmit Site event data (page views, form submissions, button clicks) along with hashed identifiers to Meta for ad targeting, conversion measurement, and audience building. Meta’s data practices are governed by Meta’s Privacy Policy (
+https://www.facebook.com/privacy/policy
+). You can manage your Meta ad preferences at
+https://www.facebook.com/adpreferences
+.
+(c) TikTok (TikTok Pixel)
+The TikTok Pixel may collect Site event data and device information for ad targeting, conversion tracking, and audience creation on TikTok. TikTok’s data practices are governed by TikTok’s Privacy Policy (
+https://www.tiktok.com/legal/privacy-policy
+). You can manage TikTok ad settings within the TikTok app.
+3.4 Remarketing and Retargeting
+We use remarketing and retargeting technologies to display advertisements to individuals who have previously visited the Site. This means that after you visit mydose.ai, you may see our advertisements on other websites, social media platforms, search engines, or apps. These advertisements are served by our advertising partners (Google, Meta, TikTok) based on your prior visit and are delivered through cookies, pixels, and audience segment data. Remarketing ads are shown on third-party platforms only and are not shown within the authenticated patient portal.
+You can opt out of remarketing by:
+Adjusting your ad preferences with each platform (links provided in Section 3.3 above)
+Using the Network Advertising Initiative opt-out tool at
+https://optout.networkadvertising.org
+Using the Digital Advertising Alliance opt-out tool at
+https://optout.aboutads.info
+Enabling browser-based ad blocking or privacy extensions
+Adjusting your cookie preferences through our cookie consent banner (see Section 3.6)
+3.5 Do Not Track and Global Privacy Control
+The Site respects the Global Privacy Control (GPC) signal. When a GPC signal is detected from your browser, we treat it as a valid opt-out of the sale or sharing of personal information (as those terms are defined under applicable state law). We also honor browser Do Not Track (DNT) signals by suppressing non-essential analytics and advertising cookies.
+3.6 Cookie Consent and Management
+When you first visit the Site, a cookie consent banner will be displayed allowing you to accept or reject non-essential cookies. You may update your preferences at any time by clicking the “Cookie Settings” or “Privacy Preferences” link in the Site footer. You may also manage cookies through your browser settings. Note that disabling certain cookies may affect Site functionality.
+Browser-level cookie controls:
+Chrome: Settings > Privacy and Security > Cookies and other site data
+Firefox: Settings > Privacy & Security > Cookies and Site Data
+Safari: Preferences > Privacy > Manage Website Data
+Edge: Settings > Cookies and site permissions
+4. HOW WE SHARE YOUR INFORMATION
+We do not sell your personal information for monetary consideration. However, under certain state privacy laws (notably the CCPA/CPRA), the sharing of personal information with advertising partners through cookies and pixels for targeted advertising purposes may constitute a “sale” or “sharing” of personal information. We provide you with the right to opt out of such activity as described in Sections 3.4, 3.6, and 8.1.
+We share information with the following categories of recipients:
+4.1 Advertising and Analytics Partners
+As described in Section 3, we share Site usage data, device information, and conversion events with Google, Meta, TikTok, and other advertising and analytics partners for ad targeting, measurement, and optimization. This sharing occurs through cookies, pixels, server-side integrations, and hashed data transfers.
+4.2 Service Providers
+We engage service providers who process personal information on our behalf under written agreements that restrict their use of the information. These include:
+Cloud hosting and infrastructure providers (Amazon Web Services)
+Email marketing and delivery platforms
+SMS delivery services
+Customer support and chatbot platforms
+Payment processors (if you make a purchase or deposit through the Site before becoming a patient)
+Referral and affiliate program management platforms
+Content delivery networks (CDNs) and website performance services
+4.3 Referral Partners
+If you participate in or are referred through our referral program, we may share limited information (name, email, referral status) with the referring party to the extent necessary to administer the program and attribute referrals. Referral partners do not receive your health information.
+4.4 Professional Advisors
+We may share information with our attorneys, accountants, auditors, and consultants in connection with legal, tax, audit, and business advisory services, subject to professional confidentiality obligations.
+4.5 Legal and Safety Disclosures
+We may disclose personal information when we believe in good faith that disclosure is necessary to:
+Comply with applicable law, regulation, legal process, or enforceable governmental request
+Enforce our Terms of Service, including investigation of potential violations
+Detect, prevent, or address fraud, security incidents, or technical issues
+Protect the rights, property, or safety of MyDose, our users, or the public
+4.6 Business Transfers
+In the event of a merger, acquisition, reorganization, bankruptcy, asset sale, or similar transaction, your personal information may be transferred to the acquiring or successor entity. We will provide notice prior to your information being subject to a different privacy policy.
+4.7 With Your Consent
+We may share your information with third parties when you direct us to or provide your explicit consent.
+5. DATA RETENTION
+5.1 General Retention Periods
+We retain personal information for as long as necessary to fulfill the purposes described in this Policy, subject to legal, regulatory, and contractual requirements:
+Contact and inquiry data:
+retained for three (3) years from last interaction, or until you request deletion
+Email marketing data:
+retained until you unsubscribe, plus a suppression record maintained indefinitely to honor your opt-out
+Analytics and usage data:
+retained in identifiable form for up to twenty-six (26) months; retained in aggregated or de-identified form indefinitely
+Advertising platform data:
+retention governed by each platform’s policies (typically 180 days to 2 years)
+Chatbot interaction data:
+retained for two (2) years from interaction date
+Referral program data:
+retained for the duration of the program plus three (3) years
+Server logs and security data:
+retained for one (1) year
+5.2 Conversion to Patient
+If you become a patient by creating an account and receiving healthcare services, information collected through the Site prior to your patient relationship may be associated with your patient record and will thereafter be governed by the applicable Clinical Platform or Telehealth Privacy Policy, including HIPAA protections.
+5.3 Deletion
+When personal information is no longer required, we will securely delete or de-identify it. De-identified and aggregated data may be retained indefinitely for analytics and research purposes.
+6. DATA SECURITY
+We implement commercially reasonable administrative, technical, and organizational safeguards to protect personal information collected through the Site, including:
+Encryption of data in transit using TLS 1.2 or higher
+Encryption of sensitive data at rest
+Access controls limiting personal information access to authorized personnel on a need-to-know basis
+Regular security assessments and vulnerability scanning
+Secure development practices and code review for Site applications
+Incident response procedures for security events
+While we implement robust security measures, no method of electronic transmission or storage is completely secure. We cannot guarantee absolute security of your information transmitted to or through the Site. You use the Site and transmit information at your own risk.
+7. THIRD-PARTY LINKS AND SERVICES
+The Site may contain links to third-party websites, services, or applications, including social media platforms, advertising partner pages, pharmacy providers, and content from other sources. We are not responsible for the privacy practices, content, or security of third-party services. We encourage you to review the privacy policies of any third-party sites you visit. Clicking a link to a third party from our Site does not imply endorsement of that third party’s privacy practices.
+8. YOUR PRIVACY RIGHTS
+8.1 California Residents (CCPA/CPRA)
+If you are a California resident, you have the following rights under the California Consumer Privacy Act, as amended by the California Privacy Rights Act:
+(a) Right to Know
+You have the right to request that we disclose the categories and specific pieces of personal information we have collected about you, the categories of sources, the business or commercial purposes for collection, and the categories of third parties with whom we share your information.
+(b) Right to Delete
+You have the right to request deletion of personal information we have collected from you, subject to certain exceptions (such as compliance with legal obligations, completing transactions, detecting security incidents, and exercising free speech).
+(c) Right to Correct
+You have the right to request correction of inaccurate personal information we maintain about you.
+(d) Right to Opt Out of Sale/Sharing
+You have the right to opt out of the “sale” or “sharing” of your personal information. Under the CCPA/CPRA, the transmission of personal information to third-party advertising partners through cookies and pixels for cross-context behavioral advertising may constitute “sharing.” You can opt out by: clicking “Do Not Sell or Share My Personal Information” on our Site; adjusting your cookie preferences; or enabling Global Privacy Control (GPC) in your browser.
+(e) Right to Limit Use of Sensitive Personal Information
+We do not use or disclose sensitive personal information (as defined by the CCPA/CPRA) for purposes beyond those permitted under the statute.
+(f) Right to Non-Discrimination
+We will not discriminate against you for exercising your privacy rights. You will not receive different pricing, quality, or service levels for exercising your rights.
+Categories of Personal Information Collected (CCPA Disclosure)
+CCPA Category
+Examples
+Shared for Advertising?
+Identifiers
+Name, email, phone, IP address, device IDs, advertising IDs
+Yes (hashed emails, IP/device IDs)
+Internet/Electronic Activity
+Browsing history on Site, search terms, page interactions, click data
+Yes (via analytics and pixels)
+Geolocation Data
+Approximate location derived from IP address (city/region level)
+Yes (via pixels)
+Commercial Information
+Referral participation, conversion events
+Yes (conversions sent to ad platforms)
+Inferences
+Interest profiles, audience segments created by advertising platforms
+Yes (created by ad platforms)
+California Shine the Light:
+We do not disclose personal information to third parties for their own direct marketing purposes.
+California Do Not Track Disclosure:
+We honor Do Not Track signals and Global Privacy Control as described in Section 3.5.
+8.2 Colorado, Connecticut, Virginia, and Texas Residents
+Residents of Colorado (CPA), Connecticut (CTDPA), Virginia (VCDPA), and Texas (TDPSA) have the following rights under their respective state privacy laws:
+Right to access your personal data
+Right to correct inaccuracies in your personal data
+Right to delete your personal data
+Right to obtain a portable copy of your personal data
+Right to opt out of the processing of personal data for targeted advertising
+Right to opt out of the sale of personal data (CO, CT, TX)
+Right to opt out of profiling in furtherance of decisions that produce legal or similarly significant effects (CO, CT, VA)
+To opt out of targeted advertising, use the cookie consent controls on the Site, enable GPC, or contact
+[email protected]
+. If we deny your request, you may appeal by contacting us at
+[email protected]
+with the subject line “Privacy Rights Appeal.”
+8.3 Oregon, Montana, Iowa, Indiana, Tennessee, and Other States
+Residents of states with comprehensive privacy legislation enacted after the effective date of this Policy, or states with existing legislation not specifically listed above, may have similar rights. We will comply with all applicable state privacy laws. Contact
+[email protected]
+for information about your specific state rights.
+8.4 How to Exercise Your Rights
+You may exercise your privacy rights by:
+Emailing
+[email protected]
+with the subject line “Privacy Rights Request”
+Submitting a request through the privacy request form on the Site
+[here]
+Calling us at the number provided in Section 14
+We will verify your identity before processing your request. Verification may require you to confirm information we have on file, respond to an email sent to the address associated with your request, or provide government-issued identification in cases involving sensitive data. We will respond to verified requests within the timeframes required by applicable law (generally 45 days under CCPA/CPRA, with one 45-day extension permitted upon notice). Authorized agents may submit requests on your behalf with proper written authorization.
+8.5 Metrics (California)
+As required by the CCPA/CPRA, we will publish annual metrics regarding the number of privacy rights requests received, complied with, denied, and median response time. These metrics will be made available at
+mydose.ai/privacy-request
+or upon request.
+9. EMAIL MARKETING AND COMMUNICATIONS
+9.1 Opt-In
+We send marketing emails only to individuals who have affirmatively opted in by providing their email address through a signup form, during account creation, or through another clear, affirmative consent mechanism. We do not purchase email lists or send unsolicited marketing emails.
+9.2 Opt-Out
+Every marketing email includes a clear and conspicuous “unsubscribe” link. You may also opt out by emailing
+[email protected]
+or adjusting your email preferences in your account settings. We will process unsubscribe requests within ten (10) business days, as required by the CAN-SPAM Act (15 U.S.C. § 7701 et seq.). Opting out of marketing emails does not affect transactional or service-related emails if you are a patient.
+9.3 SMS Communications
+If you provide your phone number and consent to SMS communications, we may send you marketing or informational text messages. You may opt out at any time by replying STOP to any message or by contacting
+[email protected]
+. Message and data rates may apply. SMS frequency varies. We comply with the Telephone Consumer Protection Act (TCPA) and applicable state telemarketing laws.
+10. CHATBOT PRIVACY
+The Site may feature an automated chatbot to answer questions and help you navigate our services.
+Chatbot conversations are logged and stored for quality assurance, training, and improvement purposes
+Conversations may be reviewed by authorized MyDose personnel or used to improve chatbot accuracy
+Do not submit sensitive medical information, Social Security numbers, or payment card numbers through the chatbot
+If a chatbot conversation transitions to a human agent, you will be notified
+Chatbot interaction data is retained for two (2) years from the date of the interaction and then securely deleted
+Chatbot data is not shared with advertising partners
+11. CHILDREN’S PRIVACY
+The Site is not directed at individuals under the age of eighteen (18). We do not knowingly collect personal information from children. If we learn that we have collected personal information from a child under 18, we will promptly delete it. If you believe a child’s information has been submitted, contact us at
+[email protected]
+. We comply with the Children’s Online Privacy Protection Act (COPPA) to the extent applicable.
+12. INTERNATIONAL VISITORS
+The Site is operated from the United States and is intended for visitors and users located within the United States. If you access the Site from outside the United States, you understand and acknowledge that your information may be transferred to, stored in, and processed in the United States, where privacy laws may differ from those of your jurisdiction. By using the Site, you consent to such transfer. We do not knowingly target or market to individuals in the European Economic Area, United Kingdom, or other jurisdictions subject to the General Data Protection Regulation (GDPR). If you are located in such a jurisdiction, please do not use the Site or submit personal information.
+13. CHANGES TO THIS PRIVACY POLICY
+We may update this Policy from time to time to reflect changes in our practices, technologies, legal requirements, or business operations. When we make material changes:
+We will update the “Effective Date” and “Last Updated” dates at the top of this Policy
+We will post the revised Policy on the Site
+For material changes affecting how we use or share personal information, we will provide prominent notice on the Site (such as a banner notification) and, where we have your email address, send direct email notification
+Where required by applicable law, we will obtain your consent before applying material changes
+Your continued use of the Site after the effective date of a revised Policy constitutes your acceptance of the revised terms. We encourage you to review this Policy periodically.
+14. CONTACT INFORMATION
+If you have questions or concerns about this Privacy Policy, wish to exercise your privacy rights, or need to submit a complaint, please contact:
+MyDose.ai, LLC
+Attn: Privacy Officer
+30 N Gould St Ste N
+Sheridan, WY 82801
+Email:
+[email protected]
+For privacy rights requests, please include:
+Your full name and email address associated with your interaction
+A description of the right you wish to exercise
+Sufficient information for us to verify your identity
+Your state of residence (so we can determine which rights apply)
+We aim to respond to all inquiries within five (5) business days and to fulfill verified rights requests within the timeframes required by applicable law.
+15. GOVERNING LAW
+This Privacy Policy shall be governed by and construed in accordance with the laws of the State of Wyoming, without regard to conflict of law principles. Any disputes arising under this Policy shall be subject to the exclusive jurisdiction of the state and federal courts located in Sheridan County, Wyoming, except where a different forum is required by applicable state consumer protection law.
+16. SEVERABILITY
+If any provision of this Policy is held to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect. The invalid provision shall be modified to the minimum extent necessary to make it valid and enforceable while preserving the original intent.
+17. ACCESSIBILITY
+We are committed to making our privacy practices accessible to all users. If you need this Policy in an alternative format (such as large print, audio, or another accessible format), please contact
+[email protected]
+and we will make reasonable efforts to accommodate your request.
+© 2026 MyDose.ai, LLC. All rights reserved.

@@ -1,0 +1,208 @@
+[
+  {
+    "domain": "plainvero.com",
+    "checked_at_pst": "2026-11-07 11:39:20 PST",
+    "http_status": 404,
+    "status": "registration record not found; registrar availability unconfirmed",
+    "source": "https://rdap.verisign.com/com/v1/domain/plainvero.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote",
+    "body_bytes": 0
+  },
+  {
+    "domain": "rillstead.com",
+    "checked_at_pst": "2026-11-07 11:39:08 PST",
+    "http_status": 200,
+    "status": "registered",
+    "registry_registration_date": "2026-07-20T22:57:16Z",
+    "source": "https://rdap.verisign.com/com/v1/domain/rillstead.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote"
+  },
+  {
+    "domain": "clearbyline.com",
+    "checked_at_pst": "2026-11-07 11:39:08 PST",
+    "http_status": 200,
+    "status": "registered",
+    "registry_registration_date": "2025-12-15T20:26:31Z",
+    "source": "https://rdap.verisign.com/com/v1/domain/clearbyline.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote"
+  },
+  {
+    "domain": "rillara.com",
+    "checked_at_pst": "2026-11-07 11:39:20 PST",
+    "http_status": 404,
+    "status": "registration record not found; registrar availability unconfirmed",
+    "source": "https://rdap.verisign.com/com/v1/domain/rillara.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote",
+    "body_bytes": 0
+  },
+  {
+    "domain": "verostead.com",
+    "checked_at_pst": "2026-11-07 11:39:08 PST",
+    "http_status": 200,
+    "status": "registered",
+    "registry_registration_date": "2026-09-13T19:32:15Z",
+    "source": "https://rdap.verisign.com/com/v1/domain/verostead.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote"
+  },
+  {
+    "domain": "avenplain.com",
+    "checked_at_pst": "2026-11-07 11:39:20 PST",
+    "http_status": 404,
+    "status": "registration record not found; registrar availability unconfirmed",
+    "source": "https://rdap.verisign.com/com/v1/domain/avenplain.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote",
+    "body_bytes": 0
+  },
+  {
+    "domain": "forthplain.com",
+    "checked_at_pst": "2026-11-07 11:39:20 PST",
+    "http_status": 404,
+    "status": "registration record not found; registrar availability unconfirmed",
+    "source": "https://rdap.verisign.com/com/v1/domain/forthplain.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote",
+    "body_bytes": 0
+  },
+  {
+    "domain": "careasstated.com",
+    "checked_at_pst": "2026-11-07 11:39:20 PST",
+    "http_status": 404,
+    "status": "registration record not found; registrar availability unconfirmed",
+    "source": "https://rdap.verisign.com/com/v1/domain/careasstated.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote",
+    "body_bytes": 0
+  },
+  {
+    "domain": "plainverohealth.com",
+    "checked_at_pst": "2026-11-07 11:39:21 PST",
+    "http_status": 404,
+    "status": "registration record not found; registrar availability unconfirmed",
+    "source": "https://rdap.verisign.com/com/v1/domain/plainverohealth.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote",
+    "body_bytes": 0
+  },
+  {
+    "domain": "rillsteadhealth.com",
+    "checked_at_pst": "2026-11-07 11:39:21 PST",
+    "http_status": 404,
+    "status": "registration record not found; registrar availability unconfirmed",
+    "source": "https://rdap.verisign.com/com/v1/domain/rillsteadhealth.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote",
+    "body_bytes": 0
+  },
+  {
+    "domain": "clearbylinehealth.com",
+    "checked_at_pst": "2026-11-07 11:39:21 PST",
+    "http_status": 404,
+    "status": "registration record not found; registrar availability unconfirmed",
+    "source": "https://rdap.verisign.com/com/v1/domain/clearbylinehealth.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote",
+    "body_bytes": 0
+  },
+  {
+    "domain": "plainvia.com",
+    "checked_at_pst": "2026-11-07 11:39:21 PST",
+    "http_status": 404,
+    "status": "registration record not found; registrar availability unconfirmed",
+    "source": "https://rdap.verisign.com/com/v1/domain/plainvia.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote",
+    "body_bytes": 0
+  },
+  {
+    "domain": "evenward.com",
+    "checked_at_pst": "2026-11-07 11:39:08 PST",
+    "http_status": 200,
+    "status": "registered",
+    "registry_registration_date": "2026-06-04T03:55:39Z",
+    "source": "https://rdap.verisign.com/com/v1/domain/evenward.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote"
+  },
+  {
+    "domain": "kindstead.com",
+    "checked_at_pst": "2026-11-07 11:39:08 PST",
+    "http_status": 200,
+    "status": "registered",
+    "registry_registration_date": "2021-09-25T16:20:08Z",
+    "source": "https://rdap.verisign.com/com/v1/domain/kindstead.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote"
+  },
+  {
+    "domain": "planstead.com",
+    "checked_at_pst": "2026-11-07 11:39:08 PST",
+    "http_status": 200,
+    "status": "registered",
+    "registry_registration_date": "2021-07-23T03:14:59Z",
+    "source": "https://rdap.verisign.com/com/v1/domain/planstead.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote"
+  },
+  {
+    "domain": "steadvera.com",
+    "checked_at_pst": "2026-11-07 11:39:08 PST",
+    "http_status": 200,
+    "status": "registered",
+    "registry_registration_date": "2026-04-25T06:26:51Z",
+    "source": "https://rdap.verisign.com/com/v1/domain/steadvera.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote"
+  },
+  {
+    "domain": "plainkind.com",
+    "checked_at_pst": "2026-11-07 11:39:08 PST",
+    "http_status": 200,
+    "status": "registered",
+    "registry_registration_date": "2026-09-06T18:59:06Z",
+    "source": "https://rdap.verisign.com/com/v1/domain/plainkind.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote"
+  },
+  {
+    "domain": "kindoutline.com",
+    "checked_at_pst": "2026-11-07 11:43:01 PST",
+    "http_status": 200,
+    "status": "registered",
+    "source": "https://rdap.verisign.com/com/v1/domain/kindoutline.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote"
+  },
+  {
+    "domain": "plainstead.com",
+    "checked_at_pst": "2026-11-07 11:43:01 PST",
+    "http_status": 200,
+    "status": "registered",
+    "source": "https://rdap.verisign.com/com/v1/domain/plainstead.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote"
+  },
+  {
+    "domain": "rillplain.com",
+    "checked_at_pst": "2026-11-07 11:43:02 PST",
+    "http_status": 404,
+    "status": "registration record not found; registrar availability unconfirmed",
+    "source": "https://rdap.verisign.com/com/v1/domain/rillplain.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote"
+  },
+  {
+    "domain": "steadfolk.com",
+    "checked_at_pst": "2026-11-07 11:43:02 PST",
+    "http_status": 200,
+    "status": "registered",
+    "source": "https://rdap.verisign.com/com/v1/domain/steadfolk.com",
+    "registrar_confirmed_available": false,
+    "price": "not checked; no quote"
+  }
+]

@@ -1,5 +1,8 @@
 # Hormone & Peptide Clinic Marketing Pack
 
+## Where to resume
+Shared documents in this repository govern continuity across Cursor and Grok Bot. Before planning, read the latest remote [current state](docs/alignment/CURRENT.md), the latest dated [start here](backups/2026-11-07/START-HERE.md), [handoff](backups/2026-11-07/handoff.md), and the [chat transcript](backups/2026-11-07/chat/conversation.md), then the MyDose research and recorded CaseMap provenance. Operating rules: [ALIGNMENT.md](ALIGNMENT.md). The November 7, 2026 backup is a fixed snapshot, not a live or future sync. The paragraphs below are unchanged pack text. `MANIFEST.sha256` is refreshed for this README only; the archive digest already recorded in Repository status stays the pre-clarification README digest.
+
 **DRAFT v0.1 — research snapshot November 6, 2026 PST.** Reusable instruction copies for a configurable U.S. clinic project. This directory began as an authoring handoff and now sits in a private draft repository. It is not an installed global skill, clinical protocol, advertising authorization, or legal opinion. Nothing was published, purchased, sent, or changed in an ad account. No clinical partner, patient niche, or launch state is selected. All copy remains draft research, not clinical or legal approval, and not a claim of launch readiness.
 
 ## Repository status

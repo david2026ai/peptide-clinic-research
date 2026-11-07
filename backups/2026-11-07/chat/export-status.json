@@ -1,0 +1,26 @@
+{
+  "status": "COMPLETE for provided parent spoken snapshot plus confirmed widget/answer supplement",
+  "spoken_messages": 143,
+  "supplemental_widget_answer_records": 2,
+  "total_records": 145,
+  "role_counts_spoken": {
+    "user": 40,
+    "assistant": 103
+  },
+  "coverage_start_pst": "2026-11-06T13:14:53.359000-08:00",
+  "last_exact_timestamp_pst": "2026-11-07T12:07:18.230000-08:00",
+  "snapshot_received_pst": "2026-11-07 approximately 12:12 PM PST",
+  "latest_two_assistant_status_updates": "Included in full, in source order; exact timestamps not exposed. They follow the last exact timestamp.",
+  "indexed_user_assistant_messages": 141,
+  "indexed_messages_recovered_in_full": 141,
+  "missing_indexed_messages": 0,
+  "search_snippets_used_as_verbatim": false,
+  "excluded_records": "One named project-worker update excluded; hidden wakes/tool logs/reasoning/internal IDs/raw exports excluded.",
+  "timestamp_method": "Exact search-index ISO timestamps converted to PST for 141 messages. Two supplemental records only minute precision. Two newer assistant messages have no fabricated timestamp.",
+  "scope_limit": "A dated snapshot, not future conversation sync. No missing text in the supplied spoken snapshot; attachment platform metadata not exposed by that spoken export.",
+  "redactions": {
+    "internal_agent_links": 3,
+    "affected_messages": 3,
+    "notes": "Only three internal agent-link targets redacted; visible link labels and all other message text retained. Page/repository/source/file links remain."
+  }
+}

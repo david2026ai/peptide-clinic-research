@@ -1,0 +1,200 @@
+[
+  {
+    "url": "https://docs.mydose.ai/studio/overview",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__studio__overview.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/studio/quickstart",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__studio__quickstart.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/studio/build-with-ai",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__studio__build-with-ai.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/studio/choose-products",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__studio__choose-products.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/studio/billing-and-plan",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__studio__billing-and-plan.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/studio/payouts",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__studio__payouts.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/studio/seo-and-ad-pages",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__studio__seo-and-ad-pages.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/studio/patients-and-orders",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__studio__patients-and-orders.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/studio/team-and-roles",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__studio__team-and-roles.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/studio/test-mode-and-go-live",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__studio__test-mode-and-go-live.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/studio/faq",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__studio__faq.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/studio/store-editor",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__studio__store-editor.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/studio/troubleshooting",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__studio__troubleshooting.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/studio/compliance-for-brand-owners",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__studio__compliance-for-brand-owners.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/clinic-guide/overview",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__clinic-guide__overview.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/clinic-guide/prescriber-credentials",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__clinic-guide__prescriber-credentials.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/clinic-guide/patient-health",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__clinic-guide__patient-health.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/clinic-guide/review-intakes",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__clinic-guide__review-intakes.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/clinic-guide/create-service-package",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__clinic-guide__create-service-package.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/clinic-guide/mydose-approved",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__clinic-guide__mydose-approved.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/clinic-guide/calendar",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__clinic-guide__calendar.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/clinic-guide/messaging",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__clinic-guide__messaging.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/clinic-guide/billing",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__clinic-guide__billing.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/clinic-guide/orders-management",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__clinic-guide__orders-management.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/clinic-guide/patient-orders",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__clinic-guide__patient-orders.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/changelog",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/docs.mydose.ai__changelog.txt"
+  },
+  {
+    "url": "https://mydose.ai/safety/",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/mydose.ai__safety.txt"
+  },
+  {
+    "url": "https://mydose.ai/privacy-policy/",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/mydose.ai__privacy-policy.txt"
+  },
+  {
+    "url": "https://mydose.ai/terms-of-service/",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/mydose.ai__terms-of-service.txt"
+  },
+  {
+    "url": "https://mydose.ai/faq/",
+    "status": 200,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "file": "sources/mydose.ai__faq.txt"
+  },
+  {
+    "url": "https://docs.mydose.ai/studio/set-prices",
+    "status": 401,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "method": "WebFetch; not retried"
+  },
+  {
+    "url": "https://health.mydose.ai/privacy-policy",
+    "status": 404,
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "method": "WebFetch earlier in this research"
+  },
+  {
+    "url": "https://www.mbc.ca.gov/Licensing/Physicians-and-Surgeons/Practice-Information/",
+    "status": "maintenance page",
+    "checked_at": "2026-11-07T10:32:42.668692-08:00",
+    "note": "Notice: Nov7 10am\u20135pm PST; California official statute used separately"
+  }
+]

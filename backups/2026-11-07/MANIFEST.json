@@ -1,0 +1,662 @@
+{
+  "created_at_pst": "2026-11-07 12:15:02 PST",
+  "archive_root": "backups/2026-11-07/",
+  "exclusions": "MANIFEST.json, SHA256SUMS.txt, VALIDATION.json omitted from own payload list to avoid self-reference",
+  "files": [
+    {
+      "path": "CURSOR-INSTRUCTION.txt",
+      "bytes": 1195,
+      "sha256": "3f2bb53e7773c0c9cb77dc731449e510de67a4ae53113dc7faabe10fdd2748c0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1646,
+      "sha256": "ce3e25dfd7e51d13164f3093aac368fd1bd990a22c5c61536d657f441a50b238"
+    },
+    {
+      "path": "START-HERE.md",
+      "bytes": 3899,
+      "sha256": "f7c1fd73c08c2c6952ead06911f0fbad6646d9e332a064b8b44fef394618863e"
+    },
+    {
+      "path": "alignment-protocol/ALIGNMENT.md",
+      "bytes": 2359,
+      "sha256": "fb2254923c033374ae8ad8634971a14c87457cbe054ca9156ae24f36a4c567b3"
+    },
+    {
+      "path": "alignment-protocol/CURRENT.md",
+      "bytes": 3829,
+      "sha256": "55e439451fe6446d9d9abec6ab679f28fa1f55f286f1b9ef33660f0bd3830e9b"
+    },
+    {
+      "path": "alignment-protocol/routine-status.json",
+      "bytes": 544,
+      "sha256": "9b1c52fcc3c42e3882b648a9d832dedc0f4e08ce8715d25f63fe0ab2b566f3c1"
+    },
+    {
+      "path": "chat/conversation.json",
+      "bytes": 60771,
+      "sha256": "3b7cd99659839f35294ab58d372fbaaa96a029f716516ed973692c0752e1faa8"
+    },
+    {
+      "path": "chat/conversation.md",
+      "bytes": 41241,
+      "sha256": "1f7b1537bd068797b2aefb5aee5e2f6c6c911a6d27b8a82f59fac726f830a81e"
+    },
+    {
+      "path": "chat/decision-summary.md",
+      "bytes": 2073,
+      "sha256": "99d4599407ab45542aaa65ad809517c35a69dbf026ca39143fadedcc99e9d8ec"
+    },
+    {
+      "path": "chat/export-status.json",
+      "bytes": 1531,
+      "sha256": "6b6e2a2d5f4b2aca64c039e29400c4c78edc75472339a3bbf67d8b1b582be761"
+    },
+    {
+      "path": "chat/redaction-log.json",
+      "bytes": 438,
+      "sha256": "3a426387fec6fdcb8d1896c9cef422313301dd73be196c9d4426511954d839ba"
+    },
+    {
+      "path": "handoff.md",
+      "bytes": 10231,
+      "sha256": "1d6db04ab77f7dd89da86ec913660ca56e97bf2fa7af6a23ba575ef406aae048"
+    },
+    {
+      "path": "links.json",
+      "bytes": 587,
+      "sha256": "244e29d54be5be3aaf70121bea98f4da4daeddf023904990b0110414769a3aaf"
+    },
+    {
+      "path": "pages/README.md",
+      "bytes": 753,
+      "sha256": "b5b03d54b9f44edc23ad8521769ad1472e0235875c3200c5c72732f8a03c6159"
+    },
+    {
+      "path": "pages/branding-page.canvas.tsx",
+      "bytes": 27740,
+      "sha256": "0464ff6209fa7636d49ec1714b1d559d8c2f152b227dcabf811f6e3261a6b1f3"
+    },
+    {
+      "path": "pages/mydose-page.canvas.tsx",
+      "bytes": 68976,
+      "sha256": "1cfcaf569a11fe59fba6e4ccfa09b923046bbe2ad406ff1eedb6581bdbafba85"
+    },
+    {
+      "path": "provenance.json",
+      "bytes": 1380,
+      "sha256": "83d074248e004e981b846d59a2716ddb4689bbc7175cbccc5652cfc6024c5780"
+    },
+    {
+      "path": "research/branding/README.md",
+      "bytes": 1342,
+      "sha256": "73e86332df39cd392d36fdc5bdf764dfecf2145d7ce570285003c16b2087732b"
+    },
+    {
+      "path": "research/branding/attribute-scores.csv",
+      "bytes": 2558,
+      "sha256": "7616090fb3885fbfe89ad6cb3a70f9851740b71ae711d2f2a9d21f6ddd767976"
+    },
+    {
+      "path": "research/branding/discarded-and-hold.csv",
+      "bytes": 1747,
+      "sha256": "e1e412317fff737521fbc757ddf15633121cde3f940de9ead6381fee9087e449"
+    },
+    {
+      "path": "research/branding/domain-checks.csv",
+      "bytes": 3790,
+      "sha256": "443439fadbfa32e9f0916b9d1b18df8051e0cb52f8e4f956e4e81636b5f3e42b"
+    },
+    {
+      "path": "research/branding/domain-checks.json",
+      "bytes": 7408,
+      "sha256": "1f6902a4326c339da2b7ae756dd0023b7c9bce12d8fb3b40f41d0c4f4668b7ea"
+    },
+    {
+      "path": "research/branding/evidence-register.csv",
+      "bytes": 2726,
+      "sha256": "18a7cfbc896314b4c7d3ed7e54d5025985b0583d7c27f24fcc43e0007e96387c"
+    },
+    {
+      "path": "research/branding/evidence-register.json",
+      "bytes": 3804,
+      "sha256": "b39f9f4149ba9be26570572457f8ca98aaeb26667645925c2c75d8d407b32e2e"
+    },
+    {
+      "path": "research/branding/framework-search-report.json",
+      "bytes": 1401,
+      "sha256": "60cf1d11a9b7571c4d48ccd5d12dded80cbb3f980e55505b4afbb7a640576dac"
+    },
+    {
+      "path": "research/branding/framework-search-report.md",
+      "bytes": 2268,
+      "sha256": "2e28f023948a7b202156efddb55000e6f41d49ed478e836e267cd4bf4e677334"
+    },
+    {
+      "path": "research/branding/framework-source.json",
+      "bytes": 1401,
+      "sha256": "60cf1d11a9b7571c4d48ccd5d12dded80cbb3f980e55505b4afbb7a640576dac"
+    },
+    {
+      "path": "research/branding/kindoutline.com.public.html",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/branding/manifest.json",
+      "bytes": 5735,
+      "sha256": "8fbd3b34dad8224d9f08501dc28e99ffa74cdbebd5ddfb404ef605f1f76cd59f"
+    },
+    {
+      "path": "research/branding/maps/clinic-brand-options.json",
+      "bytes": 19324,
+      "sha256": "4f40d34c55e1a0c2cc4de4fcfc03dd69e636c6d4d774530895ccf3fbb0d71665"
+    },
+    {
+      "path": "research/branding/maps/clinic-brand-options.md",
+      "bytes": 12841,
+      "sha256": "fb0efa1fe8424784de8198ab556abd964c5d1d69ace34f73e38967b6c5e09d06"
+    },
+    {
+      "path": "research/branding/maps/clinic-brand-options.yaml",
+      "bytes": 19324,
+      "sha256": "4f40d34c55e1a0c2cc4de4fcfc03dd69e636c6d4d774530895ccf3fbb0d71665"
+    },
+    {
+      "path": "research/branding/page-url.txt",
+      "bytes": 106,
+      "sha256": "0d2440a665319b3ec4eacc1d5e13eb053043b806d97201d24edc8475960e6592"
+    },
+    {
+      "path": "research/branding/rdap/avenplain.com.json",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/branding/rdap/careasstated.com.json",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/branding/rdap/clearbyline.com.json",
+      "bytes": 2603,
+      "sha256": "f344c091472ef739286dc75609e1a0638a752cf34735aec894b56f98479deddb"
+    },
+    {
+      "path": "research/branding/rdap/clearbylinehealth.com.json",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/branding/rdap/evenward.com.json",
+      "bytes": 2751,
+      "sha256": "8d53a361a53c30448b3d7000af4a4e9957327bcef0e6a42ce88b54275f3d1bd5"
+    },
+    {
+      "path": "research/branding/rdap/forthplain.com.json",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/branding/rdap/kindoutline.com.json",
+      "bytes": 2606,
+      "sha256": "ec27ff7395d0d445b3c70ff4fb2cc296dadfcb0f33d11963a5c8bbca7feea87f"
+    },
+    {
+      "path": "research/branding/rdap/kindstead.com.json",
+      "bytes": 2541,
+      "sha256": "5fa19a4e7aa80e2a2099e8e5cabcbdedcc47555fe9c6f8111cc46af69843fa19"
+    },
+    {
+      "path": "research/branding/rdap/plainkind.com.json",
+      "bytes": 2657,
+      "sha256": "8b546d34a231fd571dd5454d21042d298747c05394cfa2d5412c78ae87f791ae"
+    },
+    {
+      "path": "research/branding/rdap/plainstead.com.json",
+      "bytes": 2625,
+      "sha256": "f7504a84a555bc3f3473178dab9f302eaf13aaed827e4383c30e9fe06e80b1ad"
+    },
+    {
+      "path": "research/branding/rdap/plainvero.com.json",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/branding/rdap/plainverohealth.com.json",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/branding/rdap/plainvia.com.json",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/branding/rdap/planstead.com.json",
+      "bytes": 2551,
+      "sha256": "f5595c6948a9bc0ba8714f60b23204ac404268b4b1ac5c9e03c729d9810f9621"
+    },
+    {
+      "path": "research/branding/rdap/rillara.com.json",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/branding/rdap/rillplain.com.json",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/branding/rdap/rillstead.com.json",
+      "bytes": 2616,
+      "sha256": "d9f1e372a11ce05c9850c3bda401c52f148876966baeef9fcce4f09b5a7744f6"
+    },
+    {
+      "path": "research/branding/rdap/rillsteadhealth.com.json",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/branding/rdap/steadfolk.com.json",
+      "bytes": 2587,
+      "sha256": "9d1296059d56d14e4d14cbdf0fe229a613cb81147f10629c7ad9503f6f29dfb9"
+    },
+    {
+      "path": "research/branding/rdap/steadvera.com.json",
+      "bytes": 2619,
+      "sha256": "e31c5bfb13fc8f1f166d0e00ec7926a8ad84c4f77243fc49aa0927bdd1bb2328"
+    },
+    {
+      "path": "research/branding/rdap/verostead.com.json",
+      "bytes": 2570,
+      "sha256": "744ffcf96ddbe6e02684b0c72ff8285d0b9d99e7796da1116955e2b2c0adf874"
+    },
+    {
+      "path": "research/branding/shortlist.csv",
+      "bytes": 4142,
+      "sha256": "fad1a378910f9fa9cd7a25d04c8ab4373bb3ba9dbd7fab5e6bc9b9a81cbd8316"
+    },
+    {
+      "path": "research/branding/shortlist.json",
+      "bytes": 6686,
+      "sha256": "7478e0175aac4e5f9b24c773203da7712a6c185101327a7f4fe30581f75e4ffb"
+    },
+    {
+      "path": "research/branding/verification-summary.md",
+      "bytes": 1318,
+      "sha256": "70d3920ee269d8904f34f512efae5049f55a11603d915f576503fcba143a74b2"
+    },
+    {
+      "path": "research/mydose/AGENTS.md",
+      "bytes": 1327,
+      "sha256": "3c16252000041eca9d0277eda6b83bbcac150ad195cfbb338453e3f5fc1ebd0b"
+    },
+    {
+      "path": "research/mydose/ARCHITECTURE-AND-MIGRATION.md",
+      "bytes": 16895,
+      "sha256": "53ae8ddbfc016e656e2c6599057706cf18a236fb8e0f3a78d0619327d463878e"
+    },
+    {
+      "path": "research/mydose/MCP-INVENTORY.md",
+      "bytes": 19614,
+      "sha256": "29007eb4e36aae321752d94e38d5eac626eee219cf68d06528a930dc8df1c4c7"
+    },
+    {
+      "path": "research/mydose/PORTABILITY.md",
+      "bytes": 7451,
+      "sha256": "e3be3cc3738e5dbfa5f8f86b25eb95ae569b8f5fe0f4d65e4457419af9b7a470"
+    },
+    {
+      "path": "research/mydose/README.md",
+      "bytes": 3744,
+      "sha256": "ed1d037fec83a0695a63499cbefb5b21c0f066667bcb50b815b47c4bb218ebe3"
+    },
+    {
+      "path": "research/mydose/SOURCES.md",
+      "bytes": 8598,
+      "sha256": "f3095a6ead930737c6d5192bca2a12be7c533cf80a900dc75559e202c051c00b"
+    },
+    {
+      "path": "research/mydose/builder-comparison/README.md",
+      "bytes": 935,
+      "sha256": "c3a1aa43ee4b0963a207a968e2ca85b03c84af569d7a3d7a75001562f786659e"
+    },
+    {
+      "path": "research/mydose/builder-comparison/research-notes.md",
+      "bytes": 37406,
+      "sha256": "2f07b88e0d9222d1f2f599f64e2ce51f30f8d167cb5447d20f4e7502c8804be4"
+    },
+    {
+      "path": "research/mydose/builder-comparison/sources/legitscript-checklist.pdf",
+      "bytes": 619694,
+      "sha256": "a119e3c891cc1527af3487700541afc4eacbca45ee854013afe0e0f9f183b506"
+    },
+    {
+      "path": "research/mydose/builder-comparison/sources/legitscript-checklist.txt",
+      "bytes": 6534,
+      "sha256": "cb4bc7f6670cf73b724bcfbeeb15204096ad8ccde00b9c5913acf39aec2b4924"
+    },
+    {
+      "path": "research/mydose/builder-comparison/sources/webflow-terms.html",
+      "bytes": 370101,
+      "sha256": "a2512e933359e90721c160c22271afe6e1a18f4e9c583b76a11e8dbbb5673e8f"
+    },
+    {
+      "path": "research/mydose/builder-comparison/sources/webflow-terms.txt",
+      "bytes": 151882,
+      "sha256": "4a8dc6eccfa39b453d2f57e9b1905e8d94ad57f58356a1346579e76b62c6adbe"
+    },
+    {
+      "path": "research/mydose/builder-comparison/sources.csv",
+      "bytes": 9515,
+      "sha256": "cd7ee0e606f244aff3e967c42f1b383700e6f5f7a71ba5ba0edd93607647d52f"
+    },
+    {
+      "path": "research/mydose/builder-comparison/vendor-comparison.csv",
+      "bytes": 11581,
+      "sha256": "b3c97fe0ebbd3c7cff26b8e79604ba48ece1822f71a6a7c971da5ce6532af4e2"
+    },
+    {
+      "path": "research/mydose/builder-comparison/vendor-comparison.json",
+      "bytes": 15252,
+      "sha256": "111b65813896fbec95b09138805d1d0253c7cddf8fdf4a9328b5bc03c9299cc6"
+    },
+    {
+      "path": "research/mydose/docs-navigation.json",
+      "bytes": 912,
+      "sha256": "cae32b8bd8814a5b4acda6bf13b04805222a6f3b15cee55e26d74f3f41c3171a"
+    },
+    {
+      "path": "research/mydose/economics-assumptions.json",
+      "bytes": 731,
+      "sha256": "eb7cca051f81f2174dee3b165b6a0cbbf9e907331e8cfc260a6168d0a5332e1f"
+    },
+    {
+      "path": "research/mydose/integration-inventory.csv",
+      "bytes": 19928,
+      "sha256": "fb204ecf2cee2f9a368e4cf0b3335b39a380e98a634009cbc65962c6fa456d23"
+    },
+    {
+      "path": "research/mydose/integration-inventory.json",
+      "bytes": 29261,
+      "sha256": "c36a38fb6176270de9bebf923f2cecff52c931b73633380b5c0b7ed11da9514c"
+    },
+    {
+      "path": "research/mydose/integration-inventory.md",
+      "bytes": 26964,
+      "sha256": "96af2f64e6b33f7e36e84a48705059eeeeb4fce0ee406579682b315166b28a87"
+    },
+    {
+      "path": "research/mydose/manifest.json",
+      "bytes": 3754,
+      "sha256": "1e2c4a4892ef4b2f2a5a14d164dc7defb83905c72b0e7d9e3d70981ba8c14d0e"
+    },
+    {
+      "path": "research/mydose/mcp-inventory.csv",
+      "bytes": 14862,
+      "sha256": "e46ecc486bf389d3271c1954441f9df5899d5b033c455b787f26f7caafee0ed0"
+    },
+    {
+      "path": "research/mydose/mcp-inventory.json",
+      "bytes": 20362,
+      "sha256": "5f15835f6ce3d9925d074a75c5d0deefddf6e3acb4eb4235124734151c646f01"
+    },
+    {
+      "path": "research/mydose/migration-economics.csv",
+      "bytes": 715,
+      "sha256": "836bb86b7ace9c09b54858cd5f75c568283c403440a361da56e34199e543e3f7"
+    },
+    {
+      "path": "research/mydose/portability-inventory.csv",
+      "bytes": 5449,
+      "sha256": "1d8b50d5ceb6da7aa17bb8f5a1f706ca52372b50bd608e520dee1b5d09b979e1"
+    },
+    {
+      "path": "research/mydose/portability-inventory.json",
+      "bytes": 7773,
+      "sha256": "8745433767304b1c57c56ae24805795f89fc2df4c33cb14ecfca447cf3da079a"
+    },
+    {
+      "path": "research/mydose/public-links.json",
+      "bytes": 31264,
+      "sha256": "b6fe7c7d67e074e92cab1beca40483a808b866b83a21653dad605f3912868450"
+    },
+    {
+      "path": "research/mydose/skill-blueprints/AUDIT-TEMPLATE.md",
+      "bytes": 1423,
+      "sha256": "4643e3216c653336b62263be3eb339693d1d484703a6a83e5eac3bb3131ba38e"
+    },
+    {
+      "path": "research/mydose/skill-blueprints/clinic-exit-readiness/SKILL.md",
+      "bytes": 3904,
+      "sha256": "758fd2d671f7b42021ad73a644d6a71ba35e928c0c196f4368021d048163f3b6"
+    },
+    {
+      "path": "research/mydose/skill-blueprints/mcp-permission-and-phi-audit/SKILL.md",
+      "bytes": 3976,
+      "sha256": "42a55ab7e561dcab569df5475bbc1b3dcaa4789739e0dfa4f4174d0469e61c55"
+    },
+    {
+      "path": "research/mydose/skill-blueprints/owned-clinic-marketing-workbench/SKILL.md",
+      "bytes": 4710,
+      "sha256": "b7a6a1313dcb5892c7f068107b9b7b756b8d05571075eee12fc8598a11ea903e"
+    },
+    {
+      "path": "research/mydose/skill-blueprints/patient-safe-migration-reconciliation/SKILL.md",
+      "bytes": 4298,
+      "sha256": "6c0f10bec1eaaaf18e664063f39fbae35eee5e53b747cb0b93fa1588e50d9613"
+    },
+    {
+      "path": "research/mydose/skill-blueprints/public-integration-diligence/SKILL.md",
+      "bytes": 3416,
+      "sha256": "f84ef85f61d925c052816138a9a99dae5a127a79769a38ca6d6af278c6d62bcb"
+    },
+    {
+      "path": "research/mydose/skill-blueprints/synthetic-clinical-api-planning/SKILL.md",
+      "bytes": 3796,
+      "sha256": "21a71b3536ceb1e200f490701cddeb6f6d61332e9cdae655c12d1d1a57f554f6"
+    },
+    {
+      "path": "research/mydose/source-access-log.json",
+      "bytes": 6792,
+      "sha256": "1fc1e516f582914e256bf649d64dd5aa24b08fc775bda31deeef5d7de0dc26a8"
+    },
+    {
+      "path": "research/mydose/sources/clinical-software.txt",
+      "bytes": 22759,
+      "sha256": "5bc362bd6f859f0bfa0c3bafdd4a7003d9f622bff6dd8f0efb8008fb880f55e0"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__changelog.txt",
+      "bytes": 8284,
+      "sha256": "d9de7764abd6bae0a56c45c939abceb870ad9bdfd1273339afe354aaf209448a"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__clinic-guide__billing.txt",
+      "bytes": 2737,
+      "sha256": "7e993d19ea7fd3df526591a492bb53563bff9d175ccc1334ea186db0078e863f"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__clinic-guide__calendar.txt",
+      "bytes": 3597,
+      "sha256": "241c6272963ecfcd4baeb5bbdfcd0ef59dc14c4607180ac02d4f7ac3a4c36a13"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__clinic-guide__create-service-package.txt",
+      "bytes": 5660,
+      "sha256": "9a4e3bb942dce2d4bbe10a6f52007d590afd4f781125209329712bf1836afa85"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__clinic-guide__messaging.txt",
+      "bytes": 4204,
+      "sha256": "ec19e471c8ef03067a0e199c6c7b12b865cf3526f201f7959325543fe84b24c1"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__clinic-guide__mydose-approved.txt",
+      "bytes": 2804,
+      "sha256": "0dfff680112c7ab1af1bb91364f6b683e5c4ccd3305de983ffa5cfdf628aec83"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__clinic-guide__orders-management.txt",
+      "bytes": 2295,
+      "sha256": "806bb703b240b0f72ba1daabafab53e475c4803864350625aa2181ccbc597737"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__clinic-guide__overview.txt",
+      "bytes": 4151,
+      "sha256": "512b96c551ff184c17c7d4f178cd69027e4a2b870b320ef227d92ddfb62e8f20"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__clinic-guide__patient-health.txt",
+      "bytes": 3404,
+      "sha256": "8e0572945bc87d23d11744942599b3defc2b5e9f5608734ffbc569d8af2ddac1"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__clinic-guide__patient-orders.txt",
+      "bytes": 1910,
+      "sha256": "70aced142f2de0bc4edd93854b8a26cbcde3a04931bddefc2ff7172c9c35b29a"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__clinic-guide__prescriber-credentials.txt",
+      "bytes": 5033,
+      "sha256": "837d39ede20858fa0782f2e66069ac8a78f62e80e2bbd816ec39562de2579c88"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__clinic-guide__review-intakes.txt",
+      "bytes": 4583,
+      "sha256": "62126b3400243801787f9b02fcbc73a038edff2ac30fed15bf80555349deb514"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__studio__billing-and-plan.txt",
+      "bytes": 2894,
+      "sha256": "abc8a813ff6aad611e65e7ff631558b6156c6e2eed24b49328ca5ea8f965dd74"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__studio__build-with-ai.txt",
+      "bytes": 3845,
+      "sha256": "1ca5d9ef39be0b676637819026301efe0915f6d608aacc29ab8a6de7ef06544e"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__studio__choose-products.txt",
+      "bytes": 2428,
+      "sha256": "50d27d5fac9d0d03e5d848642101d7d3116a72b0898a51132cc0defef078e281"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__studio__compliance-for-brand-owners.txt",
+      "bytes": 3460,
+      "sha256": "33aaca9fc28aca0f871c0f761d61054df843bb40ae4b8c507b7859742733103a"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__studio__faq.txt",
+      "bytes": 1593,
+      "sha256": "a777d0069a4405416785977b041d6bba2580d5bfe913bbf717149894abf9463e"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__studio__overview.txt",
+      "bytes": 2875,
+      "sha256": "929e59c91936deb23aee2e157307f47b25835be49dde54a6f637f1aa9f827048"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__studio__patients-and-orders.txt",
+      "bytes": 3043,
+      "sha256": "6788ae0429eb02704dfb793b3a9e17e7f86be471754a93beaad1c6d66b1c589b"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__studio__payouts.txt",
+      "bytes": 2796,
+      "sha256": "c54ea56b7784f9bb955666541ec73ceed5b9e9bda76978e1333f261e79eac804"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__studio__quickstart.txt",
+      "bytes": 2181,
+      "sha256": "3ff45425a9cecd282f31a85b04a1ba31dad331d67828dec53216fbd6f5af1cc7"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__studio__seo-and-ad-pages.txt",
+      "bytes": 3257,
+      "sha256": "dcfade246c6264343aa547b781dc3ffd1ab71302d2c5965253e5bb9fbe14a05b"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__studio__store-editor.txt",
+      "bytes": 3187,
+      "sha256": "db692dbc7e4b6d418097f6a2c351ee844f69a1f9ad5574f421a297a1ff2b3a37"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__studio__team-and-roles.txt",
+      "bytes": 2750,
+      "sha256": "6c81cb85522f5091022458849cd29224263dacfc7025fcb6e2dcfd0db7687422"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__studio__test-mode-and-go-live.txt",
+      "bytes": 2687,
+      "sha256": "aae91cd3d5627e0040b2a36f72c2e10270b0b13932b7892a58a87044abe46e84"
+    },
+    {
+      "path": "research/mydose/sources/docs.mydose.ai__studio__troubleshooting.txt",
+      "bytes": 3237,
+      "sha256": "fb090894c170d616dbde36d9733051f25dc84ff71bb2a493949d1d1d8ee358dc"
+    },
+    {
+      "path": "research/mydose/sources/enterprise.txt",
+      "bytes": 7374,
+      "sha256": "149e17c325b9c0d7acba4373e0cc9080b861a417f891cafcca063503500a8594"
+    },
+    {
+      "path": "research/mydose/sources/home.txt",
+      "bytes": 9114,
+      "sha256": "d9c56c71005b48e1d6f19c147416decd7ceb1c2b29191acdb096f29597e7a882"
+    },
+    {
+      "path": "research/mydose/sources/meta-official-mcp.txt",
+      "bytes": 3405,
+      "sha256": "bfdbf7c5db5c03eaf258a11aaffcf905d7340477656e34b301fcd7ec9fc5fe6f"
+    },
+    {
+      "path": "research/mydose/sources/mydose.ai__faq.txt",
+      "bytes": 5973,
+      "sha256": "ad578e29ef8c2bfe41c5510e35e4aeda2871798acda4b483273b4532f9b855b3"
+    },
+    {
+      "path": "research/mydose/sources/mydose.ai__privacy-policy.txt",
+      "bytes": 31404,
+      "sha256": "8542777ef24fe6c94a2cf34f28f5f82b330f9420131fe16ef635d8daea5d584b"
+    },
+    {
+      "path": "research/mydose/sources/mydose.ai__safety.txt",
+      "bytes": 6307,
+      "sha256": "b819e987df0674b8d3a23f857a0214472d16b78d47b853a493b22949a6d2813a"
+    },
+    {
+      "path": "research/mydose/sources/mydose.ai__terms-of-service.txt",
+      "bytes": 35064,
+      "sha256": "e828839187201173d9f08f9972163a97154a47d0eeb58ee9e079471b27e169b8"
+    },
+    {
+      "path": "research/mydose/sources/pricing.txt",
+      "bytes": 5324,
+      "sha256": "f20df6811d3bc1ea8b6be9aeef21dc1332962bba6d87c1621b70147ef0ae957b"
+    },
+    {
+      "path": "research/mydose/sources/stripe-public-data-copy.txt",
+      "bytes": 17836,
+      "sha256": "88f2b2fb46cae4748c178ba3ce6a19fa35bb05cf5fa2882862a6f85ed1c805f2"
+    },
+    {
+      "path": "research/mydose/sources/studio-entry.txt",
+      "bytes": 1038,
+      "sha256": "eb6822a67d23f64d4cce854ff00faa09e3a4a17570309ad39789e05f4259e95e"
+    },
+    {
+      "path": "research/mydose/sources/studio.txt",
+      "bytes": 14279,
+      "sha256": "54fb841c00306172402ce65c8a6d3b5662419ce323e1017452b53ba231729a09"
+    },
+    {
+      "path": "research/mydose/sources.json",
+      "bytes": 12912,
+      "sha256": "ea98937904f69c86f009f330d95b925bbaf32a2e528d3dd92fbb905032a60f8d"
+    }
+  ]
+}

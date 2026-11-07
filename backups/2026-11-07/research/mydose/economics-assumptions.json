@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-07 PST",
+  "mydose_verified_tariff": {
+    "base": 499,
+    "included_active": 50,
+    "overage_per_active": 15,
+    "source": "https://docs.mydose.ai/studio/billing-and-plan"
+  },
+  "illustrative_replacement_only": {
+    "one_time_M": 60000,
+    "incremental_fixed_monthly_O": 3500,
+    "incremental_per_patient_v": 5,
+    "amortization_months_T": 24,
+    "breakeven_full_leave": 626,
+    "note": "All replacement numbers assumptions not vendor quotes. Net incremental costs relative to existing MyDose pass-throughs; unchanged medication/consult/lab/shipping/processing costs cancel only if truly unchanged. No acquisition/revenue benefit assumed. No per-patient fee removed by merely owning frontend."
+  }
+}

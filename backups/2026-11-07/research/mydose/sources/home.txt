@@ -1,0 +1,219 @@
+URL: https://mydose.ai/
+Retrieved:2026-11-07 PST
+HTTP:200
+
+MyDose - Infrastructure for modern telehealth
+Skip to main content
+Opens in a new tab
+Products
+For gyms & studios
+MyDose Launch
+Your own brand
+MyDose Studio
+Build and launch a telehealth brand
+Telehealth businesses
+MyDose Enterprise
+Compare all products →
+For Patients
+About
+FAQ
+Docs
+Your own brand
+Studio docs
+Set up and run your Studio brand
+For gyms & studios
+Launch docs
+Get Launch running for your members
+Existing clinics
+Platform docs
+Clinic guide for the MyDose Platform
+Resources →
+Log In
+Contact Us
+Home
+Products
+MyDose Launch
+MyDose Studio
+MyDose Enterprise
+Compare all products
+For Patients
+MyDose Health
+Company
+About
+FAQ
+Contact
+Docs
+Studio docs
+Launch docs
+Platform docs
+Resources
+Log In
+Contact Us
+Infrastructure for modern Telehealth Solutions
+Offer fully managed care to your members with Launch, build your own brand in Studio, or move your telehealth business to MyDose with Enterprise. One platform for licensed providers and pharmacy.
+Consultations, prescriptions, payments, messaging and patient management connected.
+Licensed providers included
+Licensed MyDose providers review intake. No clinicians to hire.
+503A pharmacy fulfillment
+Prescriptions are fulfilled by U.S.-licensed 503A pharmacies and shipped to your patients.
+Three ways in
+Studio is a free sandbox until you go live. Enterprise is one contract for the whole stack.
+HIPAA-compliant by design
+Encrypted in transit and at rest, with role-based access and timestamped records.
+01
+Full lifecycle your clinic needs to run protocol-based care
+Intake & Triage
+Protocol Design & Templates
+Appointments & Scheduling
+Collaboration & Task Management
+Prescribing & Pharmacy Integration
+Communication & Messaging
+Protocol Tracking & Progress
+Compliance & Audit Trails
+Intake & Triage
+New patients complete a custom intake that captures health history, current medications, goals, any red flags.
+Form fields (add questions specific to your protocols)
+Qualification logic (define which answers route to which protocols)
+Automated responses (confirmation emails, scheduling links, educational materials)
+Protocol Design & Templates
+Build treatment protocols once and reuse them across patients, with dosing schedules, labs and follow-up cadence defined up front.
+Protocol templates for GLP-1, HRT and peptide programs
+Titration schedules and lab requirements per protocol
+Version history so changes are tracked
+Appointments & Scheduling
+Patients book consults and follow-ups from the app; providers see availability, reminders and no-show handling in one calendar.
+Provider availability and booking rules
+Automated reminders by email and SMS
+Integrated video consultations
+Collaboration & Task Management
+Care teams share one patient record with assignable tasks, so nothing waits on an inbox.
+Task assignment across providers and staff
+Actions Center with due dates and urgency
+Internal notes separate from patient messaging
+Prescribing & Pharmacy Integration
+Providers prescribe inside the platform and orders route directly to licensed 503A pharmacy partners.
+e-Prescribing tied to the approved protocol
+Order routing, status and tracking
+Refill approvals in the same workflow
+Communication & Messaging
+Secure, HIPAA-compliant messaging between patients and their care team, with templates for common touchpoints.
+Two-way secure messaging
+Message templates and automated check-ins
+Read receipts and escalation rules
+Protocol Tracking & Progress
+Track adherence, weight, labs and symptoms against the protocol so providers can adjust early.
+Adherence and outcome dashboards
+Patient-reported progress from the app
+Alerts when values fall outside the protocol range
+Compliance & Audit Trails
+Every consent, signature, prescription and change is logged and timestamped for review.
+Consent and e-signature records
+Timestamped change history
+Exportable audit reports
+Launch a fully branded telehealth business
+Offer care to your members, launch your own brand, or move your existing telehealth business to MyDose. Choose the setup and support that work for you.
+MyDose Launch
+Gyms, studios & memberships
+Fully managed weight-management and longevity programs for your members.
+MyDose Studio
+Brand operators & founders
+Build your own telehealth brand in a free sandbox. Providers, pharmacy and compliance built in.
+MyDose Enterprise
+Telehealth operators
+Migrate a live telehealth business or build a tailored platform. Platform, providers, pharmacy and compliance under one contract.
+Two ways to run telehealth with MyDose.
+Launch is fully managed: we run the care and you earn a program fee. Studio is ownership: you build the brand in a free sandbox.
+Fully managed with Launch
+Member enrolls
+→
+Provider approves
+→
+Shipped from 503A
+→
+You’re paid
+Own the brand with Studio
+Build in a free sandbox with templates, a CMS or Claude Code. Toggle on programs, set your prices, go live when you’re ready.
+Build in sandbox
+→
+Set your prices
+→
+First order ships
+→
+Revenue to you
+See the platform from every angle.
+See how your team manages protocols, tasks, and care. Switch to the user side and see what your customers experience from day one.
+Business view
+User view
+MyDose Health App
+Health plan for patients,
+in one place
+Patient program, dosing schedule, labs, symptom tracking, and provider support live in one app.
+More on MyDose Health App
+Encryption, controlled access and timestamped records support secure, accountable operations.
+More on safety
+503A Licensed Pharmacy Network
+Prescriptions are fulfilled through U.S.-licensed 503A compounding pharmacies, connecting the clinic’s prescribing process with licensed pharmacy partners.
+HIPAA-compliant infrastructure
+Patient data is encrypted in transit and at rest. Role-based access, secure messaging and automatic backups protect sensitive information across the platform.
+Licensed clinical oversight
+Licensed practitioners review patient information, prescribe treatment and monitor progress. Every treatment program requires clinical supervision.
+Traceable clinical records
+Patient consent, provider signatures, prescriptions and treatment changes are logged and timestamped. Healthcare businesses maintain a clear record for clinical review and audit preparation.
+Common questions
+What does MyDose provide to run a telehealth business?
+MyDose connects patient intake, consultations, clinical programs, lab tracking, prescriptions, pharmacy fulfillment and payments. A clinic portal and patient app support the process from enrollment through ongoing treatment.
+What is the difference between Launch, Studio and Enterprise?
+Studio is self-service: build your own brand in a free sandbox. Enterprise is sales-led: migrations, custom builds and multi-brand groups under one contract.
+What do the products cost?
+Launch is $0 to your business: no setup, activation or monthly fee. Studio is free until your first patient, then $499 a month with 50 active patients included and $15 per active patient above that. Enterprise pricing is scoped with our team. Medication is always billed at pharmacy cost.
+Does a business need its own practitioners?
+No. Licensed MyDose providers review intake, make the treatment decision and prescribe. Clinics with their own practitioners can discuss custom arrangements under Enterprise.
+Can an existing clinic keep its current systems and pharmacy relationships?
+Enterprise covers migrations and custom requirements, including existing pharmacy relationships where they meet MyDose’s 503A and licensing standards. Scope is agreed during discovery.
+How do patients access their treatment information?
+Patients use the patient portal or app to view treatment plans, message their provider, track shipments and manage refills, renewals and cancellations.
+How is patient information protected?
+Patient data is encrypted in transit and at rest with role-based access, secure messaging and automatic backups. Consent, signatures and treatment changes are logged and timestamped.
+Can the platform be explored before getting started?
+Yes. Book a demo and we’ll walk you through the platform, or create a free account to look around the clinic portal.
+Launch or scale your business today
+Free sign up
+Contact
+Built for protocol-based longevity care.
+[email protected]
+30 N Gould St Ste N, Sheridan, WY 82801
+Products
+MyDose Clinical Software
+MyDose Health
+White Label
+Company
+About MyDose
+Contact
+Careers
+Press & Media
+Resources
+Legal
+Terms of Service
+Privacy Policy
+Privacy Request
+HIPAA Notice
+Connect
+LinkedIn
+X (Twitter)
+Instagram
+YouTube
+© 2026 MyDose. All rights reserved.
+HIPAA Notice
+Your Health Information is Protected
+How we use your information:
+To provide and coordinate your healthcare
+To process payments for services
+For healthcare operations and quality improvement
+As required by law
+Your rights:
+You have the right to access, amend, and request restrictions on your health information. For details, see our full
+Notice of Privacy Practices
+and
+Privacy Policy
+.
+This notice is for informational purposes and does not replace our full Notice of Privacy Practices.

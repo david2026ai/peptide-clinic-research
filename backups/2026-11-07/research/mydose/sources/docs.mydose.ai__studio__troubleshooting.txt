@@ -1,0 +1,111 @@
+SOURCE: https://docs.mydose.ai/studio/troubleshooting
+FETCHED: 2026-11-07T10:32:42.668692-08:00
+STATUS: 200
+Public documentation snapshot; vendor statements not independent audit.
+
+Studio troubleshooting
+Fixes for sign-in, verification, payouts, product, page, domain, billing and AI problems.
+Find your symptom, try the fix, and email
+support@mydose.ai
+if it does not clear. Include your store name and what you see on screen. Do not send patient information by email.
+Before you start
+Note which page you were on and the exact message you saw. It makes support faster.
+Account and sign-in
+I did not get my verification code
+Check spam. Request a new code from the sign-in screen. Use the same email you signed up with. If it still does not arrive, email
+support@mydose.ai
+.
+I cannot sign in
+Use the email you signed up with at studio.mydose.ai. If a reset does not work, email
+support@mydose.ai
+.
+An invite did not arrive
+Check spam, then resend it from
+Team
+.
+Going live
+The Go live button is missing
+It only shows while a store is in test mode. Check the store's status under
+Storefronts
+.
+Go live is blocked
+The first go-live needs payouts to be ready. Open
+Payouts
+and finish the Stripe steps.
+My store shows a test banner
+It shows while the store is in test mode. It goes when the store is live.
+Pages and editing
+I do not see my edits
+Select
+Publish
+. Saving a draft does not change your live store. Clear your browser cache and reload.
+A template replaced my pages
+Applying a template pack replaces Home, About and Contact. Use
+History
+on each page to restore a version as a new draft, then
+Publish
+.
+I deleted a page
+Open
+Trash
+and restore it.
+Products and prices
+I cannot find the product I want
+Open
+Products
+and turn it on. If it is not listed, email
+support@mydose.ai
+with the name.
+A price looks wrong
+Prices are MyDose-owned and read-only in the editor. Email
+support@mydose.ai
+with the product.
+Payouts and billing
+Payouts will not connect
+Open
+Payouts
+and go through the Stripe steps again. Check bank details. If Stripe shows a problem you cannot clear, email
+support@mydose.ai
+.
+I was charged and expected not to be
+Email
+support@mydose.ai
+with the date.
+A payment failed
+Update your payment method in
+Billing
+.
+AI assistants
+The assistant cannot write
+You need to be an Owner or Admin and the connection must not be read-only. See
+Build with an AI assistant
+.
+A confirm code expired
+Codes last 5 minutes. Ask again and repeat the request.
+Patients
+I cannot read a patient message
+Support
+shows who wrote and when, not the text. Use
+Open MyDose
+to read and reply.
+A patient asks a medical question
+Do not answer. Send them to the care team through the patient portal.
+Wording
+I am not sure what my page wording should say
+Keep it to what your programs are. Do not give medical advice, name medications or promise results. See
+Compliance for brand owners
+.
+What you'll see
+Most problems clear with one of the fixes above. Many show a message at the top of the page.
+What happens next
+If you are still stuck, email
+support@mydose.ai
+. Email is the only support channel.
+Medical services provided by independent licensed providers.
+Related pages
+Getting started
+FAQ
+Test mode and going live
+Was this page helpful?
+Yes
+No

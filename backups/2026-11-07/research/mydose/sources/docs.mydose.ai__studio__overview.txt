@@ -1,0 +1,83 @@
+SOURCE: https://docs.mydose.ai/studio/overview
+FETCHED: 2026-11-07T10:32:42.668692-08:00
+STATUS: 200
+Public documentation snapshot; vendor statements not independent audit.
+
+MyDose Studio overview
+What Studio is, what you do, what MyDose handles, and what it costs.
+MyDose Studio is self-serve software for running your own telehealth brand. You build a storefront under your own name, choose the products it sells, and connect Stripe to get paid.
+What you do
+Build your storefront with templates and the visual editor.
+Set your brand kit: logo, colors and fonts.
+Choose which MyDose products your store sells.
+Connect Stripe so payouts reach your bank account.
+Find patients and send them to your store.
+What MyDose handles
+Independent licensed providers review every patient intake and decide whether to prescribe.
+A partner pharmacy fulfills and ships orders.
+Intake, e-consent, checkout and patient records run on MyDose.
+The MyDose care team answers patients' medical questions.
+Medical services provided by independent licensed providers. You never make a medical decision. The rules that come with medical services apply to your pages and your ads.
+What it costs
+$0 until your first patient.
+Then $499 a month, with 50 active patients included.
+$15 per active patient after 50. The $15 is taken from your payouts, not charged to a card.
+No setup fee.
+See
+Billing and your plan
+.
+Try it first
+Build your store and run it in test mode. Test mode does not start billing.
+Read the checklist
+Start with
+Getting started
+.
+Create your account
+See
+Create your account
+.
+Build and test
+Follow the
+Quickstart
+.
+Quickstart
+From sign-up to a live store, step by step.
+What's in your dashboard
+The sidebar has Home, Orders, Patients, Subscriptions, Products, Discounts, Analytics, Marketing, Integrations, Storefronts, Payouts, Support, AI assistants, All settings, Brand kit, Team, Billing, Email sending and Notifications.
+Go live
+shows while a store is in test mode.
+What Studio does not do
+It does not send text messages or run marketing sequences.
+It does not let you message patients from Studio. Support shows metadata, and replies happen in your MyDose clinic dashboard.
+It does not send sign-ups or purchases to ad platforms.
+It does not promise patients, results or income.
+Is Studio right for you?
+Studio is for founders, clinics, med spas, wellness brands and creators who want a healthcare brand under their own name and will do the work of finding patients. It is not a way to make quick money from a trend.
+What happens next
+Go to
+Getting started
+.
+Common problems
+Symptom
+Fix
+I do not know where to begin
+Open
+Getting started
+.
+I want to know the full cost
+See
+Billing and your plan
+.
+I have a question not covered
+See the
+FAQ
+or email
+support@mydose.ai
+.
+Related pages
+Getting started
+Billing and your plan
+Compliance for brand owners
+Was this page helpful?
+Yes
+No

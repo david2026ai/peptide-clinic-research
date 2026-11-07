@@ -1,0 +1,77 @@
+SOURCE: https://docs.mydose.ai/studio/billing-and-plan
+FETCHED: 2026-11-07T10:32:42.668692-08:00
+STATUS: 200
+Public documentation snapshot; vendor statements not independent audit.
+
+Billing and your plan
+What Studio costs, when billing starts, and how the per-patient charge works.
+Studio costs nothing until your first patient. Then it is one monthly plan. This page explains each number.
+The short version
+$0 until your first patient.
+Then $499 a month, with 50 active patients included.
+$15 per active patient above 50. This is taken from your payouts. It is not charged to your card.
+No setup fee.
+When billing starts
+You build, preview and test. Test mode does not start billing. Your plan starts with your first live patient purchase.
+What counts as an active patient
+An active patient is a patient whose live plan payment covers any part of the billing month. Each patient is counted once per month. Test orders do not count.
+Above 50 active patients
+Each active patient above 50 in a month adds $15 for that month. MyDose takes the amount from your payouts, oldest month first. It is not billed to your card. If a payout is fully used up, no transfer is made for it.
+Open Billing
+In the sidebar under Settings, select
+Billing
+.
+Read your usage
+Monthly usage shows active patients, patients included, patients above the included amount and the amount for each month.
+Compare with Payouts
+Open
+Payouts
+to see the amounts taken from your payouts. See
+Payouts
+.
+What the plan covers
+The plan includes your storefront, the patient portal, intake, e-consent and checkout, access to independent licensed providers, and a partner pharmacy. You do not need your own doctors or a medical license.
+Medication and consults
+Medication and provider consults pass through at cost. MyDose does not add a markup. The difference between your price and those costs is yours.
+Cancel
+Email
+support@mydose.ai
+.
+Other items
+An extra storefront and the optional Concierge setup help are listed on the
+MyDose pricing page
+.
+What you'll see
+Billing page with the Studio plan and active patients
+Before your first patient, Billing shows no charge. After it, you see your plan, the next billing date and monthly usage.
+What happens next
+Keep your payment method current. Check usage when your patient count nears 50.
+Common problems
+Symptom
+Fix
+I was billed before my first patient
+Email
+support@mydose.ai
+with the date. Test activity should not bill.
+The overage is not on my card
+That is expected. It comes out of payouts.
+A payment failed
+Update the method in
+Billing
+. Retries run on day 3 and 7.
+My patient count looks high
+A patient counts once if any part of the month is covered by a live payment.
+I want an invoice
+Email
+support@mydose.ai
+.
+Medical services provided by independent licensed providers. Questions? Email
+support@mydose.ai
+.
+Related pages
+Payouts
+Set prices
+FAQ
+Was this page helpful?
+Yes
+No

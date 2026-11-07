@@ -1,0 +1,76 @@
+SOURCE: https://mydose.ai/safety/
+FETCHED: 2026-11-07T10:32:42.668692-08:00
+STATUS: 200
+Public documentation snapshot; vendor statements not independent audit.
+
+Protecting patient information, supporting responsible care
+MyDose combines security controls, documented care workflows, and access to licensed practitioners and pharmacies. These safeguards support the teams delivering care and the patients receiving it.
+Contact Our Team
+Security for patient information
+Encryption during transmission and storage
+Health information is encrypted when transmitted and stored. MyDose’s platform terms specify TLS 1.2 or higher for transmission and AES-256 encryption for stored data.
+Access based on responsibilities
+Role-based permissions give practitioners and support staff access appropriate to their work. Clinical teams review treatment information, while administrative staff work with the information needed for their assigned responsibilities.
+Secure clinical communication
+Messaging keeps patient questions and care team responses within the platform. Conversations are stored with the patient’s record, giving authorized practitioners context for follow-up.
+Records that support accountability
+Timestamped audit trails document activity such as consent, prescriptions, appointments, and treatment changes. Teams can review the history of care and export records when needed.
+Security practices behind MyDose Health
+The MyDose Health security program includes:
+Security testing
+Regular vulnerability scanning and annual independent penetration testing.
+Staff training
+HIPAA privacy and security training at onboarding and annually.
+Incident response
+Defined responsibilities, escalation procedures, and breach notification processes.
+Recovery procedures
+Encrypted backups and documented disaster recovery objectives.
+Account safeguards
+Unique user identification, session timeouts, and account lockouts.
+Protected consultations
+Encrypted video visits, with prior written consent required for recording.
+Clinical decisions led by licensed practitioners
+Assessment before treatment
+A licensed practitioner reviews the patient’s history, current medications, symptoms, and relevant test results to determine whether treatment is appropriate. Telehealth care depends on practitioner licensing and the patient’s location.
+Informed consent
+Patients review their proposed care and complete the required consent process. Telehealth consent explains the service, its benefits, risks, alternatives, and limitations.
+Follow-up throughout care
+Treatment plans organize check-ins, lab milestones, and patient updates. Practitioners use this information to review progress and decide whether to continue, adjust, or complete treatment.
+Defined responsibilities
+MyDose provides the technology for organizing care and communicating information. Licensed practitioners make clinical decisions. Pharmacies dispense prescribed medications. Clinics manage their teams and the delivery of their services.
+Prescriptions through licensed pharmacies
+Prescriptions are sent to connected, licensed U.S. pharmacies for fulfillment. The platform provides fulfillment status and shipment information so teams and patients can follow the order’s progress.
+Understanding compounded medications
+Some prescribed treatments involve compounded medications prepared for individual clinical needs. Compounded medications are not FDA-approved and do not undergo FDA review for safety, effectiveness, or quality before marketing. Patients should discuss the proposed medication, its risks, and available alternatives with their practitioner.
+Clear information about privacy and data use
+Patient information
+MyDose Health uses and shares information for care, payment, operations, and other legally permitted purposes. Its privacy policy prohibits selling patient information or sharing it with advertisers.
+De-identified data and AI
+MyDose Health uses de-identified data to develop and improve AI models on infrastructure it controls. This use forms part of its service terms. The policy explains how identifying information is removed and how the resulting data is used.
+Privacy Policy
+Public website information
+The public MyDose website uses analytics and advertising technologies under a separate privacy policy. Visitors can review those practices and available privacy choices.
+Share medical information through the authenticated patient portal. Public contact forms and website chat are intended for general inquiries.
+Privacy Policy
+HIPAA responsibilities and assurance status
+Safeguards that support HIPAA obligations
+HIPAA responsibilities also include organizational policies, staff practices, risk management, and applicable Business Associate Agreements. Clinics should review these responsibilities and their agreement with MyDose as part of implementation.
+HHS guidance on business associates
+SOC 2 Type II: In progress
+MyDose is working toward its own SOC 2 Type II assessment. Contact our team for the current status and scope when evaluating the platform.
+Your privacy rights
+Patients can request access to their health records, request corrections, and raise concerns about how information is handled. Additional rights and applicable conditions are explained in the privacy notice for their care service.
+Submit a Privacy Request
+Defined responsibilities
+MyDose provides the technology for organizing care and communicating information. Licensed practitioners make clinical decisions. Pharmacies dispense prescribed medications. Clinics manage their teams and the delivery of their services.
+Questions or concerns
+Evaluating MyDose for your organization?
+Contact our team to discuss security controls, privacy responsibilities, and the requirements of your implementation.
+Contact Our Team
+Concerned about account access or privacy?
+Contact support through our Contact page. Describe the issue and request a secure way to share any sensitive details.
+Contact Support
+Have a question about treatment?
+Contact your practitioner through the platform’s secure messaging service. Response times depend on practitioner availability.
+Contact Our Team
+For a medical emergency, call 911 or go to the nearest emergency department. Platform messaging is intended for ongoing care and does not provide emergency response.

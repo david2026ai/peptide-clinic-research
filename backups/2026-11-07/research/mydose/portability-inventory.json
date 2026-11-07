@@ -1,0 +1,128 @@
+[
+  {
+    "asset": "Brand/domain/content",
+    "status": "CONDITIONAL",
+    "required_export_or_evidence": "Own registrar/admin, source assets/license, authored page versions, routes/SEO/redirect map. Proprietary template/source rights unknown.",
+    "acceptance_owner_and_gate": "Business/IP counsel: signed ownership/export rights; clinical portal DNS cutover tested.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Catalog/prices",
+    "status": "UNRESOLVED",
+    "required_export_or_evidence": "Molecule/form/strength/concentration/quantity/unit, pharmacy SKU, lawful formulary/states, consult/labs/shipping inclusions. MyDose says catalog/prices owned while marketing says set prices.",
+    "acceptance_owner_and_gate": "Clinical director/pharmacist + contract specify actual control and new formulary. mg is not month.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Consented CRM",
+    "status": "CONDITIONAL",
+    "required_export_or_evidence": "Purpose/source/consentversion/time/entity, unsubscribe/suppression. Health-related names/emails/phone inquiries may bePHI or regulated healthdata.",
+    "acceptance_owner_and_gate": "Privacy counsel: authorizedpurpose/transfer, no patientlist audienceuploads; no simple non-PHI assertion.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Patient identity",
+    "status": "FULL EXPORT NOT VERIFIED",
+    "required_export_or_evidence": "Stable source patient/org/brand/medical entity IDs, securely transferred verified demographics, duplicate mapping.",
+    "acceptance_owner_and_gate": "Medical custodian authorizes export; identity-safe matching and exceptions reviewed.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Intakes/photos",
+    "status": "PARTIAL FEATURE ONLY",
+    "required_export_or_evidence": "Raw answers +questionnaire versions, times/signatures, source IDs, original uploads. PDF export release note is not complete structuredexport.",
+    "acceptance_owner_and_gate": "Counts/hashes/manifest and clinical equivalence accepted; lawful documented export only, no scraping.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Consents",
+    "status": "FULL EXPORT/NEWENTITY VALIDITY UNKNOWN",
+    "required_export_or_evidence": "Signed originals/textversion, signer, timestamp/timezone, verification/audit, withdrawals, entity/purpose.",
+    "acceptance_owner_and_gate": "New notices/consents where required; no silent carry-forward to different clinician/controller.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Charts/SOAP/treatmentplans",
+    "status": "FULL EXPORT/API NOT VERIFIED",
+    "required_export_or_evidence": "Notes/signatures/addenda, problems/allergies/medhistory, treatmentprotocolversions, authors/dates and original files.",
+    "acceptance_owner_and_gate": "Clinical custodian signs off completeness, retention/access, lawful patient notification and continuity.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Labs/criticalalerts",
+    "status": "PARTNER/INTERFACE UNKNOWN",
+    "required_export_or_evidence": "Orders/accessions, analyteunits/ranges/status/amendments, original PDFs, acknowledgement and outstanding critical tasks.",
+    "acceptance_owner_and_gate": "Ordering clinician owns outstandingresults and handoff; no result lost during transition.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Rx/refills/EPCS",
+    "status": "NOT AUTOMATIC",
+    "required_export_or_evidence": "Prescriber/pharmacy IDs, prescription/fill IDs, remaining fills/validity/days supply/last dispense, pending changes. EPCS identities/tokens not transferable by app.",
+    "acceptance_owner_and_gate": "Prescriber/pharmacist determine lawful transfer or new Rx/consult; actual EPCS vendor proof; never copy credential keys.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Medicalgroup/pharmacy contracts",
+    "status": "NOT AUTOMATIC",
+    "required_export_or_evidence": "State/service coverage, record custody/retention, malpractice/continuity, non-solicit/exit/provideravailability.",
+    "acceptance_owner_and_gate": "Same clinicians/pharmacies only if lawful and contracts allow; software ownership does not grant practice rights.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Orders/shipping",
+    "status": "FULL EXPORT/REPLAY UNKNOWN",
+    "required_export_or_evidence": "PaidThrough, order/Rx/fill/shipment IDs/status, exactSKU/quantity/costs/refill due/tracking/exceptions.",
+    "acceptance_owner_and_gate": "One fulfillment owner per authorized fill/cycle, reconcile in-flight orders; clinical changes require clinician.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Messages/support",
+    "status": "FULL THREAD EXPORT UNKNOWN",
+    "required_export_or_evidence": "Participants/thread content/files, unread/open tasks, urgency/clinical escalation, timestamps/IDs. Studio shows metadata, care dashboard handles messages.",
+    "acceptance_owner_and_gate": "Securehandoff and after-hours/escalation coverage; no email PHI export or duplicate outreach.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Customers/payment methods",
+    "status": "STRIPE CONDITIONAL COPY",
+    "required_export_or_evidence": "Exact account type/charge model/customer and payment method maps, consent/mandate/payee scope. Processor-mediated transfer only.",
+    "acceptance_owner_and_gate": "Sourceaccountowner +destination authorization; underwriter approves; no rawPAN exported. May require patient re-entry.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Subscriptions/billing",
+    "status": "SEPARATE MIGRATION",
+    "required_export_or_evidence": "Subscriptions excluded from Stripe customer copy. Preserve anchor/paid-through, prices/discounts/credits/cancel/pause/delinquency/tax/refund obligations.",
+    "acceptance_owner_and_gate": "Dryrun schedule then one collectionowner perobligation, authorizednew mandate/source cancellation confirmation. Disconnect is not automaticcancellation.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Financialhistory/disputes",
+    "status": "RETAIN SOURCE",
+    "required_export_or_evidence": "Invoices/charges/events/logs not customer-copy objects. Historical ledger/receipts/reserves/negativebalance responsibilities.",
+    "acceptance_owner_and_gate": "Keep required source access/retention; no premature account closing or deletion.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Audit/security/RBAC",
+    "status": "EXPORT/SURVIVAL UNKNOWN",
+    "required_export_or_evidence": "Tenant/actor/time/action/version, consent/e-sign/clinical audit provenance, accessroles, incidents ascontracted.",
+    "acceptance_owner_and_gate": "MFA/tenant isolation/log redaction/backups/restore tested; legal retention, noPHI in dev/AI.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "Email/SMS/sender",
+    "status": "CONDITIONAL; NO STUDIO SMS",
+    "required_export_or_evidence": "Owned sending domain/DKIM/SPF/DMARC, delivery/suppression, supportrouting. SMS sender reputation/registration not automatically portable; Studio has no SMS feature.",
+    "acceptance_owner_and_gate": "Reverifyapproved sender/consent; no assumption third-party transport/AIcovered.",
+    "access_date": "2026-11-07 PST"
+  },
+  {
+    "asset": "LegitScript/ads/merchant",
+    "status": "NOT AUTOMATIC",
+    "required_export_or_evidence": "Exact legalentity/root domain/business model/certifier listing, advertiserpermissions, processorunderwriting and renewed affiliates/product scope.",
+    "acceptance_owner_and_gate": "Written entity/domain/account-specific transition confirmation; agency certification not blanket transferable.",
+    "access_date": "2026-11-07 PST"
+  }
+]

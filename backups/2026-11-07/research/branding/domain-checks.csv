@@ -1,0 +1,22 @@
+body_bytes,checked_at_pst,domain,http_status,price,registrar_confirmed_available,registry_registration_date,source,status
+0,2026-11-07 11:39:20 PST,plainvero.com,404,not checked; no quote,False,,https://rdap.verisign.com/com/v1/domain/plainvero.com,registration record not found; registrar availability unconfirmed
+,2026-11-07 11:39:08 PST,rillstead.com,200,not checked; no quote,False,2026-07-20T22:57:16Z,https://rdap.verisign.com/com/v1/domain/rillstead.com,registered
+,2026-11-07 11:39:08 PST,clearbyline.com,200,not checked; no quote,False,2025-12-15T20:26:31Z,https://rdap.verisign.com/com/v1/domain/clearbyline.com,registered
+0,2026-11-07 11:39:20 PST,rillara.com,404,not checked; no quote,False,,https://rdap.verisign.com/com/v1/domain/rillara.com,registration record not found; registrar availability unconfirmed
+,2026-11-07 11:39:08 PST,verostead.com,200,not checked; no quote,False,2026-09-13T19:32:15Z,https://rdap.verisign.com/com/v1/domain/verostead.com,registered
+0,2026-11-07 11:39:20 PST,avenplain.com,404,not checked; no quote,False,,https://rdap.verisign.com/com/v1/domain/avenplain.com,registration record not found; registrar availability unconfirmed
+0,2026-11-07 11:39:20 PST,forthplain.com,404,not checked; no quote,False,,https://rdap.verisign.com/com/v1/domain/forthplain.com,registration record not found; registrar availability unconfirmed
+0,2026-11-07 11:39:20 PST,careasstated.com,404,not checked; no quote,False,,https://rdap.verisign.com/com/v1/domain/careasstated.com,registration record not found; registrar availability unconfirmed
+0,2026-11-07 11:39:21 PST,plainverohealth.com,404,not checked; no quote,False,,https://rdap.verisign.com/com/v1/domain/plainverohealth.com,registration record not found; registrar availability unconfirmed
+0,2026-11-07 11:39:21 PST,rillsteadhealth.com,404,not checked; no quote,False,,https://rdap.verisign.com/com/v1/domain/rillsteadhealth.com,registration record not found; registrar availability unconfirmed
+0,2026-11-07 11:39:21 PST,clearbylinehealth.com,404,not checked; no quote,False,,https://rdap.verisign.com/com/v1/domain/clearbylinehealth.com,registration record not found; registrar availability unconfirmed
+0,2026-11-07 11:39:21 PST,plainvia.com,404,not checked; no quote,False,,https://rdap.verisign.com/com/v1/domain/plainvia.com,registration record not found; registrar availability unconfirmed
+,2026-11-07 11:39:08 PST,evenward.com,200,not checked; no quote,False,2026-06-04T03:55:39Z,https://rdap.verisign.com/com/v1/domain/evenward.com,registered
+,2026-11-07 11:39:08 PST,kindstead.com,200,not checked; no quote,False,2021-09-25T16:20:08Z,https://rdap.verisign.com/com/v1/domain/kindstead.com,registered
+,2026-11-07 11:39:08 PST,planstead.com,200,not checked; no quote,False,2021-07-23T03:14:59Z,https://rdap.verisign.com/com/v1/domain/planstead.com,registered
+,2026-11-07 11:39:08 PST,steadvera.com,200,not checked; no quote,False,2026-04-25T06:26:51Z,https://rdap.verisign.com/com/v1/domain/steadvera.com,registered
+,2026-11-07 11:39:08 PST,plainkind.com,200,not checked; no quote,False,2026-09-06T18:59:06Z,https://rdap.verisign.com/com/v1/domain/plainkind.com,registered
+,2026-11-07 11:43:01 PST,kindoutline.com,200,not checked; no quote,False,,https://rdap.verisign.com/com/v1/domain/kindoutline.com,registered
+,2026-11-07 11:43:01 PST,plainstead.com,200,not checked; no quote,False,,https://rdap.verisign.com/com/v1/domain/plainstead.com,registered
+,2026-11-07 11:43:02 PST,rillplain.com,404,not checked; no quote,False,,https://rdap.verisign.com/com/v1/domain/rillplain.com,registration record not found; registrar availability unconfirmed
+,2026-11-07 11:43:02 PST,steadfolk.com,200,not checked; no quote,False,,https://rdap.verisign.com/com/v1/domain/steadfolk.com,registered

@@ -1,0 +1,15 @@
+{
+  "verified_configuration": true,
+  "folder": "clinic-cursor-and-grok-bot-alignment",
+  "enabled": "confirmed by parent",
+  "event_triggers": [
+    "PR opened",
+    "PR merged"
+  ],
+  "repository": "david-dubov/peptide-clinic",
+  "scheduled_window": "Hourly weekdays 8:00 AM\u20137:00 PM Pacific, \u00b115 minutes",
+  "saved_next_run_pst": "2026-11-09 07:59 AM PST",
+  "successful_run_observed": false,
+  "automatic_chat_memory_sync": false,
+  "evidence": "Successful saved-routine outcome in sanctioned parent export; raw log not included"
+}

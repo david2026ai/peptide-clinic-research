@@ -1,0 +1,1180 @@
+[
+  {
+    "page": "https://studio.mydose.ai/",
+    "resolved": "https://studio.mydose.ai/",
+    "status": 200,
+    "links": [
+      {
+        "label": "Skip to content",
+        "href": "https://studio.mydose.ai/#main"
+      },
+      {
+        "label": "Studio",
+        "href": "https://studio.mydose.ai/"
+      },
+      {
+        "label": "Log in",
+        "href": "https://studio.mydose.ai/login"
+      },
+      {
+        "label": "Sign up",
+        "href": "https://studio.mydose.ai/start"
+      },
+      {
+        "label": "Get started",
+        "href": "https://studio.mydose.ai/start"
+      },
+      {
+        "label": "Studio",
+        "href": "https://studio.mydose.ai/"
+      },
+      {
+        "label": "Sign up",
+        "href": "https://studio.mydose.ai/start"
+      },
+      {
+        "label": "Log in",
+        "href": "https://studio.mydose.ai/login"
+      },
+      {
+        "label": "Terms of Service",
+        "href": "https://mydose.ai/terms-of-service"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "https://mydose.ai/privacy-policy"
+      },
+      {
+        "label": "Refund Policy",
+        "href": "https://mydose.ai/refund-policy"
+      },
+      {
+        "label": "MyDose",
+        "href": "https://mydose.ai"
+      }
+    ]
+  },
+  {
+    "page": "https://mydose.ai/",
+    "resolved": "https://mydose.ai/",
+    "status": 200,
+    "links": [
+      {
+        "label": "Skip to main content",
+        "href": "https://mydose.ai/#brx-content"
+      },
+      {
+        "label": "",
+        "href": "https://mydose.ai"
+      },
+      {
+        "label": "For gyms & studios MyDose Launch",
+        "href": "https://mydose.ai/launch/"
+      },
+      {
+        "label": "Your own brand MyDose Studio Build and launch a telehealth brand",
+        "href": "https://mydose.ai/studio/"
+      },
+      {
+        "label": "Telehealth businesses MyDose Enterprise",
+        "href": "https://mydose.ai/enterprise/"
+      },
+      {
+        "label": "Compare all products \u2192",
+        "href": "https://mydose.ai/products/"
+      },
+      {
+        "label": "For Patients",
+        "href": "https://health.mydose.ai/"
+      },
+      {
+        "label": "About",
+        "href": "https://mydose.ai/about/"
+      },
+      {
+        "label": "FAQ",
+        "href": "https://mydose.ai/faq/"
+      },
+      {
+        "label": "Your own brand Studio docs Set up and run your Studio brand",
+        "href": "https://docs.mydose.ai/studio/overview"
+      },
+      {
+        "label": "For gyms & studios Launch docs Get Launch running for your members",
+        "href": "https://docs.mydose.ai/launch/overview"
+      },
+      {
+        "label": "Existing clinics Platform docs Clinic guide for the MyDose Platform",
+        "href": "https://docs.mydose.ai/clinic-guide/overview"
+      },
+      {
+        "label": "Resources \u2192",
+        "href": "https://mydose.ai/resources/"
+      },
+      {
+        "label": "Log In",
+        "href": "https://app.mydose.ai/"
+      },
+      {
+        "label": "Contact Us",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Home",
+        "href": "https://mydose.ai"
+      },
+      {
+        "label": "MyDose Launch",
+        "href": "https://mydose.ai/launch/"
+      },
+      {
+        "label": "MyDose Studio",
+        "href": "https://mydose.ai/studio/"
+      },
+      {
+        "label": "MyDose Enterprise",
+        "href": "https://mydose.ai/enterprise/"
+      },
+      {
+        "label": "Compare all products",
+        "href": "https://mydose.ai/products/"
+      },
+      {
+        "label": "MyDose Health",
+        "href": "https://health.mydose.ai/"
+      },
+      {
+        "label": "About",
+        "href": "https://mydose.ai/about/"
+      },
+      {
+        "label": "FAQ",
+        "href": "https://mydose.ai/faq/"
+      },
+      {
+        "label": "Contact",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Studio docs",
+        "href": "https://docs.mydose.ai/studio/overview"
+      },
+      {
+        "label": "Launch docs",
+        "href": "https://docs.mydose.ai/launch/overview"
+      },
+      {
+        "label": "Platform docs",
+        "href": "https://docs.mydose.ai/clinic-guide/overview"
+      },
+      {
+        "label": "Resources",
+        "href": "https://mydose.ai/resources/"
+      },
+      {
+        "label": "Log In",
+        "href": "https://app.mydose.ai/"
+      },
+      {
+        "label": "Contact Us",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "MyDose Launch Gyms, studios & memberships Fully managed weight-management and longevity programs for your members.",
+        "href": "https://mydose.ai/launch/"
+      },
+      {
+        "label": "MyDose Studio Brand operators & founders Build your own telehealth brand in a free sandbox. Providers, pharmacy and compliance built in.",
+        "href": "https://mydose.ai/studio/"
+      },
+      {
+        "label": "MyDose Enterprise Telehealth operators Migrate a live telehealth business or build a tailored platform. Platform, providers, pharmacy and compliance under one contract.",
+        "href": "https://mydose.ai/enterprise/"
+      },
+      {
+        "label": "More on MyDose Health App",
+        "href": "https://health.mydose.ai/"
+      },
+      {
+        "label": "More on safety",
+        "href": "https://mydose.ai/safety/"
+      },
+      {
+        "label": "Free sign up",
+        "href": "https://app.mydose.ai/clinic-signup"
+      },
+      {
+        "label": "Contact",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "[email\u00a0protected]",
+        "href": "https://mydose.ai/cdn-cgi/l/email-protection#fc9499909093bc918598938f99d29d95"
+      },
+      {
+        "label": "MyDose Clinical Software",
+        "href": "https://mydose.ai/clinical-software/"
+      },
+      {
+        "label": "MyDose Health",
+        "href": "https://health.mydose.ai/"
+      },
+      {
+        "label": "White Label",
+        "href": "https://mydose.ai/zero-setup/"
+      },
+      {
+        "label": "About MyDose",
+        "href": "https://mydose.ai/about/"
+      },
+      {
+        "label": "Contact",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Careers",
+        "href": "https://www.linkedin.com/company/mydose-ai/jobs/"
+      },
+      {
+        "label": "Press & Media",
+        "href": "https://mydose.ai/press/"
+      },
+      {
+        "label": "Resources",
+        "href": "https://mydose.ai/resources/"
+      },
+      {
+        "label": "Terms of Service",
+        "href": "https://mydose.ai/terms-of-service/"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "https://mydose.ai/privacy-policy/"
+      },
+      {
+        "label": "Privacy Request",
+        "href": "https://mydose.ai/privacy-request/"
+      },
+      {
+        "label": "HIPAA Notice",
+        "href": "https://health.mydose.ai/privacy-policy"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/company/mydose"
+      },
+      {
+        "label": "X (Twitter)",
+        "href": "https://x.com/mydose_ai"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/mydose_ai/"
+      },
+      {
+        "label": "YouTube",
+        "href": "https://www.youtube.com/@mydoseai"
+      },
+      {
+        "label": "",
+        "href": "https://www.legitscript.com/websites/?checker_keywords=mydose.ai"
+      },
+      {
+        "label": "Notice of Privacy Practices",
+        "href": "https://health.mydose.ai/privacy-policy"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "https://mydose.ai/privacy-policy/"
+      }
+    ]
+  },
+  {
+    "page": "https://mydose.ai/studio/",
+    "resolved": "https://mydose.ai/studio/",
+    "status": 200,
+    "links": [
+      {
+        "label": "Skip to main content",
+        "href": "https://mydose.ai/studio/#brx-content"
+      },
+      {
+        "label": "Skip to content",
+        "href": "https://mydose.ai/studio/#S02"
+      },
+      {
+        "label": "MyDose Studio",
+        "href": "https://mydose.ai/studio/#S01"
+      },
+      {
+        "label": "How it works",
+        "href": "https://mydose.ai/studio/#S02"
+      },
+      {
+        "label": "Inside Studio",
+        "href": "https://mydose.ai/studio/#S05"
+      },
+      {
+        "label": "Pricing",
+        "href": "https://mydose.ai/studio/#S09"
+      },
+      {
+        "label": "FAQ",
+        "href": "https://mydose.ai/studio/#S12"
+      },
+      {
+        "label": "Docs",
+        "href": "https://docs.mydose.ai/studio/overview"
+      },
+      {
+        "label": "Start building free \u2192",
+        "href": "https://studio.mydose.ai/start"
+      },
+      {
+        "label": "How it works",
+        "href": "https://mydose.ai/studio/#S02"
+      },
+      {
+        "label": "Inside Studio",
+        "href": "https://mydose.ai/studio/#S05"
+      },
+      {
+        "label": "Pricing",
+        "href": "https://mydose.ai/studio/#S09"
+      },
+      {
+        "label": "FAQ",
+        "href": "https://mydose.ai/studio/#S12"
+      },
+      {
+        "label": "Docs",
+        "href": "https://docs.mydose.ai/studio/overview"
+      },
+      {
+        "label": "Start building free \u2192",
+        "href": "https://studio.mydose.ai/start"
+      },
+      {
+        "label": "Start building free \u2192",
+        "href": "https://studio.mydose.ai/start"
+      },
+      {
+        "label": "See it in action",
+        "href": "https://pub-f446f9c0aa2f4fc0916ba7ae040569d0.r2.dev/studio/studio-hero-1280.mp4"
+      },
+      {
+        "label": "Start building free \u2192",
+        "href": "https://studio.mydose.ai/start"
+      },
+      {
+        "label": "[email\u00a0protected]",
+        "href": "https://mydose.ai/cdn-cgi/l/email-protection"
+      },
+      {
+        "label": "Start building free \u2192",
+        "href": "https://studio.mydose.ai/start"
+      },
+      {
+        "label": "MyDose Clinic \u2192",
+        "href": "https://mydose.ai/clinical-software/"
+      },
+      {
+        "label": "MyDose Launch \u2192",
+        "href": "https://mydose.ai/launch/"
+      },
+      {
+        "label": "Start building free \u2192",
+        "href": "https://studio.mydose.ai/start"
+      },
+      {
+        "label": "Start building free \u2192",
+        "href": "https://studio.mydose.ai/start"
+      },
+      {
+        "label": "[email\u00a0protected]",
+        "href": "https://mydose.ai/cdn-cgi/l/email-protection#4d3e383d3d223f390d203429223e28632c24"
+      },
+      {
+        "label": "Docs",
+        "href": "https://docs.mydose.ai/studio/overview"
+      },
+      {
+        "label": "MyDose Clinic",
+        "href": "https://mydose.ai/clinical-software/"
+      },
+      {
+        "label": "MyDose Launch",
+        "href": "https://mydose.ai/launch/"
+      },
+      {
+        "label": "MyDose Studio",
+        "href": "https://mydose.ai/studio/"
+      },
+      {
+        "label": "Notice of Privacy Practices",
+        "href": "https://health.mydose.ai/privacy-policy"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "https://mydose.ai/privacy-policy/"
+      }
+    ]
+  },
+  {
+    "page": "https://mydose.ai/enterprise/",
+    "resolved": "https://mydose.ai/enterprise/",
+    "status": 200,
+    "links": [
+      {
+        "label": "Skip to main content",
+        "href": "https://mydose.ai/enterprise/#brx-content"
+      },
+      {
+        "label": "",
+        "href": "https://mydose.ai"
+      },
+      {
+        "label": "For gyms & studios MyDose Launch",
+        "href": "https://mydose.ai/launch/"
+      },
+      {
+        "label": "Your own brand MyDose Studio Build and launch a telehealth brand",
+        "href": "https://mydose.ai/studio/"
+      },
+      {
+        "label": "Telehealth businesses MyDose Enterprise",
+        "href": "https://mydose.ai/enterprise/"
+      },
+      {
+        "label": "Compare all products \u2192",
+        "href": "https://mydose.ai/products/"
+      },
+      {
+        "label": "For Patients",
+        "href": "https://health.mydose.ai/"
+      },
+      {
+        "label": "About",
+        "href": "https://mydose.ai/about/"
+      },
+      {
+        "label": "FAQ",
+        "href": "https://mydose.ai/faq/"
+      },
+      {
+        "label": "Your own brand Studio docs Set up and run your Studio brand",
+        "href": "https://docs.mydose.ai/studio/overview"
+      },
+      {
+        "label": "For gyms & studios Launch docs Get Launch running for your members",
+        "href": "https://docs.mydose.ai/launch/overview"
+      },
+      {
+        "label": "Existing clinics Platform docs Clinic guide for the MyDose Platform",
+        "href": "https://docs.mydose.ai/clinic-guide/overview"
+      },
+      {
+        "label": "Resources \u2192",
+        "href": "https://mydose.ai/resources/"
+      },
+      {
+        "label": "Log In",
+        "href": "https://app.mydose.ai/"
+      },
+      {
+        "label": "Contact Us",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Home",
+        "href": "https://mydose.ai"
+      },
+      {
+        "label": "MyDose Launch",
+        "href": "https://mydose.ai/launch/"
+      },
+      {
+        "label": "MyDose Studio",
+        "href": "https://mydose.ai/studio/"
+      },
+      {
+        "label": "MyDose Enterprise",
+        "href": "https://mydose.ai/enterprise/"
+      },
+      {
+        "label": "Compare all products",
+        "href": "https://mydose.ai/products/"
+      },
+      {
+        "label": "MyDose Health",
+        "href": "https://health.mydose.ai/"
+      },
+      {
+        "label": "About",
+        "href": "https://mydose.ai/about/"
+      },
+      {
+        "label": "FAQ",
+        "href": "https://mydose.ai/faq/"
+      },
+      {
+        "label": "Contact",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Studio docs",
+        "href": "https://docs.mydose.ai/studio/overview"
+      },
+      {
+        "label": "Launch docs",
+        "href": "https://docs.mydose.ai/launch/overview"
+      },
+      {
+        "label": "Platform docs",
+        "href": "https://docs.mydose.ai/clinic-guide/overview"
+      },
+      {
+        "label": "Resources",
+        "href": "https://mydose.ai/resources/"
+      },
+      {
+        "label": "Log In",
+        "href": "https://app.mydose.ai/"
+      },
+      {
+        "label": "Contact Us",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Schedule a meeting",
+        "href": "https://discovery.mydose.ai"
+      },
+      {
+        "label": "Compare products",
+        "href": "https://mydose.ai/products/"
+      },
+      {
+        "label": "Schedule a meeting",
+        "href": "https://discovery.mydose.ai"
+      },
+      {
+        "label": "Migration \u2192 Move a live business Patients, protocols, refills and pharmacy relationships migrate at the next refill, with no gap in care.",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Custom build \u2192 A platform shaped to you Custom intake, protocols, integrations and branding across web and the patient app, on MyDose rails.",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Multi-brand \u2192 Groups and channels Run several brands, locations or employer channels under one agreement, with consolidated reporting.",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Schedule a meeting",
+        "href": "https://discovery.mydose.ai"
+      },
+      {
+        "label": "See Launch",
+        "href": "https://mydose.ai/launch/"
+      },
+      {
+        "label": "See Studio",
+        "href": "https://mydose.ai/studio/"
+      },
+      {
+        "label": "Get started",
+        "href": "https://app.mydose.ai/clinic-signup"
+      },
+      {
+        "label": "Start building",
+        "href": "https://mydose.ai/studio/"
+      },
+      {
+        "label": "Schedule a meeting",
+        "href": "https://discovery.mydose.ai"
+      },
+      {
+        "label": "Schedule a meeting",
+        "href": "https://discovery.mydose.ai"
+      },
+      {
+        "label": "privacy policy",
+        "href": "https://mydose.ai/privacy-policy/"
+      },
+      {
+        "label": "Compare products",
+        "href": "https://mydose.ai/products/"
+      },
+      {
+        "label": "Schedule a meeting",
+        "href": "https://discovery.mydose.ai"
+      },
+      {
+        "label": "[email\u00a0protected]",
+        "href": "https://mydose.ai/cdn-cgi/l/email-protection#6c04090000032c011508031f09420d05"
+      },
+      {
+        "label": "MyDose Clinical Software",
+        "href": "https://mydose.ai/clinical-software/"
+      },
+      {
+        "label": "MyDose Health",
+        "href": "https://health.mydose.ai/"
+      },
+      {
+        "label": "White Label",
+        "href": "https://mydose.ai/zero-setup/"
+      },
+      {
+        "label": "About MyDose",
+        "href": "https://mydose.ai/about/"
+      },
+      {
+        "label": "Contact",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Careers",
+        "href": "https://www.linkedin.com/company/mydose-ai/jobs/"
+      },
+      {
+        "label": "Press & Media",
+        "href": "https://mydose.ai/press/"
+      },
+      {
+        "label": "Resources",
+        "href": "https://mydose.ai/resources/"
+      },
+      {
+        "label": "Terms of Service",
+        "href": "https://mydose.ai/terms-of-service/"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "https://mydose.ai/privacy-policy/"
+      },
+      {
+        "label": "Privacy Request",
+        "href": "https://mydose.ai/privacy-request/"
+      },
+      {
+        "label": "HIPAA Notice",
+        "href": "https://health.mydose.ai/privacy-policy"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/company/mydose"
+      },
+      {
+        "label": "X (Twitter)",
+        "href": "https://x.com/mydose_ai"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/mydose_ai/"
+      },
+      {
+        "label": "YouTube",
+        "href": "https://www.youtube.com/@mydoseai"
+      },
+      {
+        "label": "",
+        "href": "https://www.legitscript.com/websites/?checker_keywords=mydose.ai"
+      },
+      {
+        "label": "Notice of Privacy Practices",
+        "href": "https://health.mydose.ai/privacy-policy"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "https://mydose.ai/privacy-policy/"
+      }
+    ]
+  },
+  {
+    "page": "https://mydose.ai/pricing/",
+    "resolved": "https://mydose.ai/pricing/",
+    "status": 200,
+    "links": [
+      {
+        "label": "Skip to main content",
+        "href": "https://mydose.ai/pricing/#brx-content"
+      },
+      {
+        "label": "",
+        "href": "https://mydose.ai"
+      },
+      {
+        "label": "For gyms & studios MyDose Launch",
+        "href": "https://mydose.ai/launch/"
+      },
+      {
+        "label": "Your own brand MyDose Studio Build and launch a telehealth brand",
+        "href": "https://mydose.ai/studio/"
+      },
+      {
+        "label": "Telehealth businesses MyDose Enterprise",
+        "href": "https://mydose.ai/enterprise/"
+      },
+      {
+        "label": "Compare all products \u2192",
+        "href": "https://mydose.ai/products/"
+      },
+      {
+        "label": "For Patients",
+        "href": "https://health.mydose.ai/"
+      },
+      {
+        "label": "About",
+        "href": "https://mydose.ai/about/"
+      },
+      {
+        "label": "FAQ",
+        "href": "https://mydose.ai/faq/"
+      },
+      {
+        "label": "Your own brand Studio docs Set up and run your Studio brand",
+        "href": "https://docs.mydose.ai/studio/overview"
+      },
+      {
+        "label": "For gyms & studios Launch docs Get Launch running for your members",
+        "href": "https://docs.mydose.ai/launch/overview"
+      },
+      {
+        "label": "Existing clinics Platform docs Clinic guide for the MyDose Platform",
+        "href": "https://docs.mydose.ai/clinic-guide/overview"
+      },
+      {
+        "label": "Resources \u2192",
+        "href": "https://mydose.ai/resources/"
+      },
+      {
+        "label": "Log In",
+        "href": "https://app.mydose.ai/"
+      },
+      {
+        "label": "Contact Us",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Home",
+        "href": "https://mydose.ai"
+      },
+      {
+        "label": "MyDose Launch",
+        "href": "https://mydose.ai/launch/"
+      },
+      {
+        "label": "MyDose Studio",
+        "href": "https://mydose.ai/studio/"
+      },
+      {
+        "label": "MyDose Enterprise",
+        "href": "https://mydose.ai/enterprise/"
+      },
+      {
+        "label": "Compare all products",
+        "href": "https://mydose.ai/products/"
+      },
+      {
+        "label": "MyDose Health",
+        "href": "https://health.mydose.ai/"
+      },
+      {
+        "label": "About",
+        "href": "https://mydose.ai/about/"
+      },
+      {
+        "label": "FAQ",
+        "href": "https://mydose.ai/faq/"
+      },
+      {
+        "label": "Contact",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Studio docs",
+        "href": "https://docs.mydose.ai/studio/overview"
+      },
+      {
+        "label": "Launch docs",
+        "href": "https://docs.mydose.ai/launch/overview"
+      },
+      {
+        "label": "Platform docs",
+        "href": "https://docs.mydose.ai/clinic-guide/overview"
+      },
+      {
+        "label": "Resources",
+        "href": "https://mydose.ai/resources/"
+      },
+      {
+        "label": "Log In",
+        "href": "https://app.mydose.ai/"
+      },
+      {
+        "label": "Contact Us",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Book a demo",
+        "href": "https://discovery.mydose.ai"
+      },
+      {
+        "label": "Get started with Launch",
+        "href": "https://app.mydose.ai/clinic-signup"
+      },
+      {
+        "label": "Start building free",
+        "href": "https://app.mydose.ai/clinic-signup"
+      },
+      {
+        "label": "Schedule a meeting",
+        "href": "https://discovery.mydose.ai"
+      },
+      {
+        "label": "Get started",
+        "href": "https://app.mydose.ai/clinic-signup"
+      },
+      {
+        "label": "Get started",
+        "href": "https://app.mydose.ai/clinic-signup"
+      },
+      {
+        "label": "Schedule a meeting",
+        "href": "https://discovery.mydose.ai"
+      },
+      {
+        "label": "privacy policy",
+        "href": "https://mydose.ai/privacy-policy/"
+      },
+      {
+        "label": "Free sign up",
+        "href": "https://app.mydose.ai/clinic-signup"
+      },
+      {
+        "label": "Book a demo",
+        "href": "https://discovery.mydose.ai"
+      },
+      {
+        "label": "[email\u00a0protected]",
+        "href": "https://mydose.ai/cdn-cgi/l/email-protection#85ede0e9e9eac5e8fce1eaf6e0abe4ec"
+      },
+      {
+        "label": "MyDose Clinical Software",
+        "href": "https://mydose.ai/clinical-software/"
+      },
+      {
+        "label": "MyDose Health",
+        "href": "https://health.mydose.ai/"
+      },
+      {
+        "label": "White Label",
+        "href": "https://mydose.ai/zero-setup/"
+      },
+      {
+        "label": "About MyDose",
+        "href": "https://mydose.ai/about/"
+      },
+      {
+        "label": "Contact",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Careers",
+        "href": "https://www.linkedin.com/company/mydose-ai/jobs/"
+      },
+      {
+        "label": "Press & Media",
+        "href": "https://mydose.ai/press/"
+      },
+      {
+        "label": "Resources",
+        "href": "https://mydose.ai/resources/"
+      },
+      {
+        "label": "Terms of Service",
+        "href": "https://mydose.ai/terms-of-service/"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "https://mydose.ai/privacy-policy/"
+      },
+      {
+        "label": "Privacy Request",
+        "href": "https://mydose.ai/privacy-request/"
+      },
+      {
+        "label": "HIPAA Notice",
+        "href": "https://health.mydose.ai/privacy-policy"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/company/mydose"
+      },
+      {
+        "label": "X (Twitter)",
+        "href": "https://x.com/mydose_ai"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/mydose_ai/"
+      },
+      {
+        "label": "YouTube",
+        "href": "https://www.youtube.com/@mydoseai"
+      },
+      {
+        "label": "",
+        "href": "https://www.legitscript.com/websites/?checker_keywords=mydose.ai"
+      },
+      {
+        "label": "Notice of Privacy Practices",
+        "href": "https://health.mydose.ai/privacy-policy"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "https://mydose.ai/privacy-policy/"
+      }
+    ]
+  },
+  {
+    "page": "https://mydose.ai/clinical-software/",
+    "resolved": "https://mydose.ai/clinical-software/",
+    "status": 200,
+    "links": [
+      {
+        "label": "Skip to main content",
+        "href": "https://mydose.ai/clinical-software/#brx-content"
+      },
+      {
+        "label": "",
+        "href": "https://mydose.ai"
+      },
+      {
+        "label": "For gyms & studios MyDose Launch",
+        "href": "https://mydose.ai/launch/"
+      },
+      {
+        "label": "Your own brand MyDose Studio Build and launch a telehealth brand",
+        "href": "https://mydose.ai/studio/"
+      },
+      {
+        "label": "Telehealth businesses MyDose Enterprise",
+        "href": "https://mydose.ai/enterprise/"
+      },
+      {
+        "label": "Compare all products \u2192",
+        "href": "https://mydose.ai/products/"
+      },
+      {
+        "label": "For Patients",
+        "href": "https://health.mydose.ai/"
+      },
+      {
+        "label": "About",
+        "href": "https://mydose.ai/about/"
+      },
+      {
+        "label": "FAQ",
+        "href": "https://mydose.ai/faq/"
+      },
+      {
+        "label": "Your own brand Studio docs Set up and run your Studio brand",
+        "href": "https://docs.mydose.ai/studio/overview"
+      },
+      {
+        "label": "For gyms & studios Launch docs Get Launch running for your members",
+        "href": "https://docs.mydose.ai/launch/overview"
+      },
+      {
+        "label": "Existing clinics Platform docs Clinic guide for the MyDose Platform",
+        "href": "https://docs.mydose.ai/clinic-guide/overview"
+      },
+      {
+        "label": "Resources \u2192",
+        "href": "https://mydose.ai/resources/"
+      },
+      {
+        "label": "Log In",
+        "href": "https://app.mydose.ai/"
+      },
+      {
+        "label": "Contact Us",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Home",
+        "href": "https://mydose.ai"
+      },
+      {
+        "label": "MyDose Launch",
+        "href": "https://mydose.ai/launch/"
+      },
+      {
+        "label": "MyDose Studio",
+        "href": "https://mydose.ai/studio/"
+      },
+      {
+        "label": "MyDose Enterprise",
+        "href": "https://mydose.ai/enterprise/"
+      },
+      {
+        "label": "Compare all products",
+        "href": "https://mydose.ai/products/"
+      },
+      {
+        "label": "MyDose Health",
+        "href": "https://health.mydose.ai/"
+      },
+      {
+        "label": "About",
+        "href": "https://mydose.ai/about/"
+      },
+      {
+        "label": "FAQ",
+        "href": "https://mydose.ai/faq/"
+      },
+      {
+        "label": "Contact",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Studio docs",
+        "href": "https://docs.mydose.ai/studio/overview"
+      },
+      {
+        "label": "Launch docs",
+        "href": "https://docs.mydose.ai/launch/overview"
+      },
+      {
+        "label": "Platform docs",
+        "href": "https://docs.mydose.ai/clinic-guide/overview"
+      },
+      {
+        "label": "Resources",
+        "href": "https://mydose.ai/resources/"
+      },
+      {
+        "label": "Log In",
+        "href": "https://app.mydose.ai/"
+      },
+      {
+        "label": "Contact Us",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Sign Up for Free",
+        "href": "https://app.mydose.ai/clinic-signup"
+      },
+      {
+        "label": "Learn more about MyDose Telehealth \u2192",
+        "href": "https://mydose.ai/telehealth"
+      },
+      {
+        "label": "Sign Up for free",
+        "href": "https://app.mydose.ai/clinic-signup"
+      },
+      {
+        "label": "Schedule a meeting",
+        "href": "https://discovery.mydose.ai"
+      },
+      {
+        "label": "Schedule a meeting",
+        "href": "https://discovery.mydose.ai"
+      },
+      {
+        "label": "Schedule a meeting",
+        "href": "https://discovery.mydose.ai"
+      },
+      {
+        "label": "Sign Up for Free",
+        "href": "https://app.mydose.ai/clinic-signup"
+      },
+      {
+        "label": "Talk to Sales (for enterprise/large clinics)",
+        "href": "https://discovery.mydose.ai"
+      },
+      {
+        "label": "[email\u00a0protected]",
+        "href": "https://mydose.ai/cdn-cgi/l/email-protection#056d6069696a45687c616a76602b646c"
+      },
+      {
+        "label": "MyDose Clinical Software",
+        "href": "https://mydose.ai/clinical-software/"
+      },
+      {
+        "label": "MyDose Health",
+        "href": "https://health.mydose.ai/"
+      },
+      {
+        "label": "White Label",
+        "href": "https://mydose.ai/zero-setup/"
+      },
+      {
+        "label": "About MyDose",
+        "href": "https://mydose.ai/about/"
+      },
+      {
+        "label": "Contact",
+        "href": "https://mydose.ai/contact/"
+      },
+      {
+        "label": "Careers",
+        "href": "https://www.linkedin.com/company/mydose-ai/jobs/"
+      },
+      {
+        "label": "Press & Media",
+        "href": "https://mydose.ai/press/"
+      },
+      {
+        "label": "Resources",
+        "href": "https://mydose.ai/resources/"
+      },
+      {
+        "label": "Terms of Service",
+        "href": "https://mydose.ai/terms-of-service/"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "https://mydose.ai/privacy-policy/"
+      },
+      {
+        "label": "Privacy Request",
+        "href": "https://mydose.ai/privacy-request/"
+      },
+      {
+        "label": "HIPAA Notice",
+        "href": "https://health.mydose.ai/privacy-policy"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/company/mydose"
+      },
+      {
+        "label": "X (Twitter)",
+        "href": "https://x.com/mydose_ai"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/mydose_ai/"
+      },
+      {
+        "label": "YouTube",
+        "href": "https://www.youtube.com/@mydoseai"
+      },
+      {
+        "label": "",
+        "href": "https://www.legitscript.com/websites/?checker_keywords=mydose.ai"
+      },
+      {
+        "label": "Notice of Privacy Practices",
+        "href": "https://health.mydose.ai/privacy-policy"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "https://mydose.ai/privacy-policy/"
+      }
+    ]
+  }
+]

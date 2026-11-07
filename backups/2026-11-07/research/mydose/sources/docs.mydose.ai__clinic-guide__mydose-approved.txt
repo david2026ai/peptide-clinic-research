@@ -1,0 +1,96 @@
+SOURCE: https://docs.mydose.ai/clinic-guide/mydose-approved
+FETCHED: 2026-11-07T10:32:42.668692-08:00
+STATUS: 200
+Public documentation snapshot; vendor statements not independent audit.
+
+MyDose Approved Packages
+Create a package from treatments pre-approved by MyDose doctors — search the catalog, pick a treatment, and continue with limited customization.
+MyDose Approved lets you build a package from treatments pre-approved by MyDose doctors.
+What is MyDose Approved?
+When you select
+Create Package
+on the Services page, the
+New Package
+dialog offers
+MyDose Approved
+, described as: "Choose from pre-approved treatments by MyDose doctors with limited customization."
+Choose it when speed and pre-vetted clinical content matter more than full control. If you need to define your own categories, visit requirements, medication, treatment schedule, and pricing, build a
+Custom Package
+instead.
+Option
+Best for
+Customization
+MyDose Approved
+Launching with a treatment pre-approved by MyDose doctors
+Limited — the treatment is pre-defined
+Custom Package
+Full control over every step, managed and fulfilled by your clinic
+Full five-step wizard
+Where to find it
+Go to
+Services
+, select
+Create Package
+, choose
+MyDose Approved
+in the
+New Package
+dialog, then select
+Continue
+. You can also open
+/services/mydose-approved
+directly.
+MyDose Approved treatment picker
+Pick a treatment
+The
+Set treatment details
+screen shows the catalog of pre-approved treatments.
+Search or filter the catalog
+Use the search box or the
+All categories
+,
+Any price
+, and
+All forms
+filters to narrow the list.
+Review the treatment cards
+Each card shows the treatment name, its category tags, "from $X.XX/month" pricing, and the underlying product. In the demo clinic, examples include
+Tirzepatide + B12
+from $249.00/month,
+Semaglutide + B12
+from $300.00/month, and
+NAD+ Injectable
+from $262.50/month.
+Select a treatment
+Select the card for the treatment you want.
+Continue
+stays disabled until a treatment is selected.
+Continue or exit
+Select
+Continue
+to proceed with the selected treatment, or
+Exit
+to leave the picker.
+Availability
+Whether MyDose Approved is available is controlled by the
+MyDose Approved
+toggle in Services Settings — open
+Services
+, select
+Settings
+, and switch the toggle. See the
+Services overview
+for the rest of the Services Settings options.
+Pricing shown in the treatment picker is the demo clinic's marketplace pricing. Your clinic's rates may differ.
+Related
+Services overview
+The Services page, its tabs, and the Services Settings toggles.
+Create a service package
+Build a fully customizable Custom Package with the five-step wizard.
+Assign a package
+Put a package on a patient once it's created.
+Library
+Manage the documents and intake forms your packages reference.
+Was this page helpful?
+Yes
+No

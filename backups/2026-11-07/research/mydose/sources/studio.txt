@@ -1,0 +1,545 @@
+URL: https://mydose.ai/studio/
+Retrieved:2026-11-07 PST
+HTTP:200
+
+Launch your health brand in a day | MyDose Studio
+Skip to main content
+Opens in a new tab
+Skip to content
+MyDose Studio
+How it works
+Inside Studio
+Pricing
+FAQ
+Docs
+Start building free
+→
+Menu
+How it works
+Inside Studio
+Pricing
+FAQ
+Docs
+Launch your
+health brand.
+You pick what to sell and what to charge. Independent licensed providers and a partner pharmacy are already in place. $0 until your first patient.
+Start building free
+→
+For founders, and for med spas, clinics, wellness brands and creators who want their own name on it.
+Sample brand
+06
+/ 06
+yourbrand.mydose.store
+northstarhealth.mydose.store
+Draft
+Live
+Northstar Health
+Treatments
+About
+Get started
+Care that fits
+your week.
+Start with a short online intake. An independent licensed provider reviews it and decides what is right for you.
+Get started
+How it works
+Programs
+Weight management
+$349
+/mo
+Longevity program
+$449
+/mo
+Hair program
+$199
+/mo
+Recovery program
+$149
+/mo
+New order · $349.00
+Weight management · just now
+9:41 AM
+Store name
+Required
+Your brand name
+yourbrand.mydose.store
+Store name
+Saved
+Northstar Health
+northstarhealth.mydose.store
+Brand color
+#1F3B4D
+Template
+Minimal
+Minimal
+Editorial
+Clinical
+Programs
+4 selected
+Weight management
+$349
+Longevity program
+$449
+Hair program
+$199
+Recovery program
+$149
+Launch
+northstarhealth.mydose.store
+Site
+Checkout
+Patient portal
+Go live
+Live
+Today
+1 order
+$349.00
+8 AM
+6 PM
+Watch it get built
+Hover to play
+01
+Name
+02
+Color
+03
+Template
+04
+Programs
+05
+Live
+06
+First order
+06
+First order
+What you'd otherwise set up
+Before your first patient, you'd need five things.
+Licensed providers. A pharmacy. Compliance. Patient software. Payments. MyDose runs all five. You bring the brand and the customers. You never hire, contract or build any of it.
+You run
+Brand, prices and customers.
+We run
+Everything a regulated telehealth business needs underneath.
+You run
+Your brand
+yourbrand.com
+Name & domain
+Programs & prices
+Customers & marketing
+↓
+Orders
+Payouts
+↑
+We run
+One platform connects your storefront to everything below.
+All systems running
+Clinical
+Licensed providers
+Review every intake and make the treatment decision.
+Included
+Fulfillment
+503A pharmacy
+Fills and ships from U.S.-licensed compounding pharmacies.
+Included
+Regulatory
+Compliance
+Versioned consent, disclosures and a full audit trail.
+Included
+Software
+Patient app
+Intake, messaging, labs and refills in one place, with your logo.
+Included
+Payments
+Checkout & payouts
+Card checkout, with program revenue paid out through Stripe Connect.
+Included
+How it works
+Who does what.
+You
+Choose programs. Set prices. Build your pages, with a template, the CMS or Claude Code. Run your marketing.
+MyDose
+Licensed providers. Pharmacy and delivery. Compliance and patient data handling. Patient portal, intake, consent, billing, payouts.
+01
+Choose what you sell.
+02
+Make it yours.
+Brand
+03
+Go live.
+Start building free
+→
+Build your way
+Build it with Claude Code.
+Connect Claude Code, Cursor or ChatGPT to your Studio account, then ask for what you want: pages, blog posts, forms, themes, A/B tests.
+82 hub tools and 104 CMS tools. Writes need an owner or admin role. Destructive calls need a confirm code.
+Templates
+Start from a finished storefront and swap in your brand.
+CMS
+Edit pages, programs and images in the editor.
+Claude + MCP
+Prompt changes against your live store data.
+See it in action
+northstar-health · MyDose Studio
+>
+Lead the homepage with weight management, use navy #1D3444, and add a longevity page with our $449 program.
+● studio.read_store
+northstar-health · 4 programs on
+● cms.update_page
+home · hero, colors, program grid
+● cms.create_page
+/longevity · program card $449
+● compliance.attach
+consent + 503A disclosure
+✓ Draft saved.
+Preview: northstarhealth.com/?preview
+Publish when you're ready.
+Builder
+Pick your programs. Your storefront updates.
+Programs
+Weight management
+$349
+Longevity program
+$449
+Hair program
+$199
+Recovery program
+$149
+Brand color
+Navy
+Green
+Blue
+Sample data
+northstarhealth.mydose.store
+Northstar Health
+Get started
+Care that fits your week.
+Start with a short online intake. An independent licensed provider reviews it and decides what is right for you.
+Programs
+Weight management
+$349 /mo
+Longevity program
+$449 /mo
+Hair program
+$199 /mo
+Recovery program
+$149 /mo
+Inside Studio
+Run the business from one screen.
+Sales, orders, patients, refills and payouts. Clinical records stay with the providers. You see the business.
+Inside Studio
+5a
+5b
+5c
+5d
+5e
+5f
+5g
+5a
+Your storefront, your brand kit, your domain.
+Pick a template, set your logo, colors and fonts once, and edit your pages from the dashboard. Your storefront starts at yourbrand.mydose.store and runs on your own domain once you connect it.
+5b
+You set the price.
+Medication and provider consults pass through at cost, with no MyDose markup.
+5c
+Orders, patients and subscriptions in one place.
+See every order, patient and subscription as it happens. Refund, cancel, pause or resume from the dashboard.
+5d
+Analytics and attribution.
+Visits, sales and ad results across your stores, as totals (no individual patients), with attribution by source, campaign and landing page. Build tracking links for Meta, Google Ads and TikTok, add your ad spend, and see cost per patient and ROAS.
+5e
+Ad tracking with patient privacy built in.
+Paste a key for GA4, Meta or TikTok and Studio sends visits from your general pages only. Never a name, email, phone number, product, treatment or answer. Patient sign-ups and purchases are never shared.
+5f
+Payouts and billing.
+Connect one bank account through Stripe. Your share of every sale is paid out, and the plan fee comes out of your payouts. Nothing is billed until your first patient.
+5g
+Team, notifications, more than one storefront.
+Invite teammates as Admin or Staff. Get a daily summary and a payment alert for every sale. Run more than one storefront from one account.
+Start building free
+→
+All stores
+Search
+⌘K
+DR
+[email protected]
+Sales
+Catalog
+Growth
+Stores and money
+Help
+Settings
+Home
+Orders
+Patients
+Subscriptions
+Products
+Discounts
+Analytics
+Marketing
+Integrations
+Storefronts
+Payouts
+Support
+AI assistants
+All settings
+Brand kit
+Team
+Billing
+Email sending
+Notifications
+01 / 07
+Scroll, or pick a block
+What’s already running
+Licensed providers and a partner pharmacy, from day one.
+Independent licensed providers review every intake and decide whether to prescribe. Licensed partner pharmacies fill and ship. Your patients get a portal with your logo. You never hire, contract or build any of it.
+Hover or tap a card
+00
+Your storefront
+01
+Patient portal
+Northstar Health
+Care team
+How can we help today?
+Your patients get a portal with your logo.
+02
+Licensed providers
+In review
+Approved
+Provider review
+Independent licensed providers review every intake and decide whether to prescribe.
+03
+Partner pharmacy
+Shipped
+UPS 1Z84A9210347
+Licensed partner pharmacies fill and ship.
+04
+Compliance and patient data
+E-consent signed
+You never hire, contract or build any of it.
+The formulary
+Every program runs on provider oversight, 503A fulfillment and labs. Patients track progress in the app.
+Total T · ng/dL
+Wk 0 → 12
+640
+In range
+285
+BASELINE
+640 · WK 12
+300
+1,000
+REFERENCE RANGE
+Hormone health
+Men's and women's hormone therapy with baseline labs and follow-up panels.
+Protocol cycle
+12 wks
+Wk
+7
+On schedule
+WK 1
+WK 6
+WK 12
+LABS · WK 0 ✓
+LABS · WK 6 ✓
+LABS · WK 12
+Peptides & longevity
+Recovery and longevity protocols from the MyDose clinical formulary.
+Sample data. Sample patient data for illustration.
+Patients
+The provider decides. You run the brand.
+A patient fills in intake on your storefront. An independent licensed provider reviews it and decides whether to prescribe. A licensed partner pharmacy fills and ships the order. You see the order, the patient and your payout in your dashboard. The medical conversation stays between the patient and the care team.
+9:40 pm
+8:15 am
+11:02 am
+10:20 am
+7:05 pm
+Northstar Health
+Intake
+A few questions for your provider.
+Full name
+Alex Morgan
+Date of birth
+MM / DD / YYYY
+I agree to the e-consent.
+Continue
+Northstar Health
+Your intake
+In review
+Your provider is reviewing your intake.
+You will see an update here.
+Intake sent
+Provider review
+Pharmacy
+Northstar Health
+Your order
+Shipped
+Your order is on its way.
+Filled
+Shipped
+Delivered
+Tracking
+In transit
+Northstar Health
+Reminders
+Care reminder
+Time for your next check-in.
+Appointment reminder
+You have an appointment coming up.
+Open portal
+Northstar Health
+Care team
+Care team
+Hi Alex, how can we help today?
+You
+Where can I see my order?
+Care team
+Open Your order in the portal for the latest status.
+Write a message
+Intake received. A provider will review it.
+A licensed provider is reviewing your intake
+Your order has shipped.
+Reminder from Northstar Health
+New message from your care team
+Tuesday, 9:40 pm
+Intake and e-consent
+A patient fills in intake on your storefront.
+Under the hood
+Routed to a licensed provider in the patient's state.
+Wednesday, 8:15 am
+Provider review
+An independent licensed provider reviews it and decides whether to prescribe.
+Under the hood
+Prescribed where appropriate.
+Friday, 11:02 am
+Pharmacy fills and ships
+A licensed partner pharmacy fills and ships the order.
+Under the hood
+Shipped with tracking.
+Monday, 10:20 am
+Care reminders
+Week four, 7:05 pm
+Messages from the portal
+The medical conversation stays between the patient and the care team.
+Under the hood
+Under your brand.
+01
+Intake and e-consent
+02
+Provider review
+03
+Pharmacy fills and ships
+04
+Care reminders
+05
+Messages from the portal
+Medical services provided by independent licensed providers. Compounded medications are not FDA-approved.
+Start building free
+→
+Who it’s for
+Built for people who want their own name on it.
+Founders
+Marketer or technical, starting a healthcare brand from zero.
+Med spas and clinics
+Add a cash-pay telehealth line under your own brand.
+Wellness brands and creators
+Turn an audience into patients, with real care behind it.
+The three ways in
+Have your own prescribers?
+MyDose Clinic: software for practices to run their own patients, providers and care.
+$99 a month plus $10 per active patient.
+MyDose Clinic
+→
+Have members, not a brand?
+MyDose Launch: offer health programs to your gym, studio or clinic members. MyDose runs the care and sets the price; you share a link.
+MyDose Launch
+→
+Building a brand?
+MyDose Studio: build your own health brand under your name and prices. MyDose runs the care underneath. You’re in the right place.
+Pricing
+$0 until your first patient.
+Plan
+$499/mo, 50 active patients included
+Each active patient past 50
+$15/mo
+Medication and consults
+at cost, no MyDose markup
+Active patients
+50
+0
+50 active patients included
++$15 each above
+At 120 active patients: $1,549 a month.
+Monthly total
+Plan
+$499
+Active patients over 50:
+0
+× $15
+$0
+Total
+$499
+a month
+Total $499 a month
+Start building free
+→
+What it costs to do this another way
+Build it yourself
+White-label agency
+MyDose Studio
+Upfront cost
+Medical group, legal, pharmacy contracts
+$0 until your first patient, then $499/mo
+Who keeps the program revenue
+You
+Split
+You
+Changing the site
+Your dev team
+Ticket queue
+You, or Claude Code
+FAQ
+What do I keep?
+Your price minus MyDose’s cost, on every sale. Medication and provider consults pass through at cost. Once you have a live patient, the plan is $499 a month with 50 active patients included and $15 for each one past that, taken from your payouts.
+Who is the doctor, and who is liable?
+Independent licensed providers review every intake and decide whether to prescribe. They are not your employees, and you never make a medical decision.
+Medical services provided by independent licensed providers. Compounded medications are not FDA-approved.
+Do I own my patients and my brand?
+The brand is yours: the name, the domain, the logo, the pages, the prices. Patients sign up on your storefront and appear in your dashboard with their orders and subscriptions.
+Can I try it before I pay?
+Yes. Build the storefront, set products and prices, invite your team and run the store in test mode for as long as you want. You pay nothing until your first live patient.
+What happens when I go live?
+Connect a bank account through Stripe and switch the store to live. From then on patients can sign up, providers review intakes, the pharmacy ships, and payouts start. Billing starts with your first live patient.
+Who answers my patients’ questions?
+Medical questions go to the care team, through the patient portal, and the care team answers them. You see support conversations in Studio.
+Is this for me?
+If you want a healthcare brand under your own name, and you will do the work of finding patients, yes. If you want quick money off a trend, no. Medical decisions belong to the providers, and the rules that come with them apply to your pages and your ads.
+MyDose Studio
+Start your healthcare brand today. $0 until your first patient.
+Start building free
+→
+MyDose Studio
+Medical services provided by independent licensed providers. Compounded medications are not FDA-approved.
+© 2026 MyDoseAI LLC. MyDose is a technology platform; medical care is provided by independent licensed providers, and prescriptions are filled by licensed partner pharmacies.
+Support
+[email protected]
+Docs
+The three products
+MyDose Clinic
+software for practices to run their own patients, providers and care.
+MyDose Launch
+offer health programs to your gym, studio or clinic members. MyDose runs the care and sets the price; you share a link.
+MyDose Studio
+build your own health brand under your name and prices. MyDose runs the care underneath.
+See it in action
+Close
+HIPAA Notice
+Your Health Information is Protected
+How we use your information:
+To provide and coordinate your healthcare
+To process payments for services
+For healthcare operations and quality improvement
+As required by law
+Your rights:
+You have the right to access, amend, and request restrictions on your health information. For details, see our full
+Notice of Privacy Practices
+and
+Privacy Policy
+.
+This notice is for informational purposes and does not replace our full Notice of Privacy Practices.

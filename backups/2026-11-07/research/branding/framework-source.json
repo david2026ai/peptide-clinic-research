@@ -1,0 +1,25 @@
+{
+  "status": "FOUND: exact general competitive-attribute skill",
+  "name": "casemap",
+  "repository": "david2026ai/symos-skills",
+  "branch": "cursor/casemap-skill-bcd8",
+  "commit": "615de3d1f619c5bf6bf65e406ccb38a7f0ee9a07",
+  "path": "skills/casemap/SKILL.md",
+  "url": "https://github.com/david2026ai/symos-skills/blob/615de3d1f619c5bf6bf65e406ccb38a7f0ee9a07/skills/casemap/SKILL.md",
+  "supporting_documents_read": [
+    "skills/casemap/METHODOLOGY.md",
+    "skills/casemap/schema.yaml"
+  ],
+  "discovered_via": "Scale-Your-Marketing/symos @ 57398a0660196a20ba540398319862110195c12f, skills/casemap/POINTER.md",
+  "matching_excerpt": "Competitive attribute map (casemap) for any vertical or business project. Forces a 1\u20135 attribute scorecard of Us vs 2\u20134 face competitors",
+  "framework": [
+    "Discover customer needs and industry value-adds, including latent needs",
+    "Select 5\u20138 scored attributes traced to needs",
+    "Score Us vs 2\u20134 face competitors, 1\u20135, evidence/confidence per cell",
+    "Identify Focus and Breaker with moat honesty",
+    "Specify 3\u20137 give-ups and resource reallocation",
+    "Persist YAML and readable Markdown, plus Canvas graphic"
+  ],
+  "no_repository_changes": true,
+  "naming_status": "Preliminary name and public .com RDAP research preserved; no naming Page yet, no registrar availability confirmed, no trademark clearance."
+}

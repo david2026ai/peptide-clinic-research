@@ -1,0 +1,556 @@
+{
+  "$schema_version": 2,
+  "slug": "clinic-brand-options",
+  "title": "Owned-care brand \u2014 provisional CaseMap",
+  "updated": "2026-11-07",
+  "paying_customer": "Assumption: US adult paying cash. Numeric map uses weight management only to keep direct rivals comparable; no niche selected.",
+  "our_offer": "Proposed branded access to licensed clinical care with understandable costs and next steps; independent clinicians determine treatment.",
+  "status": "mixed",
+  "needs_intake": {
+    "method": "Public offer research plus buyer hypotheses; no patient interviews or willingness-to-pay evidence.",
+    "latent_hunt": "What could cause refusal despite price/speed? Surprise renewal, unclear handoff owner, inability to leave, health-data exposure.",
+    "limitation": "Scores concern public buying-process posture and design targets, never clinical quality."
+  },
+  "customer_needs": [
+    {
+      "id": "total-cost",
+      "need": "Know all cost components",
+      "who": "paying_buyer",
+      "job_to_be_done": "Know all cost components",
+      "must_have": true,
+      "wtp_signal": null,
+      "visibility": "obvious",
+      "source": "research",
+      "sources": [
+        "https://ro.co/weight-loss/pricing/",
+        "https://joinmochi.com/"
+      ]
+    },
+    {
+      "id": "renewal",
+      "need": "Distinguish introductory and recurring charges",
+      "who": "paying_buyer",
+      "job_to_be_done": "Distinguish introductory and recurring charges",
+      "must_have": true,
+      "wtp_signal": null,
+      "visibility": "obvious",
+      "source": "research",
+      "sources": [
+        "https://ro.co/weight-loss/pricing/",
+        "https://joinmochi.com/"
+      ]
+    },
+    {
+      "id": "evaluation",
+      "need": "Understand independent evaluation and no guaranteed prescription",
+      "who": "paying_buyer",
+      "job_to_be_done": "Understand independent evaluation and no guaranteed prescription",
+      "must_have": true,
+      "wtp_signal": null,
+      "visibility": "obvious",
+      "source": "research",
+      "sources": [
+        "https://ro.co/weight-loss/pricing/",
+        "https://joinmochi.com/"
+      ]
+    },
+    {
+      "id": "ongoing-help",
+      "need": "Get help after starting treatment",
+      "who": "paying_buyer",
+      "job_to_be_done": "Get help after starting treatment",
+      "must_have": true,
+      "wtp_signal": null,
+      "visibility": "obvious",
+      "source": "research",
+      "sources": [
+        "https://ro.co/weight-loss/pricing/",
+        "https://joinmochi.com/",
+        "https://www.evernow.com/"
+      ]
+    },
+    {
+      "id": "decision-receipt",
+      "need": "See personal 90-day spending scenarios and next steps with change triggers",
+      "who": "paying_buyer",
+      "job_to_be_done": "See personal 90-day spending scenarios and next steps with change triggers",
+      "must_have": false,
+      "wtp_signal": null,
+      "visibility": "latent",
+      "source": "hypothesis",
+      "sources": []
+    },
+    {
+      "id": "decline-exit",
+      "need": "Know financial consequences of ineligibility or stopping",
+      "who": "paying_buyer",
+      "job_to_be_done": "Know financial consequences of ineligibility or stopping",
+      "must_have": true,
+      "wtp_signal": null,
+      "visibility": "latent",
+      "source": "research",
+      "sources": [
+        "https://ro.co/weight-loss/pricing/"
+      ]
+    },
+    {
+      "id": "handoff",
+      "need": "Know who owns delayed refills, labs and clinical handoffs",
+      "who": "paying_buyer",
+      "job_to_be_done": "Know who owns delayed refills, labs and clinical handoffs",
+      "must_have": true,
+      "wtp_signal": null,
+      "visibility": "non_obvious",
+      "source": "hypothesis",
+      "sources": []
+    },
+    {
+      "id": "privacy",
+      "need": "Avoid health information being treated as ordinary ad-lead data",
+      "who": "paying_buyer",
+      "job_to_be_done": "Avoid health information being treated as ordinary ad-lead data",
+      "must_have": true,
+      "wtp_signal": null,
+      "visibility": "latent",
+      "source": "hypothesis",
+      "sources": []
+    },
+    {
+      "id": "respect",
+      "need": "Choose care without shame or pressure to obtain a named drug",
+      "who": "paying_buyer",
+      "job_to_be_done": "Choose care without shame or pressure to obtain a named drug",
+      "must_have": true,
+      "wtp_signal": null,
+      "visibility": "obvious",
+      "source": "hypothesis",
+      "sources": []
+    }
+  ],
+  "industry_value_adds": [
+    {
+      "id": "decision-artifact",
+      "value_add": "Readable personal record of quoted costs, next action and responsible team",
+      "customer_valued": true,
+      "visibility": "latent",
+      "notes": "Hypothesis; validate willingness to choose/pay.",
+      "sources": []
+    },
+    {
+      "id": "safe-routing",
+      "value_add": "Appropriate screening and escalation",
+      "customer_valued": true,
+      "visibility": "obvious",
+      "notes": "Baseline safety, not unique medicine.",
+      "sources": [
+        "https://ro.co/weight-loss/pricing/",
+        "https://joinmochi.com/"
+      ]
+    },
+    {
+      "id": "marketing-stack",
+      "value_add": "Owned marketing platform and sophisticated media buying",
+      "customer_valued": false,
+      "visibility": "non_obvious",
+      "notes": "Potential business capability, not evidence of better patient care.",
+      "sources": []
+    }
+  ],
+  "competitors": [
+    {
+      "id": "us",
+      "name": "Owned-care brand (proposed)",
+      "role": "us",
+      "status": "hypothesis"
+    },
+    {
+      "id": "ro",
+      "name": "Ro Body",
+      "role": "face",
+      "business_model": "Membership plus medication, insurance concierge and prepaid options.",
+      "sells_to": "Adults seeking clinician-managed weight treatment, subject to eligibility.",
+      "why_face": "Same illustrative US adult cash-pay weight-management service class. No venture niche chosen.",
+      "exclusive_vs_shared": "Not applicable: clinical care, not lead resale.",
+      "trust_scars": "Hypothesis: combining charges/plan terms increases comparison effort; not evidence of poor care.",
+      "where_they_score_4_5": [
+        "Published renewal structure",
+        "Published ineligibility refund",
+        "Ongoing provider support"
+      ],
+      "sources": [
+        "https://ro.co/weight-loss/pricing/"
+      ]
+    },
+    {
+      "id": "mochi",
+      "name": "Mochi Health",
+      "role": "face",
+      "business_model": "Membership plus medication and diagnostic charges; self-pay and insurance routes.",
+      "sells_to": "People seeking clinician-managed weight treatment; this map concerns adults.",
+      "why_face": "Same illustrative US adult cash-pay weight-management service class.",
+      "exclusive_vs_shared": "Not applicable: clinical care, not lead resale.",
+      "trust_scars": "Hypothesis: membership/medication/lab components require combining; not a finding of deceptive billing.",
+      "where_they_score_4_5": [
+        "Published exclusions",
+        "Published starter/renewal terms",
+        "Provider/care-team access"
+      ],
+      "sources": [
+        "https://joinmochi.com/"
+      ]
+    }
+  ],
+  "attributes": [
+    {
+      "id": "cost-clarity",
+      "label": "1. Cost components visible",
+      "traces_to": [
+        "total-cost"
+      ],
+      "scores": {
+        "us": {
+          "value": 4,
+          "confidence": "hypothesis",
+          "rationale": "Planned itemization; pricing control unverified."
+        },
+        "ro": {
+          "value": 4,
+          "confidence": "peer_fact",
+          "rationale": "Membership and medication separated; necessary labs described in membership."
+        },
+        "mochi": {
+          "value": 4,
+          "confidence": "peer_fact",
+          "rationale": "Membership, medication and diagnostic exclusions expressly separated."
+        }
+      }
+    },
+    {
+      "id": "renewal-clarity",
+      "label": "2. Starter versus renewal clarity",
+      "traces_to": [
+        "renewal"
+      ],
+      "scores": {
+        "us": {
+          "value": 4,
+          "confidence": "hypothesis",
+          "rationale": "Planned renewal receipt; not implemented."
+        },
+        "ro": {
+          "value": 5,
+          "confidence": "peer_fact",
+          "rationale": "Published $39 first month and $149 monthly renewal; annual-plan option distinguished."
+        },
+        "mochi": {
+          "value": 5,
+          "confidence": "peer_fact",
+          "rationale": "Published $0 first monthly membership then $79; longer-plan option distinguished."
+        }
+      }
+    },
+    {
+      "id": "clinical-process",
+      "label": "3. Evaluation process explained",
+      "traces_to": [
+        "evaluation",
+        "respect"
+      ],
+      "scores": {
+        "us": {
+          "value": 4,
+          "confidence": "hypothesis",
+          "rationale": "Independent clinician review proposed; no partner contracted in this analysis."
+        },
+        "ro": {
+          "value": 4,
+          "confidence": "peer_fact",
+          "rationale": "Eligibility and personalized provider care described."
+        },
+        "mochi": {
+          "value": 4,
+          "confidence": "peer_fact",
+          "rationale": "Video evaluation and prescribing only if appropriate described."
+        }
+      }
+    },
+    {
+      "id": "ongoing-access",
+      "label": "4. Support after starting",
+      "traces_to": [
+        "ongoing-help",
+        "handoff"
+      ],
+      "scores": {
+        "us": {
+          "value": 3,
+          "confidence": "hypothesis",
+          "rationale": "Coverage and escalation not confirmed; planning prior only."
+        },
+        "ro": {
+          "value": 4,
+          "confidence": "peer_fact",
+          "rationale": "On-demand provider support, messaging and regular check-ins advertised."
+        },
+        "mochi": {
+          "value": 4,
+          "confidence": "peer_fact",
+          "rationale": "Unlimited self-pay visits and 24/7 care team advertised; not equivalent clinician-access promises."
+        }
+      }
+    },
+    {
+      "id": "decision-receipt",
+      "label": "5. Personal decision receipt",
+      "traces_to": [
+        "decision-receipt",
+        "total-cost",
+        "handoff"
+      ],
+      "scores": {
+        "us": {
+          "value": 5,
+          "confidence": "hypothesis",
+          "rationale": "Stretch target: personal cost/next-step record with change triggers."
+        },
+        "ro": {
+          "value": 3,
+          "confidence": "hypothesis",
+          "rationale": "Neutral prior: reviewed public page cannot establish personalized receipt capability."
+        },
+        "mochi": {
+          "value": 3,
+          "confidence": "hypothesis",
+          "rationale": "Neutral prior: reviewed public page cannot establish personalized receipt capability."
+        }
+      }
+    },
+    {
+      "id": "decline-finances",
+      "label": "6. Ineligibility charge protection",
+      "traces_to": [
+        "decline-exit"
+      ],
+      "scores": {
+        "us": {
+          "value": 3,
+          "confidence": "hypothesis",
+          "rationale": "Policy not agreed; parity prior, not evidence of protection."
+        },
+        "ro": {
+          "value": 5,
+          "confidence": "peer_fact",
+          "rationale": "Published $39 refund if ineligible."
+        },
+        "mochi": {
+          "value": 3,
+          "confidence": "hypothesis",
+          "rationale": "Ineligibility-specific refund not established from reviewed homepage; neutral prior, not weakness finding."
+        }
+      }
+    }
+  ],
+  "totals": {
+    "us": 23,
+    "ro": 25,
+    "mochi": 23
+  },
+  "totals_warning": "Unweighted workshop sums, not a ranking of actual care. Mixed-confidence cells and future targets are not comparable measured performance.",
+  "main_strength": {
+    "focus": [
+      "decision-receipt"
+    ],
+    "status": "candidate, not demonstrated",
+    "explanation": "Make the financial/clinical journey legible. Price clarity and support already exist at competitors."
+  },
+  "breakers": {
+    "tier_1_model_blocked": "None documented. No exclusive clinical access, unique drug rights, superior outcomes or hard-to-copy moat established.",
+    "tier_2_copyable": [
+      "Clinician-approved plan plus personal financial scenario receipt with uncertainty ranges.",
+      "Separate consultations, drugs, labs, shipping, renewal and cancellation fields.",
+      "Named handoff owner, change notifications and documented escalation."
+    ],
+    "test": "Remove receipt, change notices and response ownership: does candidate Focus disappear? Validate comprehension and actual handoff delivery.",
+    "clinical_gate": "Marketing software does not choose medicines or doses; no implied prescription guarantee."
+  },
+  "give_ups": [
+    {
+      "aspect": "Experimental-peptide-led master brand",
+      "why": "not_icp",
+      "detail": "No launch segment or clinical/product path selected.",
+      "reallocate_to": "Flexible identity and evidence-grounded service pages."
+    },
+    {
+      "aspect": "Cheapest-vial or guaranteed-total-price promise",
+      "why": "capital_trap",
+      "detail": "Dose, labs, shipping and care scope change actual spending.",
+      "reallocate_to": "Itemization, scenario ranges and change notifications."
+    },
+    {
+      "aspect": "All-category launch and sprawling menu",
+      "why": "dilutes_focus",
+      "detail": "Bounded pilot after clinical/commercial validation; not a menopause mandate.",
+      "reallocate_to": "One understandable journey and support ownership."
+    },
+    {
+      "aspect": "Rebuild clinical backend before demand proof",
+      "why": "attach_not_face",
+      "detail": "MyDose and medical infrastructure are potential attach partners, not face rivals.",
+      "reallocate_to": "Contracts/export diligence and visible patient process."
+    },
+    {
+      "aspect": "Clinical-superiority or predictable-outcome claims",
+      "why": "not_icp",
+      "detail": "Brand ownership and media expertise do not establish better medicine.",
+      "reallocate_to": "Clinically reviewed factual education and evidence register."
+    },
+    {
+      "aspect": "Celebrity longevity and biohacking spectacle",
+      "why": "lose_to_specialist",
+      "detail": "Hone already advertises biomarker-led longevity breadth; theatre is not a moat.",
+      "reallocate_to": "Decision clarity and operational trust artifacts."
+    }
+  ],
+  "differentiators": {
+    "claims": [
+      {
+        "claim": "Understand the plan and what could change before committing.",
+        "maps_to_attributes": [
+          "decision-receipt",
+          "cost-clarity"
+        ],
+        "breaker_test": "Without personalized receipt and change triggers this is generic copy, not an earned claim."
+      }
+    ],
+    "peers_already_match": [
+      "Ro/Mochi publish costs/exclusions and renewal terms.",
+      "Ro publishes support and ineligibility refund.",
+      "Mochi advertises self-pay provider visits and care team.",
+      "Hone publishes testing/follow-up; Evernow publishes ongoing menopause messaging."
+    ],
+    "hard_to_match": [
+      "None demonstrated. An audited operational record could become evidence, not automatically a moat."
+    ]
+  },
+  "attach_partners": [
+    {
+      "name": "MyDose",
+      "role": "Potential storefront/clinical infrastructure; scope and pricing control unvalidated."
+    },
+    {
+      "name": "Licensed practices, pharmacies and labs",
+      "role": "Medical/dispensing/testing duties require contracts, not just brand ownership."
+    },
+    {
+      "name": "Hedonic",
+      "role": "Potential B2B buildout/marketing vendor, not patient-facing competitor."
+    }
+  ],
+  "adjacent": [
+    {
+      "name": "Hone",
+      "role": "Hormone/longevity benchmark, not same GLP-1 SKU in this map.",
+      "source": "https://honehealth.com/"
+    },
+    {
+      "name": "Evernow",
+      "role": "Menopause benchmark; replace face set if menopause chosen.",
+      "source": "https://www.evernow.com/"
+    }
+  ],
+  "speakable": "A flexible care brand built around clear decisions, costs and next steps\u2014not a promise of better medicine.",
+  "rerun_when": [
+    "Niche/state footprint selected",
+    "Partner confirms clinical/support/pricing control",
+    "Buyer interviews validate latent need",
+    "Pilot produces comprehension/handoff proof",
+    "Competitor offer changes"
+  ],
+  "sources": [
+    {
+      "id": "ro",
+      "url": "https://ro.co/weight-loss/pricing/",
+      "accessed": "2026-11-07 PST"
+    },
+    {
+      "id": "mochi",
+      "url": "https://joinmochi.com/",
+      "accessed": "2026-11-07 PST"
+    },
+    {
+      "id": "hone",
+      "url": "https://honehealth.com/",
+      "accessed": "2026-11-07 PST"
+    },
+    {
+      "id": "evernow",
+      "url": "https://www.evernow.com/",
+      "accessed": "2026-11-07 PST"
+    },
+    {
+      "id": "uspto",
+      "url": "https://www.uspto.gov/trademarks/search",
+      "accessed": "2026-11-07 PST"
+    },
+    {
+      "id": "tmsearch",
+      "url": "https://tmsearch.uspto.gov/",
+      "accessed": "2026-11-07 PST"
+    },
+    {
+      "id": "bootstrap",
+      "url": "https://data.iana.org/rdap/dns.json",
+      "accessed": "2026-11-07 PST"
+    },
+    {
+      "id": "revero",
+      "url": "https://www.revero.com/",
+      "accessed": "2026-11-07 PST"
+    },
+    {
+      "id": "planvero",
+      "url": "https://planvero.dk/en/",
+      "accessed": "2026-11-07 PST"
+    },
+    {
+      "id": "rilora",
+      "url": "https://rilorarevivalroom.com/",
+      "accessed": "2026-11-07 PST"
+    },
+    {
+      "id": "aven",
+      "url": "https://www.avenhealth.co.uk/",
+      "accessed": "2026-11-07 PST"
+    },
+    {
+      "id": "clearline",
+      "url": "https://www.clearline.care/",
+      "accessed": "2026-11-07 PST"
+    }
+  ],
+  "skill_provenance": {
+    "status": "FOUND: exact general competitive-attribute skill",
+    "name": "casemap",
+    "repository": "david2026ai/symos-skills",
+    "branch": "cursor/casemap-skill-bcd8",
+    "commit": "615de3d1f619c5bf6bf65e406ccb38a7f0ee9a07",
+    "path": "skills/casemap/SKILL.md",
+    "url": "https://github.com/david2026ai/symos-skills/blob/615de3d1f619c5bf6bf65e406ccb38a7f0ee9a07/skills/casemap/SKILL.md",
+    "supporting_documents_read": [
+      "skills/casemap/METHODOLOGY.md",
+      "skills/casemap/schema.yaml"
+    ],
+    "discovered_via": "Scale-Your-Marketing/symos @ 57398a0660196a20ba540398319862110195c12f, skills/casemap/POINTER.md",
+    "matching_excerpt": "Competitive attribute map (casemap) for any vertical or business project. Forces a 1\u20135 attribute scorecard of Us vs 2\u20134 face competitors",
+    "framework": [
+      "Discover customer needs and industry value-adds, including latent needs",
+      "Select 5\u20138 scored attributes traced to needs",
+      "Score Us vs 2\u20134 face competitors, 1\u20135, evidence/confidence per cell",
+      "Identify Focus and Breaker with moat honesty",
+      "Specify 3\u20137 give-ups and resource reallocation",
+      "Persist YAML and readable Markdown, plus Canvas graphic"
+    ],
+    "no_repository_changes": true,
+    "naming_status": "Preliminary name and public .com RDAP research preserved; no naming Page yet, no registrar availability confirmed, no trademark clearance."
+  }
+}
