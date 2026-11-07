@@ -1,7 +1,7 @@
 # Hormone & Peptide Clinic Marketing Pack
 
 ## Where to resume
-Shared documents in this repository govern continuity across Cursor and Grok Bot. Before planning, read the latest remote [current state](docs/alignment/CURRENT.md), the latest dated [start here](backups/2026-11-07/START-HERE.md), [handoff](backups/2026-11-07/handoff.md), and the [chat transcript](backups/2026-11-07/chat/conversation.md), then the MyDose research and recorded CaseMap provenance. Operating rules: [ALIGNMENT.md](ALIGNMENT.md). The November 7, 2026 backup is a fixed snapshot, not a live or future sync. The paragraphs below are unchanged pack text. `MANIFEST.sha256` is refreshed for this README only; the archive digest already recorded in Repository status stays the pre-clarification README digest.
+Shared documents in this repository govern continuity across Cursor and Grok Bot. Before planning, read the latest remote [current state](docs/alignment/CURRENT.md), the **launch pack** [start here](backups/2026-11-07-launch/START-HERE.md) + [inventory](backups/2026-11-07-launch/INVENTORY.md), the morning immutable [start here](backups/2026-11-07/START-HERE.md), [handoff](backups/2026-11-07/handoff.md), and the [chat transcript](backups/2026-11-07/chat/conversation.md) plus [post-snapshot addendum](backups/2026-11-07-launch/chat/conversation-addendum.md), then the MyDose research and recorded CaseMap provenance. Operating rules: [ALIGNMENT.md](ALIGNMENT.md). Private GitHub mirror: https://github.com/david2026ai/peptide-clinic-research (secondary to Origin). The November 7, 2026 morning backup is a fixed snapshot; the `2026-11-07-launch` pack is an additive launch inventory. The paragraphs below are unchanged pack text. `MANIFEST.sha256` is refreshed for this README only; the archive digest already recorded in Repository status stays the pre-clarification README digest.
 
 **DRAFT v0.1 — research snapshot November 6, 2026 PST.** Reusable instruction copies for a configurable U.S. clinic project. This directory began as an authoring handoff and now sits in a private draft repository. It is not an installed global skill, clinical protocol, advertising authorization, or legal opinion. Nothing was published, purchased, sent, or changed in an ad account. No clinical partner, patient niche, or launch state is selected. All copy remains draft research, not clinical or legal approval, and not a claim of launch readiness.
 
@@ -28,6 +28,8 @@ The validated 21-file archive was unpacked at this repository root on November 6
 | Healthcare creative briefs, hooks, Mode A/B/C/D variants | `skills/clinic-creative-healthcare/SKILL.md` |
 | Audience targeting, geo/age, sensitive-health measurement matrix | `skills/clinic-audience-targeting/SKILL.md` |
 | Industry offers/pricing/competitors/LS ads deep dive (2026-11-07) | `docs/research/industry-ads-legitscript-deep-dive.md` |
+| MVP brand + audience/offers | `docs/branding/mvp-plan.md`, `docs/branding/mvp-audience-offers.md` |
+| Full launch backup inventory | `backups/2026-11-07-launch/START-HERE.md` |
 
 `exports/` contains concise Markdown knowledge exports of the two delivered strategy Pages, with exact links, key economics and caveats. These are historical project context, not reusable mandates. The recommendation to explore menopause first does **not** fix the business model for every future clinic. The pack supports TRT, menopause, obesity care and peptide education/review; legal/evidence/platform eligibility is evaluated separately for each.
 
